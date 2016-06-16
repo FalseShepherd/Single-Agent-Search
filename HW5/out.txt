@@ -1,0 +1,10601 @@
+map
+
+start: 10 113 goal: 11 112
+Farthest spaced:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+Random pivots:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+
+start: 10 129 goal: 7 129
+Farthest spaced:
+Nodes expanded: 3
+Solution cost: 3
+time: 0 ms
+Random pivots:
+Nodes expanded: 3
+Solution cost: 3
+time: 0 ms
+
+start: 10 77 goal: 8 78
+Farthest spaced:
+Nodes expanded: 2
+Solution cost: 2
+time: 0 ms
+Random pivots:
+Nodes expanded: 2
+Solution cost: 2
+time: 0 ms
+
+start: 100 17 goal: 101 17
+Farthest spaced:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+Random pivots:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+
+start: 100 41 goal: 102 44
+Farthest spaced:
+Nodes expanded: 3
+Solution cost: 3
+time: 0 ms
+Random pivots:
+Nodes expanded: 3
+Solution cost: 3
+time: 0 ms
+
+start: 100 47 goal: 100 44
+Farthest spaced:
+Nodes expanded: 3
+Solution cost: 3
+time: 0 ms
+Random pivots:
+Nodes expanded: 3
+Solution cost: 3
+time: 0 ms
+
+start: 101 16 goal: 99 16
+Farthest spaced:
+Nodes expanded: 2
+Solution cost: 2
+time: 0 ms
+Random pivots:
+Nodes expanded: 2
+Solution cost: 2
+time: 0 ms
+
+start: 101 40 goal: 101 41
+Farthest spaced:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+Random pivots:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+
+start: 102 152 goal: 100 154
+Farthest spaced:
+Nodes expanded: 2
+Solution cost: 2
+time: 0 ms
+Random pivots:
+Nodes expanded: 2
+Solution cost: 2
+time: 0 ms
+
+start: 102 29 goal: 102 28
+Farthest spaced:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+Random pivots:
+Nodes expanded: 1
+Solution cost: 1
+time: 0 ms
+
+start: 10 109 goal: 14 107
+Farthest spaced:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+Random pivots:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+
+start: 10 121 goal: 16 121
+Farthest spaced:
+Nodes expanded: 6
+Solution cost: 6
+time: 0 ms
+Random pivots:
+Nodes expanded: 9
+Solution cost: 6
+time: 0 ms
+
+start: 100 115 goal: 93 114
+Farthest spaced:
+Nodes expanded: 8
+Solution cost: 7
+time: 0 ms
+Random pivots:
+Nodes expanded: 8
+Solution cost: 7
+time: 0 ms
+
+start: 100 15 goal: 105 16
+Farthest spaced:
+Nodes expanded: 5
+Solution cost: 5
+time: 0 ms
+Random pivots:
+Nodes expanded: 5
+Solution cost: 5
+time: 0 ms
+
+start: 100 186 goal: 96 189
+Farthest spaced:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+Random pivots:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+
+start: 100 93 goal: 101 90
+Farthest spaced:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+Random pivots:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+
+start: 101 15 goal: 104 10
+Farthest spaced:
+Nodes expanded: 5
+Solution cost: 5
+time: 0 ms
+Random pivots:
+Nodes expanded: 5
+Solution cost: 5
+time: 0 ms
+
+start: 101 17 goal: 100 24
+Farthest spaced:
+Nodes expanded: 7
+Solution cost: 7
+time: 0 ms
+Random pivots:
+Nodes expanded: 7
+Solution cost: 7
+time: 0 ms
+
+start: 101 171 goal: 105 168
+Farthest spaced:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+Random pivots:
+Nodes expanded: 4
+Solution cost: 4
+time: 0 ms
+
+start: 101 179 goal: 96 182
+Farthest spaced:
+Nodes expanded: 5
+Solution cost: 5
+time: 0 ms
+Random pivots:
+Nodes expanded: 5
+Solution cost: 5
+time: 0 ms
+
+start: 10 69 goal: 17 76
+Farthest spaced:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+Random pivots:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+
+start: 10 78 goal: 18 76
+Farthest spaced:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+Random pivots:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+
+start: 10 84 goal: 19 77
+Farthest spaced:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+Random pivots:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+
+start: 100 105 goal: 91 112
+Farthest spaced:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+Random pivots:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+
+start: 100 141 goal: 96 149
+Farthest spaced:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+Random pivots:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+
+start: 100 148 goal: 104 157
+Farthest spaced:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+Random pivots:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+
+start: 100 153 goal: 109 159
+Farthest spaced:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+Random pivots:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+
+start: 100 154 goal: 108 158
+Farthest spaced:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+Random pivots:
+Nodes expanded: 8
+Solution cost: 8
+time: 0 ms
+
+start: 100 173 goal: 91 180
+Farthest spaced:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+Random pivots:
+Nodes expanded: 9
+Solution cost: 9
+time: 0 ms
+
+start: 100 177 goal: 90 177
+Farthest spaced:
+Nodes expanded: 10
+Solution cost: 10
+time: 0 ms
+Random pivots:
+Nodes expanded: 10
+Solution cost: 10
+time: 0 ms
+
+start: 10 127 goal: 2 117
+Farthest spaced:
+Nodes expanded: 20
+Solution cost: 13
+time: 0 ms
+Random pivots:
+Nodes expanded: 20
+Solution cost: 13
+time: 0 ms
+
+start: 10 65 goal: 14 76
+Farthest spaced:
+Nodes expanded: 11
+Solution cost: 11
+time: 0 ms
+Random pivots:
+Nodes expanded: 11
+Solution cost: 11
+time: 0 ms
+
+start: 10 75 goal: 2 81
+Farthest spaced:
+Nodes expanded: 18
+Solution cost: 12
+time: 0 ms
+Random pivots:
+Nodes expanded: 18
+Solution cost: 12
+time: 0 ms
+
+start: 100 103 goal: 106 91
+Farthest spaced:
+Nodes expanded: 13
+Solution cost: 13
+time: 0 ms
+Random pivots:
+Nodes expanded: 13
+Solution cost: 13
+time: 0 ms
+
+start: 100 110 goal: 87 107
+Farthest spaced:
+Nodes expanded: 13
+Solution cost: 13
+time: 0 ms
+Random pivots:
+Nodes expanded: 13
+Solution cost: 13
+time: 0 ms
+
+start: 100 144 goal: 111 152
+Farthest spaced:
+Nodes expanded: 11
+Solution cost: 11
+time: 0 ms
+Random pivots:
+Nodes expanded: 11
+Solution cost: 11
+time: 0 ms
+
+start: 100 153 goal: 111 164
+Farthest spaced:
+Nodes expanded: 11
+Solution cost: 11
+time: 0 ms
+Random pivots:
+Nodes expanded: 11
+Solution cost: 11
+time: 0 ms
+
+start: 100 180 goal: 94 168
+Farthest spaced:
+Nodes expanded: 12
+Solution cost: 12
+time: 0 ms
+Random pivots:
+Nodes expanded: 12
+Solution cost: 12
+time: 0 ms
+
+start: 100 183 goal: 85 182
+Farthest spaced:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+Random pivots:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+
+start: 100 23 goal: 93 11
+Farthest spaced:
+Nodes expanded: 12
+Solution cost: 12
+time: 0 ms
+Random pivots:
+Nodes expanded: 12
+Solution cost: 12
+time: 0 ms
+
+start: 10 104 goal: 25 105
+Farthest spaced:
+Nodes expanded: 17
+Solution cost: 16
+time: 0 ms
+Random pivots:
+Nodes expanded: 17
+Solution cost: 16
+time: 0 ms
+
+start: 10 108 goal: 27 107
+Farthest spaced:
+Nodes expanded: 17
+Solution cost: 17
+time: 0 ms
+Random pivots:
+Nodes expanded: 17
+Solution cost: 17
+time: 0 ms
+
+start: 10 73 goal: 21 61
+Farthest spaced:
+Nodes expanded: 21
+Solution cost: 16
+time: 0 ms
+Random pivots:
+Nodes expanded: 21
+Solution cost: 16
+time: 0 ms
+
+start: 10 74 goal: 28 73
+Farthest spaced:
+Nodes expanded: 19
+Solution cost: 18
+time: 0 ms
+Random pivots:
+Nodes expanded: 19
+Solution cost: 18
+time: 0 ms
+
+start: 10 91 goal: 19 76
+Farthest spaced:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+Random pivots:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+
+start: 10 94 goal: 15 80
+Farthest spaced:
+Nodes expanded: 14
+Solution cost: 14
+time: 0 ms
+Random pivots:
+Nodes expanded: 14
+Solution cost: 14
+time: 0 ms
+
+start: 100 142 goal: 91 157
+Farthest spaced:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+Random pivots:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+
+start: 100 15 goal: 90 30
+Farthest spaced:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+Random pivots:
+Nodes expanded: 15
+Solution cost: 15
+time: 0 ms
+
+start: 100 152 goal: 107 166
+Farthest spaced:
+Nodes expanded: 14
+Solution cost: 14
+time: 0 ms
+Random pivots:
+Nodes expanded: 14
+Solution cost: 14
+time: 0 ms
+
+start: 100 166 goal: 107 152
+Farthest spaced:
+Nodes expanded: 14
+Solution cost: 14
+time: 0 ms
+Random pivots:
+Nodes expanded: 14
+Solution cost: 14
+time: 0 ms
+
+start: 10 132 goal: 8 111
+Farthest spaced:
+Nodes expanded: 21
+Solution cost: 21
+time: 0 ms
+Random pivots:
+Nodes expanded: 21
+Solution cost: 21
+time: 0 ms
+
+start: 10 60 goal: 23 76
+Farthest spaced:
+Nodes expanded: 28
+Solution cost: 19
+time: 0 ms
+Random pivots:
+Nodes expanded: 28
+Solution cost: 19
+time: 0 ms
+
+start: 10 91 goal: 16 70
+Farthest spaced:
+Nodes expanded: 21
+Solution cost: 21
+time: 0 ms
+Random pivots:
+Nodes expanded: 21
+Solution cost: 21
+time: 0 ms
+
+start: 100 103 goal: 106 85
+Farthest spaced:
+Nodes expanded: 19
+Solution cost: 19
+time: 0 ms
+Random pivots:
+Nodes expanded: 19
+Solution cost: 19
+time: 0 ms
+
+start: 100 108 goal: 113 91
+Farthest spaced:
+Nodes expanded: 17
+Solution cost: 17
+time: 0 ms
+Random pivots:
+Nodes expanded: 17
+Solution cost: 17
+time: 0 ms
+
+start: 100 146 goal: 120 152
+Farthest spaced:
+Nodes expanded: 20
+Solution cost: 20
+time: 0 ms
+Random pivots:
+Nodes expanded: 20
+Solution cost: 20
+time: 0 ms
+
+start: 100 148 goal: 80 142
+Farthest spaced:
+Nodes expanded: 20
+Solution cost: 20
+time: 0 ms
+Random pivots:
+Nodes expanded: 20
+Solution cost: 20
+time: 0 ms
+
+start: 100 149 goal: 81 154
+Farthest spaced:
+Nodes expanded: 19
+Solution cost: 19
+time: 0 ms
+Random pivots:
+Nodes expanded: 19
+Solution cost: 19
+time: 0 ms
+
+start: 100 161 goal: 108 179
+Farthest spaced:
+Nodes expanded: 18
+Solution cost: 18
+time: 0 ms
+Random pivots:
+Nodes expanded: 18
+Solution cost: 18
+time: 0 ms
+
+start: 100 163 goal: 77 162
+Farthest spaced:
+Nodes expanded: 24
+Solution cost: 23
+time: 0 ms
+Random pivots:
+Nodes expanded: 24
+Solution cost: 23
+time: 0 ms
+
+start: 10 118 goal: 31 120
+Farthest spaced:
+Nodes expanded: 29
+Solution cost: 23
+time: 0 ms
+Random pivots:
+Nodes expanded: 32
+Solution cost: 23
+time: 0 ms
+
+start: 10 60 goal: 33 64
+Farthest spaced:
+Nodes expanded: 24
+Solution cost: 23
+time: 0 ms
+Random pivots:
+Nodes expanded: 24
+Solution cost: 23
+time: 0 ms
+
+start: 10 90 goal: 13 66
+Farthest spaced:
+Nodes expanded: 44
+Solution cost: 25
+time: 0 ms
+Random pivots:
+Nodes expanded: 50
+Solution cost: 25
+time: 0 ms
+
+start: 100 150 goal: 100 175
+Farthest spaced:
+Nodes expanded: 34
+Solution cost: 25
+time: 0 ms
+Random pivots:
+Nodes expanded: 34
+Solution cost: 25
+time: 0 ms
+
+start: 100 153 goal: 77 145
+Farthest spaced:
+Nodes expanded: 23
+Solution cost: 23
+time: 0 ms
+Random pivots:
+Nodes expanded: 23
+Solution cost: 23
+time: 0 ms
+
+start: 100 163 goal: 123 155
+Farthest spaced:
+Nodes expanded: 23
+Solution cost: 23
+time: 0 ms
+Random pivots:
+Nodes expanded: 23
+Solution cost: 23
+time: 0 ms
+
+start: 100 166 goal: 76 160
+Farthest spaced:
+Nodes expanded: 24
+Solution cost: 24
+time: 0 ms
+Random pivots:
+Nodes expanded: 24
+Solution cost: 24
+time: 0 ms
+
+start: 100 168 goal: 115 150
+Farthest spaced:
+Nodes expanded: 18
+Solution cost: 18
+time: 0 ms
+Random pivots:
+Nodes expanded: 18
+Solution cost: 18
+time: 0 ms
+
+start: 100 170 goal: 77 160
+Farthest spaced:
+Nodes expanded: 23
+Solution cost: 23
+time: 0 ms
+Random pivots:
+Nodes expanded: 23
+Solution cost: 23
+time: 0 ms
+
+start: 100 187 goal: 103 163
+Farthest spaced:
+Nodes expanded: 24
+Solution cost: 24
+time: 0 ms
+Random pivots:
+Nodes expanded: 24
+Solution cost: 24
+time: 0 ms
+
+start: 10 129 goal: 25 107
+Farthest spaced:
+Nodes expanded: 139
+Solution cost: 28
+time: 0 ms
+Random pivots:
+Nodes expanded: 139
+Solution cost: 28
+time: 0 ms
+
+start: 10 130 goal: 36 120
+Farthest spaced:
+Nodes expanded: 26
+Solution cost: 26
+time: 0 ms
+Random pivots:
+Nodes expanded: 26
+Solution cost: 26
+time: 0 ms
+
+start: 10 59 goal: 4 83
+Farthest spaced:
+Nodes expanded: 72
+Solution cost: 28
+time: 0 ms
+Random pivots:
+Nodes expanded: 75
+Solution cost: 28
+time: 0 ms
+
+start: 10 89 goal: 41 91
+Farthest spaced:
+Nodes expanded: 31
+Solution cost: 31
+time: 0 ms
+Random pivots:
+Nodes expanded: 31
+Solution cost: 31
+time: 0 ms
+
+start: 10 90 goal: 38 92
+Farthest spaced:
+Nodes expanded: 34
+Solution cost: 29
+time: 0 ms
+Random pivots:
+Nodes expanded: 65
+Solution cost: 29
+time: 0 ms
+
+start: 100 105 goal: 89 79
+Farthest spaced:
+Nodes expanded: 26
+Solution cost: 26
+time: 0 ms
+Random pivots:
+Nodes expanded: 26
+Solution cost: 26
+time: 0 ms
+
+start: 100 109 goal: 97 81
+Farthest spaced:
+Nodes expanded: 28
+Solution cost: 28
+time: 0 ms
+Random pivots:
+Nodes expanded: 28
+Solution cost: 28
+time: 0 ms
+
+start: 100 143 goal: 97 172
+Farthest spaced:
+Nodes expanded: 82
+Solution cost: 29
+time: 0 ms
+Random pivots:
+Nodes expanded: 82
+Solution cost: 29
+time: 0 ms
+
+start: 100 162 goal: 103 192
+Farthest spaced:
+Nodes expanded: 30
+Solution cost: 30
+time: 0 ms
+Random pivots:
+Nodes expanded: 30
+Solution cost: 30
+time: 0 ms
+
+start: 100 176 goal: 82 154
+Farthest spaced:
+Nodes expanded: 22
+Solution cost: 22
+time: 0 ms
+Random pivots:
+Nodes expanded: 22
+Solution cost: 22
+time: 0 ms
+
+start: 10 111 goal: 34 122
+Farthest spaced:
+Nodes expanded: 149
+Solution cost: 33
+time: 0 ms
+Random pivots:
+Nodes expanded: 149
+Solution cost: 33
+time: 0 ms
+
+start: 10 125 goal: 39 117
+Farthest spaced:
+Nodes expanded: 29
+Solution cost: 29
+time: 0 ms
+Random pivots:
+Nodes expanded: 29
+Solution cost: 29
+time: 0 ms
+
+start: 10 127 goal: 36 146
+Farthest spaced:
+Nodes expanded: 26
+Solution cost: 26
+time: 0 ms
+Random pivots:
+Nodes expanded: 26
+Solution cost: 26
+time: 0 ms
+
+start: 10 63 goal: 31 86
+Farthest spaced:
+Nodes expanded: 27
+Solution cost: 26
+time: 0 ms
+Random pivots:
+Nodes expanded: 27
+Solution cost: 26
+time: 0 ms
+
+start: 10 73 goal: 37 86
+Farthest spaced:
+Nodes expanded: 28
+Solution cost: 27
+time: 0 ms
+Random pivots:
+Nodes expanded: 28
+Solution cost: 27
+time: 0 ms
+
+start: 10 74 goal: 44 73
+Farthest spaced:
+Nodes expanded: 65
+Solution cost: 34
+time: 0 ms
+Random pivots:
+Nodes expanded: 65
+Solution cost: 34
+time: 0 ms
+
+start: 100 11 goal: 102 46
+Farthest spaced:
+Nodes expanded: 35
+Solution cost: 35
+time: 0 ms
+Random pivots:
+Nodes expanded: 35
+Solution cost: 35
+time: 0 ms
+
+start: 100 11 goal: 104 44
+Farthest spaced:
+Nodes expanded: 33
+Solution cost: 33
+time: 0 ms
+Random pivots:
+Nodes expanded: 33
+Solution cost: 33
+time: 0 ms
+
+start: 100 149 goal: 92 177
+Farthest spaced:
+Nodes expanded: 45
+Solution cost: 32
+time: 0 ms
+Random pivots:
+Nodes expanded: 45
+Solution cost: 32
+time: 0 ms
+
+start: 100 153 goal: 76 171
+Farthest spaced:
+Nodes expanded: 35
+Solution cost: 26
+time: 0 ms
+Random pivots:
+Nodes expanded: 35
+Solution cost: 26
+time: 0 ms
+
+start: 10 103 goal: 25 128
+Farthest spaced:
+Nodes expanded: 163
+Solution cost: 33
+time: 0 ms
+Random pivots:
+Nodes expanded: 163
+Solution cost: 33
+time: 0 ms
+
+start: 10 109 goal: 45 99
+Farthest spaced:
+Nodes expanded: 47
+Solution cost: 35
+time: 0 ms
+Random pivots:
+Nodes expanded: 47
+Solution cost: 35
+time: 0 ms
+
+start: 10 133 goal: 27 111
+Farthest spaced:
+Nodes expanded: 272
+Solution cost: 34
+time: 1 ms
+Random pivots:
+Nodes expanded: 272
+Solution cost: 34
+time: 1 ms
+
+start: 100 105 goal: 80 76
+Farthest spaced:
+Nodes expanded: 30
+Solution cost: 30
+time: 0 ms
+Random pivots:
+Nodes expanded: 30
+Solution cost: 30
+time: 0 ms
+
+start: 100 106 goal: 80 75
+Farthest spaced:
+Nodes expanded: 31
+Solution cost: 31
+time: 0 ms
+Random pivots:
+Nodes expanded: 31
+Solution cost: 31
+time: 0 ms
+
+start: 100 141 goal: 134 131
+Farthest spaced:
+Nodes expanded: 61
+Solution cost: 34
+time: 0 ms
+Random pivots:
+Nodes expanded: 61
+Solution cost: 34
+time: 0 ms
+
+start: 100 166 goal: 77 138
+Farthest spaced:
+Nodes expanded: 32
+Solution cost: 31
+time: 0 ms
+Random pivots:
+Nodes expanded: 32
+Solution cost: 31
+time: 0 ms
+
+start: 100 172 goal: 115 141
+Farthest spaced:
+Nodes expanded: 31
+Solution cost: 31
+time: 0 ms
+Random pivots:
+Nodes expanded: 31
+Solution cost: 31
+time: 0 ms
+
+start: 100 177 goal: 64 168
+Farthest spaced:
+Nodes expanded: 36
+Solution cost: 36
+time: 0 ms
+Random pivots:
+Nodes expanded: 36
+Solution cost: 36
+time: 0 ms
+
+start: 100 178 goal: 118 146
+Farthest spaced:
+Nodes expanded: 33
+Solution cost: 32
+time: 0 ms
+Random pivots:
+Nodes expanded: 33
+Solution cost: 32
+time: 0 ms
+
+start: 10 109 goal: 47 100
+Farthest spaced:
+Nodes expanded: 61
+Solution cost: 37
+time: 0 ms
+Random pivots:
+Nodes expanded: 61
+Solution cost: 37
+time: 0 ms
+
+start: 10 113 goal: 49 117
+Farthest spaced:
+Nodes expanded: 70
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 70
+Solution cost: 39
+time: 0 ms
+
+start: 10 115 goal: 38 136
+Farthest spaced:
+Nodes expanded: 44
+Solution cost: 33
+time: 0 ms
+Random pivots:
+Nodes expanded: 44
+Solution cost: 33
+time: 0 ms
+
+start: 10 118 goal: 42 135
+Farthest spaced:
+Nodes expanded: 38
+Solution cost: 34
+time: 0 ms
+Random pivots:
+Nodes expanded: 38
+Solution cost: 34
+time: 0 ms
+
+start: 10 89 goal: 42 102
+Farthest spaced:
+Nodes expanded: 193
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 193
+Solution cost: 39
+time: 0 ms
+
+start: 10 91 goal: 46 73
+Farthest spaced:
+Nodes expanded: 40
+Solution cost: 38
+time: 0 ms
+Random pivots:
+Nodes expanded: 40
+Solution cost: 38
+time: 0 ms
+
+start: 100 101 goal: 70 78
+Farthest spaced:
+Nodes expanded: 32
+Solution cost: 32
+time: 0 ms
+Random pivots:
+Nodes expanded: 32
+Solution cost: 32
+time: 0 ms
+
+start: 100 144 goal: 96 183
+Farthest spaced:
+Nodes expanded: 81
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 81
+Solution cost: 39
+time: 0 ms
+
+start: 100 147 goal: 81 179
+Farthest spaced:
+Nodes expanded: 34
+Solution cost: 34
+time: 0 ms
+Random pivots:
+Nodes expanded: 35
+Solution cost: 34
+time: 0 ms
+
+start: 100 148 goal: 139 137
+Farthest spaced:
+Nodes expanded: 64
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 64
+Solution cost: 39
+time: 0 ms
+
+start: 10 121 goal: 46 130
+Farthest spaced:
+Nodes expanded: 93
+Solution cost: 37
+time: 0 ms
+Random pivots:
+Nodes expanded: 93
+Solution cost: 37
+time: 0 ms
+
+start: 10 63 goal: 46 85
+Farthest spaced:
+Nodes expanded: 70
+Solution cost: 41
+time: 0 ms
+Random pivots:
+Nodes expanded: 70
+Solution cost: 41
+time: 0 ms
+
+start: 100 149 goal: 132 125
+Farthest spaced:
+Nodes expanded: 136
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 136
+Solution cost: 39
+time: 0 ms
+
+start: 100 149 goal: 72 181
+Farthest spaced:
+Nodes expanded: 49
+Solution cost: 36
+time: 0 ms
+Random pivots:
+Nodes expanded: 52
+Solution cost: 36
+time: 0 ms
+
+start: 100 150 goal: 140 133
+Farthest spaced:
+Nodes expanded: 61
+Solution cost: 40
+time: 0 ms
+Random pivots:
+Nodes expanded: 61
+Solution cost: 40
+time: 0 ms
+
+start: 100 49 goal: 139 65
+Farthest spaced:
+Nodes expanded: 48
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 48
+Solution cost: 39
+time: 0 ms
+
+start: 100 49 goal: 140 60
+Farthest spaced:
+Nodes expanded: 49
+Solution cost: 40
+time: 0 ms
+Random pivots:
+Nodes expanded: 49
+Solution cost: 40
+time: 0 ms
+
+start: 100 50 goal: 135 69
+Farthest spaced:
+Nodes expanded: 58
+Solution cost: 38
+time: 0 ms
+Random pivots:
+Nodes expanded: 58
+Solution cost: 38
+time: 0 ms
+
+start: 100 7 goal: 92 48
+Farthest spaced:
+Nodes expanded: 41
+Solution cost: 41
+time: 0 ms
+Random pivots:
+Nodes expanded: 41
+Solution cost: 41
+time: 0 ms
+
+start: 101 102 goal: 74 66
+Farthest spaced:
+Nodes expanded: 39
+Solution cost: 38
+time: 0 ms
+Random pivots:
+Nodes expanded: 39
+Solution cost: 38
+time: 0 ms
+
+start: 10 112 goal: 41 85
+Farthest spaced:
+Nodes expanded: 201
+Solution cost: 47
+time: 0 ms
+Random pivots:
+Nodes expanded: 201
+Solution cost: 47
+time: 0 ms
+
+start: 10 84 goal: 42 109
+Farthest spaced:
+Nodes expanded: 183
+Solution cost: 46
+time: 0 ms
+Random pivots:
+Nodes expanded: 183
+Solution cost: 46
+time: 0 ms
+
+start: 100 161 goal: 138 129
+Farthest spaced:
+Nodes expanded: 38
+Solution cost: 38
+time: 0 ms
+Random pivots:
+Nodes expanded: 38
+Solution cost: 38
+time: 0 ms
+
+start: 100 167 goal: 55 177
+Farthest spaced:
+Nodes expanded: 80
+Solution cost: 45
+time: 0 ms
+Random pivots:
+Nodes expanded: 80
+Solution cost: 45
+time: 0 ms
+
+start: 100 170 goal: 122 132
+Farthest spaced:
+Nodes expanded: 44
+Solution cost: 38
+time: 0 ms
+Random pivots:
+Nodes expanded: 44
+Solution cost: 38
+time: 0 ms
+
+start: 100 39 goal: 137 67
+Farthest spaced:
+Nodes expanded: 39
+Solution cost: 37
+time: 0 ms
+Random pivots:
+Nodes expanded: 39
+Solution cost: 37
+time: 0 ms
+
+start: 100 50 goal: 142 68
+Farthest spaced:
+Nodes expanded: 52
+Solution cost: 42
+time: 0 ms
+Random pivots:
+Nodes expanded: 52
+Solution cost: 42
+time: 0 ms
+
+start: 101 149 goal: 83 189
+Farthest spaced:
+Nodes expanded: 59
+Solution cost: 45
+time: 0 ms
+Random pivots:
+Nodes expanded: 59
+Solution cost: 45
+time: 0 ms
+
+start: 101 164 goal: 139 141
+Farthest spaced:
+Nodes expanded: 39
+Solution cost: 39
+time: 0 ms
+Random pivots:
+Nodes expanded: 39
+Solution cost: 39
+time: 0 ms
+
+start: 101 45 goal: 140 72
+Farthest spaced:
+Nodes expanded: 43
+Solution cost: 40
+time: 0 ms
+Random pivots:
+Nodes expanded: 43
+Solution cost: 40
+time: 0 ms
+
+start: 10 114 goal: 38 84
+Farthest spaced:
+Nodes expanded: 213
+Solution cost: 48
+time: 1 ms
+Random pivots:
+Nodes expanded: 213
+Solution cost: 48
+time: 0 ms
+
+start: 10 86 goal: 52 109
+Farthest spaced:
+Nodes expanded: 155
+Solution cost: 46
+time: 0 ms
+Random pivots:
+Nodes expanded: 155
+Solution cost: 46
+time: 0 ms
+
+start: 10 91 goal: 29 108
+Farthest spaced:
+Nodes expanded: 246
+Solution cost: 50
+time: 0 ms
+Random pivots:
+Nodes expanded: 438
+Solution cost: 50
+time: 2 ms
+
+start: 10 91 goal: 44 116
+Farthest spaced:
+Nodes expanded: 229
+Solution cost: 53
+time: 0 ms
+Random pivots:
+Nodes expanded: 233
+Solution cost: 53
+time: 0 ms
+
+start: 100 111 goal: 71 71
+Farthest spaced:
+Nodes expanded: 45
+Solution cost: 41
+time: 0 ms
+Random pivots:
+Nodes expanded: 45
+Solution cost: 41
+time: 0 ms
+
+start: 100 39 goal: 145 46
+Farthest spaced:
+Nodes expanded: 296
+Solution cost: 45
+time: 1 ms
+Random pivots:
+Nodes expanded: 309
+Solution cost: 45
+time: 1 ms
+
+start: 100 8 goal: 123 49
+Farthest spaced:
+Nodes expanded: 131
+Solution cost: 47
+time: 0 ms
+Random pivots:
+Nodes expanded: 131
+Solution cost: 47
+time: 0 ms
+
+start: 100 83 goal: 57 58
+Farthest spaced:
+Nodes expanded: 49
+Solution cost: 43
+time: 0 ms
+Random pivots:
+Nodes expanded: 49
+Solution cost: 43
+time: 0 ms
+
+start: 101 111 goal: 66 75
+Farthest spaced:
+Nodes expanded: 106
+Solution cost: 45
+time: 0 ms
+Random pivots:
+Nodes expanded: 107
+Solution cost: 45
+time: 0 ms
+
+start: 101 146 goal: 82 191
+Farthest spaced:
+Nodes expanded: 48
+Solution cost: 47
+time: 0 ms
+Random pivots:
+Nodes expanded: 48
+Solution cost: 47
+time: 0 ms
+
+start: 10 102 goal: 25 88
+Farthest spaced:
+Nodes expanded: 262
+Solution cost: 54
+time: 1 ms
+Random pivots:
+Nodes expanded: 446
+Solution cost: 54
+time: 1 ms
+
+start: 10 58 goal: 60 68
+Farthest spaced:
+Nodes expanded: 101
+Solution cost: 50
+time: 0 ms
+Random pivots:
+Nodes expanded: 106
+Solution cost: 50
+time: 0 ms
+
+start: 10 65 goal: 48 55
+Farthest spaced:
+Nodes expanded: 54
+Solution cost: 54
+time: 0 ms
+Random pivots:
+Nodes expanded: 54
+Solution cost: 54
+time: 0 ms
+
+start: 10 73 goal: 60 58
+Farthest spaced:
+Nodes expanded: 181
+Solution cost: 51
+time: 0 ms
+Random pivots:
+Nodes expanded: 181
+Solution cost: 51
+time: 0 ms
+
+start: 10 76 goal: 45 110
+Farthest spaced:
+Nodes expanded: 232
+Solution cost: 51
+time: 1 ms
+Random pivots:
+Nodes expanded: 232
+Solution cost: 51
+time: 0 ms
+
+start: 10 77 goal: 50 109
+Farthest spaced:
+Nodes expanded: 172
+Solution cost: 49
+time: 0 ms
+Random pivots:
+Nodes expanded: 172
+Solution cost: 49
+time: 0 ms
+
+start: 10 85 goal: 29 112
+Farthest spaced:
+Nodes expanded: 378
+Solution cost: 51
+time: 1 ms
+Random pivots:
+Nodes expanded: 513
+Solution cost: 51
+time: 2 ms
+
+start: 10 88 goal: 54 59
+Farthest spaced:
+Nodes expanded: 179
+Solution cost: 52
+time: 0 ms
+Random pivots:
+Nodes expanded: 179
+Solution cost: 52
+time: 0 ms
+
+start: 10 89 goal: 24 105
+Farthest spaced:
+Nodes expanded: 199
+Solution cost: 55
+time: 0 ms
+Random pivots:
+Nodes expanded: 609
+Solution cost: 55
+time: 2 ms
+
+start: 100 143 goal: 58 182
+Farthest spaced:
+Nodes expanded: 42
+Solution cost: 42
+time: 0 ms
+Random pivots:
+Nodes expanded: 42
+Solution cost: 42
+time: 0 ms
+
+start: 10 118 goal: 29 86
+Farthest spaced:
+Nodes expanded: 251
+Solution cost: 54
+time: 1 ms
+Random pivots:
+Nodes expanded: 471
+Solution cost: 54
+time: 2 ms
+
+start: 10 125 goal: 61 138
+Farthest spaced:
+Nodes expanded: 171
+Solution cost: 52
+time: 0 ms
+Random pivots:
+Nodes expanded: 171
+Solution cost: 52
+time: 0 ms
+
+start: 10 64 goal: 65 63
+Farthest spaced:
+Nodes expanded: 250
+Solution cost: 55
+time: 1 ms
+Random pivots:
+Nodes expanded: 251
+Solution cost: 55
+time: 1 ms
+
+start: 10 92 goal: 31 120
+Farthest spaced:
+Nodes expanded: 281
+Solution cost: 58
+time: 1 ms
+Random pivots:
+Nodes expanded: 316
+Solution cost: 58
+time: 1 ms
+
+start: 10 92 goal: 45 121
+Farthest spaced:
+Nodes expanded: 241
+Solution cost: 58
+time: 0 ms
+Random pivots:
+Nodes expanded: 266
+Solution cost: 58
+time: 0 ms
+
+start: 100 105 goal: 60 62
+Farthest spaced:
+Nodes expanded: 45
+Solution cost: 45
+time: 0 ms
+Random pivots:
+Nodes expanded: 45
+Solution cost: 45
+time: 0 ms
+
+start: 100 168 goal: 148 139
+Farthest spaced:
+Nodes expanded: 56
+Solution cost: 51
+time: 0 ms
+Random pivots:
+Nodes expanded: 54
+Solution cost: 51
+time: 0 ms
+
+start: 100 42 goal: 148 59
+Farthest spaced:
+Nodes expanded: 137
+Solution cost: 55
+time: 0 ms
+Random pivots:
+Nodes expanded: 367
+Solution cost: 55
+time: 2 ms
+
+start: 100 48 goal: 143 82
+Farthest spaced:
+Nodes expanded: 116
+Solution cost: 51
+time: 0 ms
+Random pivots:
+Nodes expanded: 116
+Solution cost: 51
+time: 0 ms
+
+start: 100 51 goal: 141 81
+Farthest spaced:
+Nodes expanded: 119
+Solution cost: 50
+time: 0 ms
+Random pivots:
+Nodes expanded: 119
+Solution cost: 50
+time: 0 ms
+
+start: 10 60 goal: 49 105
+Farthest spaced:
+Nodes expanded: 70
+Solution cost: 53
+time: 0 ms
+Random pivots:
+Nodes expanded: 70
+Solution cost: 53
+time: 0 ms
+
+start: 10 64 goal: 38 56
+Farthest spaced:
+Nodes expanded: 390
+Solution cost: 58
+time: 1 ms
+Random pivots:
+Nodes expanded: 707
+Solution cost: 58
+time: 3 ms
+
+start: 10 74 goal: 51 48
+Farthest spaced:
+Nodes expanded: 309
+Solution cost: 61
+time: 1 ms
+Random pivots:
+Nodes expanded: 309
+Solution cost: 61
+time: 1 ms
+
+start: 10 76 goal: 25 112
+Farthest spaced:
+Nodes expanded: 514
+Solution cost: 57
+time: 2 ms
+Random pivots:
+Nodes expanded: 760
+Solution cost: 57
+time: 3 ms
+
+start: 10 88 goal: 18 104
+Farthest spaced:
+Nodes expanded: 205
+Solution cost: 61
+time: 0 ms
+Random pivots:
+Nodes expanded: 695
+Solution cost: 61
+time: 3 ms
+
+start: 10 92 goal: 44 55
+Farthest spaced:
+Nodes expanded: 279
+Solution cost: 55
+time: 1 ms
+Random pivots:
+Nodes expanded: 279
+Solution cost: 55
+time: 1 ms
+
+start: 100 12 goal: 129 65
+Farthest spaced:
+Nodes expanded: 58
+Solution cost: 55
+time: 0 ms
+Random pivots:
+Nodes expanded: 58
+Solution cost: 55
+time: 0 ms
+
+start: 100 143 goal: 143 107
+Farthest spaced:
+Nodes expanded: 197
+Solution cost: 57
+time: 1 ms
+Random pivots:
+Nodes expanded: 197
+Solution cost: 57
+time: 1 ms
+
+start: 100 143 goal: 152 112
+Farthest spaced:
+Nodes expanded: 66
+Solution cost: 52
+time: 0 ms
+Random pivots:
+Nodes expanded: 66
+Solution cost: 52
+time: 0 ms
+
+start: 100 164 goal: 48 128
+Farthest spaced:
+Nodes expanded: 52
+Solution cost: 52
+time: 0 ms
+Random pivots:
+Nodes expanded: 52
+Solution cost: 52
+time: 0 ms
+
+start: 10 121 goal: 23 91
+Farthest spaced:
+Nodes expanded: 241
+Solution cost: 61
+time: 1 ms
+Random pivots:
+Nodes expanded: 692
+Solution cost: 61
+time: 3 ms
+
+start: 10 132 goal: 49 84
+Farthest spaced:
+Nodes expanded: 103
+Solution cost: 58
+time: 0 ms
+Random pivots:
+Nodes expanded: 103
+Solution cost: 58
+time: 0 ms
+
+start: 10 64 goal: 47 116
+Farthest spaced:
+Nodes expanded: 87
+Solution cost: 60
+time: 0 ms
+Random pivots:
+Nodes expanded: 95
+Solution cost: 60
+time: 0 ms
+
+start: 10 69 goal: 75 67
+Farthest spaced:
+Nodes expanded: 146
+Solution cost: 65
+time: 0 ms
+Random pivots:
+Nodes expanded: 146
+Solution cost: 65
+time: 0 ms
+
+start: 10 76 goal: 40 44
+Farthest spaced:
+Nodes expanded: 576
+Solution cost: 65
+time: 2 ms
+Random pivots:
+Nodes expanded: 809
+Solution cost: 65
+time: 4 ms
+
+start: 10 93 goal: 46 51
+Farthest spaced:
+Nodes expanded: 174
+Solution cost: 59
+time: 0 ms
+Random pivots:
+Nodes expanded: 174
+Solution cost: 59
+time: 0 ms
+
+start: 100 102 goal: 50 57
+Farthest spaced:
+Nodes expanded: 54
+Solution cost: 53
+time: 0 ms
+Random pivots:
+Nodes expanded: 54
+Solution cost: 53
+time: 0 ms
+
+start: 100 110 goal: 56 63
+Farthest spaced:
+Nodes expanded: 101
+Solution cost: 55
+time: 0 ms
+Random pivots:
+Nodes expanded: 101
+Solution cost: 55
+time: 0 ms
+
+start: 100 145 goal: 158 125
+Farthest spaced:
+Nodes expanded: 517
+Solution cost: 63
+time: 3 ms
+Random pivots:
+Nodes expanded: 389
+Solution cost: 63
+time: 2 ms
+
+start: 100 149 goal: 147 106
+Farthest spaced:
+Nodes expanded: 180
+Solution cost: 58
+time: 0 ms
+Random pivots:
+Nodes expanded: 180
+Solution cost: 58
+time: 0 ms
+
+start: 10 108 goal: 57 66
+Farthest spaced:
+Nodes expanded: 272
+Solution cost: 66
+time: 1 ms
+Random pivots:
+Nodes expanded: 272
+Solution cost: 66
+time: 1 ms
+
+start: 10 108 goal: 58 68
+Farthest spaced:
+Nodes expanded: 255
+Solution cost: 65
+time: 1 ms
+Random pivots:
+Nodes expanded: 257
+Solution cost: 65
+time: 0 ms
+
+start: 10 112 goal: 12 84
+Farthest spaced:
+Nodes expanded: 365
+Solution cost: 67
+time: 1 ms
+Random pivots:
+Nodes expanded: 597
+Solution cost: 67
+time: 2 ms
+
+start: 10 117 goal: 49 68
+Farthest spaced:
+Nodes expanded: 238
+Solution cost: 65
+time: 1 ms
+Random pivots:
+Nodes expanded: 238
+Solution cost: 65
+time: 1 ms
+
+start: 10 126 goal: 41 76
+Farthest spaced:
+Nodes expanded: 254
+Solution cost: 66
+time: 1 ms
+Random pivots:
+Nodes expanded: 284
+Solution cost: 66
+time: 1 ms
+
+start: 10 127 goal: 49 76
+Farthest spaced:
+Nodes expanded: 335
+Solution cost: 67
+time: 1 ms
+Random pivots:
+Nodes expanded: 335
+Solution cost: 67
+time: 1 ms
+
+start: 10 128 goal: 24 91
+Farthest spaced:
+Nodes expanded: 344
+Solution cost: 65
+time: 1 ms
+Random pivots:
+Nodes expanded: 890
+Solution cost: 65
+time: 4 ms
+
+start: 10 129 goal: 22 91
+Farthest spaced:
+Nodes expanded: 343
+Solution cost: 67
+time: 1 ms
+Random pivots:
+Nodes expanded: 896
+Solution cost: 67
+time: 4 ms
+
+start: 10 133 goal: 36 79
+Farthest spaced:
+Nodes expanded: 202
+Solution cost: 63
+time: 0 ms
+Random pivots:
+Nodes expanded: 212
+Solution cost: 63
+time: 0 ms
+
+start: 10 59 goal: 29 111
+Farthest spaced:
+Nodes expanded: 301
+Solution cost: 58
+time: 1 ms
+Random pivots:
+Nodes expanded: 490
+Solution cost: 58
+time: 2 ms
+
+start: 10 111 goal: 13 77
+Farthest spaced:
+Nodes expanded: 430
+Solution cost: 71
+time: 1 ms
+Random pivots:
+Nodes expanded: 642
+Solution cost: 71
+time: 2 ms
+
+start: 10 122 goal: 76 145
+Farthest spaced:
+Nodes expanded: 336
+Solution cost: 66
+time: 1 ms
+Random pivots:
+Nodes expanded: 336
+Solution cost: 66
+time: 1 ms
+
+start: 10 132 goal: 26 81
+Farthest spaced:
+Nodes expanded: 380
+Solution cost: 66
+time: 1 ms
+Random pivots:
+Nodes expanded: 861
+Solution cost: 66
+time: 5 ms
+
+start: 100 146 goal: 169 125
+Farthest spaced:
+Nodes expanded: 313
+Solution cost: 69
+time: 1 ms
+Random pivots:
+Nodes expanded: 275
+Solution cost: 69
+time: 1 ms
+
+start: 100 147 goal: 140 159
+Farthest spaced:
+Nodes expanded: 577
+Solution cost: 68
+time: 3 ms
+Random pivots:
+Nodes expanded: 469
+Solution cost: 68
+time: 2 ms
+
+start: 100 16 goal: 144 42
+Farthest spaced:
+Nodes expanded: 452
+Solution cost: 65
+time: 2 ms
+Random pivots:
+Nodes expanded: 611
+Solution cost: 65
+time: 3 ms
+
+start: 100 167 goal: 147 159
+Farthest spaced:
+Nodes expanded: 229
+Solution cost: 63
+time: 1 ms
+Random pivots:
+Nodes expanded: 439
+Solution cost: 63
+time: 2 ms
+
+start: 100 172 goal: 138 110
+Farthest spaced:
+Nodes expanded: 62
+Solution cost: 62
+time: 0 ms
+Random pivots:
+Nodes expanded: 62
+Solution cost: 62
+time: 0 ms
+
+start: 100 36 goal: 167 44
+Farthest spaced:
+Nodes expanded: 342
+Solution cost: 67
+time: 1 ms
+Random pivots:
+Nodes expanded: 342
+Solution cost: 67
+time: 1 ms
+
+start: 101 103 goal: 56 43
+Farthest spaced:
+Nodes expanded: 65
+Solution cost: 63
+time: 0 ms
+Random pivots:
+Nodes expanded: 65
+Solution cost: 63
+time: 0 ms
+
+start: 10 109 goal: 46 60
+Farthest spaced:
+Nodes expanded: 377
+Solution cost: 73
+time: 2 ms
+Random pivots:
+Nodes expanded: 391
+Solution cost: 73
+time: 2 ms
+
+start: 10 115 goal: 14 70
+Farthest spaced:
+Nodes expanded: 397
+Solution cost: 69
+time: 1 ms
+Random pivots:
+Nodes expanded: 634
+Solution cost: 69
+time: 3 ms
+
+start: 10 116 goal: 61 69
+Farthest spaced:
+Nodes expanded: 218
+Solution cost: 68
+time: 0 ms
+Random pivots:
+Nodes expanded: 221
+Solution cost: 68
+time: 0 ms
+
+start: 10 122 goal: 49 65
+Farthest spaced:
+Nodes expanded: 266
+Solution cost: 73
+time: 1 ms
+Random pivots:
+Nodes expanded: 266
+Solution cost: 73
+time: 1 ms
+
+start: 10 128 goal: 22 75
+Farthest spaced:
+Nodes expanded: 730
+Solution cost: 70
+time: 4 ms
+Random pivots:
+Nodes expanded: 914
+Solution cost: 70
+time: 5 ms
+
+start: 10 134 goal: 69 155
+Farthest spaced:
+Nodes expanded: 366
+Solution cost: 74
+time: 2 ms
+Random pivots:
+Nodes expanded: 366
+Solution cost: 74
+time: 2 ms
+
+start: 10 64 goal: 27 121
+Farthest spaced:
+Nodes expanded: 457
+Solution cost: 68
+time: 2 ms
+Random pivots:
+Nodes expanded: 547
+Solution cost: 68
+time: 2 ms
+
+start: 10 85 goal: 25 48
+Farthest spaced:
+Nodes expanded: 857
+Solution cost: 71
+time: 4 ms
+Random pivots:
+Nodes expanded: 1172
+Solution cost: 71
+time: 7 ms
+
+start: 10 85 goal: 4 113
+Farthest spaced:
+Nodes expanded: 509
+Solution cost: 75
+time: 2 ms
+Random pivots:
+Nodes expanded: 867
+Solution cost: 75
+time: 4 ms
+
+start: 100 106 goal: 43 54
+Farthest spaced:
+Nodes expanded: 133
+Solution cost: 68
+time: 0 ms
+Random pivots:
+Nodes expanded: 133
+Solution cost: 68
+time: 0 ms
+
+start: 10 116 goal: 64 66
+Farthest spaced:
+Nodes expanded: 220
+Solution cost: 71
+time: 1 ms
+Random pivots:
+Nodes expanded: 220
+Solution cost: 71
+time: 1 ms
+
+start: 10 119 goal: 80 139
+Farthest spaced:
+Nodes expanded: 272
+Solution cost: 71
+time: 1 ms
+Random pivots:
+Nodes expanded: 272
+Solution cost: 71
+time: 1 ms
+
+start: 10 121 goal: 18 69
+Farthest spaced:
+Nodes expanded: 638
+Solution cost: 70
+time: 3 ms
+Random pivots:
+Nodes expanded: 790
+Solution cost: 70
+time: 4 ms
+
+start: 10 124 goal: 53 64
+Farthest spaced:
+Nodes expanded: 315
+Solution cost: 76
+time: 1 ms
+Random pivots:
+Nodes expanded: 315
+Solution cost: 76
+time: 1 ms
+
+start: 10 130 goal: 67 158
+Farthest spaced:
+Nodes expanded: 492
+Solution cost: 76
+time: 2 ms
+Random pivots:
+Nodes expanded: 492
+Solution cost: 76
+time: 2 ms
+
+start: 10 130 goal: 78 155
+Farthest spaced:
+Nodes expanded: 358
+Solution cost: 73
+time: 1 ms
+Random pivots:
+Nodes expanded: 358
+Solution cost: 73
+time: 1 ms
+
+start: 10 132 goal: 67 157
+Farthest spaced:
+Nodes expanded: 480
+Solution cost: 75
+time: 2 ms
+Random pivots:
+Nodes expanded: 480
+Solution cost: 75
+time: 2 ms
+
+start: 10 62 goal: 35 32
+Farthest spaced:
+Nodes expanded: 632
+Solution cost: 77
+time: 3 ms
+Random pivots:
+Nodes expanded: 777
+Solution cost: 77
+time: 3 ms
+
+start: 10 65 goal: 52 29
+Farthest spaced:
+Nodes expanded: 410
+Solution cost: 80
+time: 1 ms
+Random pivots:
+Nodes expanded: 623
+Solution cost: 80
+time: 3 ms
+
+start: 10 87 goal: 7 122
+Farthest spaced:
+Nodes expanded: 593
+Solution cost: 75
+time: 2 ms
+Random pivots:
+Nodes expanded: 778
+Solution cost: 75
+time: 4 ms
+
+start: 10 104 goal: 11 59
+Farthest spaced:
+Nodes expanded: 419
+Solution cost: 78
+time: 1 ms
+Random pivots:
+Nodes expanded: 540
+Solution cost: 78
+time: 2 ms
+
+start: 10 109 goal: 71 68
+Farthest spaced:
+Nodes expanded: 222
+Solution cost: 78
+time: 1 ms
+Random pivots:
+Nodes expanded: 222
+Solution cost: 78
+time: 1 ms
+
+start: 10 118 goal: 10 69
+Farthest spaced:
+Nodes expanded: 670
+Solution cost: 75
+time: 3 ms
+Random pivots:
+Nodes expanded: 794
+Solution cost: 75
+time: 4 ms
+
+start: 10 120 goal: 18 61
+Farthest spaced:
+Nodes expanded: 694
+Solution cost: 77
+time: 3 ms
+Random pivots:
+Nodes expanded: 773
+Solution cost: 77
+time: 4 ms
+
+start: 10 130 goal: 7 92
+Farthest spaced:
+Nodes expanded: 357
+Solution cost: 82
+time: 1 ms
+Random pivots:
+Nodes expanded: 764
+Solution cost: 82
+time: 3 ms
+
+start: 10 132 goal: 54 67
+Farthest spaced:
+Nodes expanded: 113
+Solution cost: 75
+time: 0 ms
+Random pivots:
+Nodes expanded: 113
+Solution cost: 75
+time: 0 ms
+
+start: 10 66 goal: 33 30
+Farthest spaced:
+Nodes expanded: 757
+Solution cost: 79
+time: 4 ms
+Random pivots:
+Nodes expanded: 891
+Solution cost: 79
+time: 4 ms
+
+start: 10 76 goal: 42 24
+Farthest spaced:
+Nodes expanded: 613
+Solution cost: 85
+time: 3 ms
+Random pivots:
+Nodes expanded: 895
+Solution cost: 85
+time: 5 ms
+
+start: 10 84 goal: 49 26
+Farthest spaced:
+Nodes expanded: 136
+Solution cost: 83
+time: 0 ms
+Random pivots:
+Nodes expanded: 726
+Solution cost: 83
+time: 4 ms
+
+start: 10 89 goal: 26 39
+Farthest spaced:
+Nodes expanded: 736
+Solution cost: 75
+time: 3 ms
+Random pivots:
+Nodes expanded: 1140
+Solution cost: 75
+time: 6 ms
+
+start: 10 108 goal: 54 45
+Farthest spaced:
+Nodes expanded: 280
+Solution cost: 87
+time: 1 ms
+Random pivots:
+Nodes expanded: 288
+Solution cost: 87
+time: 1 ms
+
+start: 10 112 goal: 37 53
+Farthest spaced:
+Nodes expanded: 645
+Solution cost: 84
+time: 3 ms
+Random pivots:
+Nodes expanded: 881
+Solution cost: 84
+time: 5 ms
+
+start: 10 114 goal: 68 157
+Farthest spaced:
+Nodes expanded: 445
+Solution cost: 81
+time: 2 ms
+Random pivots:
+Nodes expanded: 445
+Solution cost: 81
+time: 2 ms
+
+start: 10 121 goal: 67 62
+Farthest spaced:
+Nodes expanded: 265
+Solution cost: 79
+time: 1 ms
+Random pivots:
+Nodes expanded: 265
+Solution cost: 79
+time: 1 ms
+
+start: 10 128 goal: 81 163
+Farthest spaced:
+Nodes expanded: 480
+Solution cost: 81
+time: 2 ms
+Random pivots:
+Nodes expanded: 480
+Solution cost: 81
+time: 2 ms
+
+start: 10 133 goal: 82 162
+Farthest spaced:
+Nodes expanded: 478
+Solution cost: 80
+time: 2 ms
+Random pivots:
+Nodes expanded: 478
+Solution cost: 80
+time: 2 ms
+
+start: 10 59 goal: 89 85
+Farthest spaced:
+Nodes expanded: 309
+Solution cost: 79
+time: 1 ms
+Random pivots:
+Nodes expanded: 307
+Solution cost: 79
+time: 1 ms
+
+start: 10 62 goal: 6 110
+Farthest spaced:
+Nodes expanded: 486
+Solution cost: 81
+time: 2 ms
+Random pivots:
+Nodes expanded: 1068
+Solution cost: 81
+time: 6 ms
+
+start: 10 69 goal: 16 129
+Farthest spaced:
+Nodes expanded: 649
+Solution cost: 76
+time: 3 ms
+Random pivots:
+Nodes expanded: 833
+Solution cost: 76
+time: 4 ms
+
+start: 10 88 goal: 33 31
+Farthest spaced:
+Nodes expanded: 757
+Solution cost: 78
+time: 4 ms
+Random pivots:
+Nodes expanded: 1156
+Solution cost: 79
+time: 7 ms
+
+start: 10 108 goal: 29 53
+Farthest spaced:
+Nodes expanded: 797
+Solution cost: 90
+time: 4 ms
+Random pivots:
+Nodes expanded: 1293
+Solution cost: 90
+time: 8 ms
+
+start: 10 109 goal: 78 74
+Farthest spaced:
+Nodes expanded: 567
+Solution cost: 85
+time: 3 ms
+Random pivots:
+Nodes expanded: 580
+Solution cost: 85
+time: 2 ms
+
+start: 10 119 goal: 84 160
+Farthest spaced:
+Nodes expanded: 342
+Solution cost: 79
+time: 2 ms
+Random pivots:
+Nodes expanded: 342
+Solution cost: 79
+time: 2 ms
+
+start: 10 120 goal: 81 164
+Farthest spaced:
+Nodes expanded: 464
+Solution cost: 82
+time: 2 ms
+Random pivots:
+Nodes expanded: 453
+Solution cost: 82
+time: 2 ms
+
+start: 10 125 goal: 53 54
+Farthest spaced:
+Nodes expanded: 342
+Solution cost: 87
+time: 1 ms
+Random pivots:
+Nodes expanded: 342
+Solution cost: 87
+time: 1 ms
+
+start: 10 129 goal: 91 158
+Farthest spaced:
+Nodes expanded: 344
+Solution cost: 81
+time: 1 ms
+Random pivots:
+Nodes expanded: 344
+Solution cost: 81
+time: 1 ms
+
+start: 10 130 goal: 68 67
+Farthest spaced:
+Nodes expanded: 204
+Solution cost: 85
+time: 1 ms
+Random pivots:
+Nodes expanded: 203
+Solution cost: 85
+time: 0 ms
+
+start: 10 130 goal: 75 168
+Farthest spaced:
+Nodes expanded: 523
+Solution cost: 86
+time: 2 ms
+Random pivots:
+Nodes expanded: 523
+Solution cost: 86
+time: 2 ms
+
+start: 10 134 goal: 17 67
+Farthest spaced:
+Nodes expanded: 758
+Solution cost: 78
+time: 4 ms
+Random pivots:
+Nodes expanded: 950
+Solution cost: 78
+time: 5 ms
+
+start: 10 65 goal: 34 137
+Farthest spaced:
+Nodes expanded: 84
+Solution cost: 84
+time: 0 ms
+Random pivots:
+Nodes expanded: 84
+Solution cost: 84
+time: 0 ms
+
+start: 10 115 goal: 46 39
+Farthest spaced:
+Nodes expanded: 283
+Solution cost: 93
+time: 1 ms
+Random pivots:
+Nodes expanded: 367
+Solution cost: 93
+time: 1 ms
+
+start: 10 120 goal: 75 71
+Farthest spaced:
+Nodes expanded: 447
+Solution cost: 86
+time: 2 ms
+Random pivots:
+Nodes expanded: 453
+Solution cost: 86
+time: 2 ms
+
+start: 10 120 goal: 98 150
+Farthest spaced:
+Nodes expanded: 348
+Solution cost: 88
+time: 1 ms
+Random pivots:
+Nodes expanded: 348
+Solution cost: 88
+time: 1 ms
+
+start: 10 125 goal: 84 167
+Farthest spaced:
+Nodes expanded: 544
+Solution cost: 85
+time: 2 ms
+Random pivots:
+Nodes expanded: 530
+Solution cost: 85
+time: 2 ms
+
+start: 10 61 goal: 8 124
+Farthest spaced:
+Nodes expanded: 685
+Solution cost: 85
+time: 3 ms
+Random pivots:
+Nodes expanded: 1043
+Solution cost: 85
+time: 6 ms
+
+start: 10 66 goal: 36 138
+Farthest spaced:
+Nodes expanded: 524
+Solution cost: 85
+time: 3 ms
+Random pivots:
+Nodes expanded: 524
+Solution cost: 85
+time: 3 ms
+
+start: 10 89 goal: 84 97
+Farthest spaced:
+Nodes expanded: 1024
+Solution cost: 86
+time: 6 ms
+Random pivots:
+Nodes expanded: 1081
+Solution cost: 86
+time: 6 ms
+
+start: 100 111 goal: 30 48
+Farthest spaced:
+Nodes expanded: 197
+Solution cost: 81
+time: 1 ms
+Random pivots:
+Nodes expanded: 197
+Solution cost: 81
+time: 1 ms
+
+start: 100 114 goal: 43 93
+Farthest spaced:
+Nodes expanded: 696
+Solution cost: 81
+time: 4 ms
+Random pivots:
+Nodes expanded: 696
+Solution cost: 81
+time: 4 ms
+
+start: 100 114 goal: 45 93
+Farthest spaced:
+Nodes expanded: 636
+Solution cost: 81
+time: 3 ms
+Random pivots:
+Nodes expanded: 636
+Solution cost: 81
+time: 3 ms
+
+start: 10 118 goal: 58 40
+Farthest spaced:
+Nodes expanded: 304
+Solution cost: 94
+time: 1 ms
+Random pivots:
+Nodes expanded: 316
+Solution cost: 94
+time: 1 ms
+
+start: 10 119 goal: 86 169
+Farthest spaced:
+Nodes expanded: 519
+Solution cost: 88
+time: 3 ms
+Random pivots:
+Nodes expanded: 520
+Solution cost: 88
+time: 3 ms
+
+start: 10 125 goal: 37 54
+Farthest spaced:
+Nodes expanded: 1111
+Solution cost: 92
+time: 8 ms
+Random pivots:
+Nodes expanded: 1357
+Solution cost: 92
+time: 10 ms
+
+start: 100 102 goal: 39 22
+Farthest spaced:
+Nodes expanded: 82
+Solution cost: 82
+time: 0 ms
+Random pivots:
+Nodes expanded: 82
+Solution cost: 82
+time: 0 ms
+
+start: 100 107 goal: 23 91
+Farthest spaced:
+Nodes expanded: 799
+Solution cost: 83
+time: 4 ms
+Random pivots:
+Nodes expanded: 921
+Solution cost: 83
+time: 5 ms
+
+start: 100 110 goal: 22 77
+Farthest spaced:
+Nodes expanded: 374
+Solution cost: 89
+time: 1 ms
+Random pivots:
+Nodes expanded: 503
+Solution cost: 89
+time: 2 ms
+
+start: 100 110 goal: 32 34
+Farthest spaced:
+Nodes expanded: 80
+Solution cost: 79
+time: 0 ms
+Random pivots:
+Nodes expanded: 80
+Solution cost: 79
+time: 0 ms
+
+start: 100 146 goal: 162 81
+Farthest spaced:
+Nodes expanded: 420
+Solution cost: 90
+time: 2 ms
+Random pivots:
+Nodes expanded: 420
+Solution cost: 90
+time: 2 ms
+
+start: 100 149 goal: 189 109
+Farthest spaced:
+Nodes expanded: 113
+Solution cost: 89
+time: 0 ms
+Random pivots:
+Nodes expanded: 113
+Solution cost: 89
+time: 0 ms
+
+start: 100 152 goal: 150 74
+Farthest spaced:
+Nodes expanded: 240
+Solution cost: 90
+time: 1 ms
+Random pivots:
+Nodes expanded: 240
+Solution cost: 90
+time: 1 ms
+
+start: 10 104 goal: 22 41
+Farthest spaced:
+Nodes expanded: 941
+Solution cost: 98
+time: 6 ms
+Random pivots:
+Nodes expanded: 1596
+Solution cost: 98
+time: 12 ms
+
+start: 10 110 goal: 81 167
+Farthest spaced:
+Nodes expanded: 617
+Solution cost: 95
+time: 3 ms
+Random pivots:
+Nodes expanded: 563
+Solution cost: 95
+time: 3 ms
+
+start: 10 125 goal: 30 52
+Farthest spaced:
+Nodes expanded: 1347
+Solution cost: 98
+time: 11 ms
+Random pivots:
+Nodes expanded: 1765
+Solution cost: 98
+time: 15 ms
+
+start: 10 134 goal: 52 45
+Farthest spaced:
+Nodes expanded: 126
+Solution cost: 98
+time: 0 ms
+Random pivots:
+Nodes expanded: 126
+Solution cost: 98
+time: 0 ms
+
+start: 10 60 goal: 38 135
+Farthest spaced:
+Nodes expanded: 519
+Solution cost: 91
+time: 3 ms
+Random pivots:
+Nodes expanded: 519
+Solution cost: 91
+time: 3 ms
+
+start: 10 65 goal: 106 82
+Farthest spaced:
+Nodes expanded: 627
+Solution cost: 98
+time: 3 ms
+Random pivots:
+Nodes expanded: 627
+Solution cost: 98
+time: 3 ms
+
+start: 10 67 goal: 93 104
+Farthest spaced:
+Nodes expanded: 1153
+Solution cost: 94
+time: 7 ms
+Random pivots:
+Nodes expanded: 1185
+Solution cost: 94
+time: 7 ms
+
+start: 10 68 goal: 107 88
+Farthest spaced:
+Nodes expanded: 759
+Solution cost: 97
+time: 4 ms
+Random pivots:
+Nodes expanded: 758
+Solution cost: 97
+time: 4 ms
+
+start: 100 107 goal: 49 112
+Farthest spaced:
+Nodes expanded: 425
+Solution cost: 93
+time: 2 ms
+Random pivots:
+Nodes expanded: 448
+Solution cost: 93
+time: 2 ms
+
+start: 100 108 goal: 15 63
+Farthest spaced:
+Nodes expanded: 364
+Solution cost: 96
+time: 1 ms
+Random pivots:
+Nodes expanded: 364
+Solution cost: 96
+time: 1 ms
+
+start: 10 102 goal: 74 161
+Farthest spaced:
+Nodes expanded: 570
+Solution cost: 97
+time: 3 ms
+Random pivots:
+Nodes expanded: 570
+Solution cost: 97
+time: 3 ms
+
+start: 10 109 goal: 25 39
+Farthest spaced:
+Nodes expanded: 775
+Solution cost: 98
+time: 4 ms
+Random pivots:
+Nodes expanded: 1363
+Solution cost: 98
+time: 9 ms
+
+start: 10 114 goal: 37 33
+Farthest spaced:
+Nodes expanded: 726
+Solution cost: 99
+time: 4 ms
+Random pivots:
+Nodes expanded: 1049
+Solution cost: 99
+time: 6 ms
+
+start: 10 117 goal: 95 172
+Farthest spaced:
+Nodes expanded: 358
+Solution cost: 93
+time: 1 ms
+Random pivots:
+Nodes expanded: 358
+Solution cost: 93
+time: 1 ms
+
+start: 10 134 goal: 70 79
+Farthest spaced:
+Nodes expanded: 869
+Solution cost: 96
+time: 5 ms
+Random pivots:
+Nodes expanded: 1300
+Solution cost: 96
+time: 9 ms
+
+start: 10 94 goal: 105 87
+Farthest spaced:
+Nodes expanded: 805
+Solution cost: 95
+time: 4 ms
+Random pivots:
+Nodes expanded: 804
+Solution cost: 95
+time: 4 ms
+
+start: 100 143 goal: 50 112
+Farthest spaced:
+Nodes expanded: 1198
+Solution cost: 99
+time: 8 ms
+Random pivots:
+Nodes expanded: 1186
+Solution cost: 99
+time: 8 ms
+
+start: 100 149 goal: 16 113
+Farthest spaced:
+Nodes expanded: 834
+Solution cost: 100
+time: 5 ms
+Random pivots:
+Nodes expanded: 837
+Solution cost: 100
+time: 4 ms
+
+start: 100 149 goal: 161 69
+Farthest spaced:
+Nodes expanded: 276
+Solution cost: 95
+time: 1 ms
+Random pivots:
+Nodes expanded: 276
+Solution cost: 95
+time: 1 ms
+
+start: 100 161 goal: 162 76
+Farthest spaced:
+Nodes expanded: 116
+Solution cost: 90
+time: 0 ms
+Random pivots:
+Nodes expanded: 116
+Solution cost: 90
+time: 0 ms
+
+start: 10 108 goal: 104 143
+Farthest spaced:
+Nodes expanded: 448
+Solution cost: 106
+time: 2 ms
+Random pivots:
+Nodes expanded: 448
+Solution cost: 106
+time: 2 ms
+
+start: 10 132 goal: 112 164
+Farthest spaced:
+Nodes expanded: 365
+Solution cost: 102
+time: 1 ms
+Random pivots:
+Nodes expanded: 365
+Solution cost: 102
+time: 1 ms
+
+start: 10 60 goal: 112 92
+Farthest spaced:
+Nodes expanded: 341
+Solution cost: 103
+time: 1 ms
+Random pivots:
+Nodes expanded: 341
+Solution cost: 103
+time: 1 ms
+
+start: 100 10 goal: 151 105
+Farthest spaced:
+Nodes expanded: 102
+Solution cost: 97
+time: 0 ms
+Random pivots:
+Nodes expanded: 102
+Solution cost: 97
+time: 0 ms
+
+start: 100 111 goal: 10 63
+Farthest spaced:
+Nodes expanded: 415
+Solution cost: 101
+time: 2 ms
+Random pivots:
+Nodes expanded: 415
+Solution cost: 101
+time: 2 ms
+
+start: 100 142 goal: 171 68
+Farthest spaced:
+Nodes expanded: 296
+Solution cost: 101
+time: 1 ms
+Random pivots:
+Nodes expanded: 296
+Solution cost: 101
+time: 1 ms
+
+start: 100 150 goal: 19 111
+Farthest spaced:
+Nodes expanded: 1232
+Solution cost: 103
+time: 8 ms
+Random pivots:
+Nodes expanded: 1233
+Solution cost: 103
+time: 8 ms
+
+start: 100 161 goal: 45 111
+Farthest spaced:
+Nodes expanded: 1025
+Solution cost: 98
+time: 7 ms
+Random pivots:
+Nodes expanded: 1025
+Solution cost: 98
+time: 7 ms
+
+start: 100 169 goal: 161 80
+Farthest spaced:
+Nodes expanded: 184
+Solution cost: 94
+time: 1 ms
+Random pivots:
+Nodes expanded: 184
+Solution cost: 94
+time: 1 ms
+
+start: 100 177 goal: 9 124
+Farthest spaced:
+Nodes expanded: 286
+Solution cost: 96
+time: 1 ms
+Random pivots:
+Nodes expanded: 286
+Solution cost: 96
+time: 1 ms
+
+start: 10 114 goal: 94 86
+Farthest spaced:
+Nodes expanded: 932
+Solution cost: 101
+time: 6 ms
+Random pivots:
+Nodes expanded: 1005
+Solution cost: 101
+time: 6 ms
+
+start: 10 118 goal: 37 28
+Farthest spaced:
+Nodes expanded: 730
+Solution cost: 106
+time: 4 ms
+Random pivots:
+Nodes expanded: 1102
+Solution cost: 106
+time: 7 ms
+
+start: 10 119 goal: 36 27
+Farthest spaced:
+Nodes expanded: 728
+Solution cost: 108
+time: 4 ms
+Random pivots:
+Nodes expanded: 1131
+Solution cost: 108
+time: 7 ms
+
+start: 10 123 goal: 33 33
+Farthest spaced:
+Nodes expanded: 1102
+Solution cost: 106
+time: 7 ms
+Random pivots:
+Nodes expanded: 1494
+Solution cost: 106
+time: 11 ms
+
+start: 10 127 goal: 23 45
+Farthest spaced:
+Nodes expanded: 1547
+Solution cost: 106
+time: 12 ms
+Random pivots:
+Nodes expanded: 2146
+Solution cost: 106
+time: 19 ms
+
+start: 10 128 goal: 90 187
+Farthest spaced:
+Nodes expanded: 762
+Solution cost: 105
+time: 4 ms
+Random pivots:
+Nodes expanded: 764
+Solution cost: 105
+time: 4 ms
+
+start: 10 134 goal: 111 171
+Farthest spaced:
+Nodes expanded: 400
+Solution cost: 102
+time: 2 ms
+Random pivots:
+Nodes expanded: 400
+Solution cost: 102
+time: 1 ms
+
+start: 10 77 goal: 102 112
+Farthest spaced:
+Nodes expanded: 1345
+Solution cost: 103
+time: 9 ms
+Random pivots:
+Nodes expanded: 1345
+Solution cost: 103
+time: 9 ms
+
+start: 100 141 goal: 181 79
+Farthest spaced:
+Nodes expanded: 550
+Solution cost: 109
+time: 3 ms
+Random pivots:
+Nodes expanded: 550
+Solution cost: 109
+time: 3 ms
+
+start: 100 145 goal: 19 103
+Farthest spaced:
+Nodes expanded: 1201
+Solution cost: 107
+time: 8 ms
+Random pivots:
+Nodes expanded: 1201
+Solution cost: 107
+time: 8 ms
+
+start: 10 117 goal: 81 187
+Farthest spaced:
+Nodes expanded: 799
+Solution cost: 108
+time: 4 ms
+Random pivots:
+Nodes expanded: 805
+Solution cost: 108
+time: 4 ms
+
+start: 10 120 goal: 88 189
+Farthest spaced:
+Nodes expanded: 773
+Solution cost: 107
+time: 4 ms
+Random pivots:
+Nodes expanded: 775
+Solution cost: 107
+time: 4 ms
+
+start: 10 121 goal: 78 189
+Farthest spaced:
+Nodes expanded: 740
+Solution cost: 108
+time: 3 ms
+Random pivots:
+Nodes expanded: 795
+Solution cost: 108
+time: 4 ms
+
+start: 10 121 goal: 80 95
+Farthest spaced:
+Nodes expanded: 1198
+Solution cost: 106
+time: 8 ms
+Random pivots:
+Nodes expanded: 1526
+Solution cost: 106
+time: 11 ms
+
+start: 10 126 goal: 81 192
+Farthest spaced:
+Nodes expanded: 748
+Solution cost: 110
+time: 4 ms
+Random pivots:
+Nodes expanded: 757
+Solution cost: 110
+time: 4 ms
+
+start: 100 102 goal: 17 107
+Farthest spaced:
+Nodes expanded: 482
+Solution cost: 103
+time: 2 ms
+Random pivots:
+Nodes expanded: 1178
+Solution cost: 103
+time: 8 ms
+
+start: 100 110 goal: 43 121
+Farthest spaced:
+Nodes expanded: 928
+Solution cost: 105
+time: 5 ms
+Random pivots:
+Nodes expanded: 928
+Solution cost: 105
+time: 5 ms
+
+start: 100 114 goal: 8 67
+Farthest spaced:
+Nodes expanded: 393
+Solution cost: 105
+time: 2 ms
+Random pivots:
+Nodes expanded: 394
+Solution cost: 105
+time: 2 ms
+
+start: 100 144 goal: 151 58
+Farthest spaced:
+Nodes expanded: 737
+Solution cost: 107
+time: 5 ms
+Random pivots:
+Nodes expanded: 737
+Solution cost: 107
+time: 5 ms
+
+start: 100 15 goal: 174 89
+Farthest spaced:
+Nodes expanded: 435
+Solution cost: 103
+time: 2 ms
+Random pivots:
+Nodes expanded: 514
+Solution cost: 103
+time: 2 ms
+
+start: 10 102 goal: 99 100
+Farthest spaced:
+Nodes expanded: 952
+Solution cost: 109
+time: 6 ms
+Random pivots:
+Nodes expanded: 1065
+Solution cost: 109
+time: 6 ms
+
+start: 10 110 goal: 62 185
+Farthest spaced:
+Nodes expanded: 862
+Solution cost: 113
+time: 5 ms
+Random pivots:
+Nodes expanded: 1194
+Solution cost: 113
+time: 7 ms
+
+start: 10 113 goal: 92 185
+Farthest spaced:
+Nodes expanded: 850
+Solution cost: 110
+time: 5 ms
+Random pivots:
+Nodes expanded: 852
+Solution cost: 110
+time: 5 ms
+
+start: 10 114 goal: 111 166
+Farthest spaced:
+Nodes expanded: 464
+Solution cost: 107
+time: 2 ms
+Random pivots:
+Nodes expanded: 464
+Solution cost: 107
+time: 2 ms
+
+start: 10 116 goal: 102 183
+Farthest spaced:
+Nodes expanded: 502
+Solution cost: 105
+time: 2 ms
+Random pivots:
+Nodes expanded: 502
+Solution cost: 105
+time: 2 ms
+
+start: 10 124 goal: 93 91
+Farthest spaced:
+Nodes expanded: 1579
+Solution cost: 108
+time: 12 ms
+Random pivots:
+Nodes expanded: 1660
+Solution cost: 108
+time: 13 ms
+
+start: 100 1 goal: 178 82
+Farthest spaced:
+Nodes expanded: 353
+Solution cost: 110
+time: 1 ms
+Random pivots:
+Nodes expanded: 366
+Solution cost: 110
+time: 1 ms
+
+start: 100 143 goal: 42 92
+Farthest spaced:
+Nodes expanded: 1077
+Solution cost: 116
+time: 7 ms
+Random pivots:
+Nodes expanded: 1077
+Solution cost: 116
+time: 7 ms
+
+start: 100 147 goal: 132 52
+Farthest spaced:
+Nodes expanded: 623
+Solution cost: 112
+time: 3 ms
+Random pivots:
+Nodes expanded: 623
+Solution cost: 112
+time: 3 ms
+
+start: 100 149 goal: 46 94
+Farthest spaced:
+Nodes expanded: 1194
+Solution cost: 114
+time: 8 ms
+Random pivots:
+Nodes expanded: 1194
+Solution cost: 114
+time: 8 ms
+
+start: 10 104 goal: 108 89
+Farthest spaced:
+Nodes expanded: 924
+Solution cost: 116
+time: 6 ms
+Random pivots:
+Nodes expanded: 973
+Solution cost: 116
+time: 6 ms
+
+start: 10 108 goal: 109 163
+Farthest spaced:
+Nodes expanded: 778
+Solution cost: 111
+time: 4 ms
+Random pivots:
+Nodes expanded: 778
+Solution cost: 111
+time: 4 ms
+
+start: 10 115 goal: 109 84
+Farthest spaced:
+Nodes expanded: 897
+Solution cost: 116
+time: 5 ms
+Random pivots:
+Nodes expanded: 958
+Solution cost: 116
+time: 5 ms
+
+start: 10 121 goal: 94 96
+Farthest spaced:
+Nodes expanded: 1442
+Solution cost: 109
+time: 11 ms
+Random pivots:
+Nodes expanded: 1537
+Solution cost: 109
+time: 11 ms
+
+start: 10 94 goal: 74 145
+Farthest spaced:
+Nodes expanded: 1196
+Solution cost: 119
+time: 9 ms
+Random pivots:
+Nodes expanded: 1196
+Solution cost: 119
+time: 10 ms
+
+start: 100 147 goal: 170 88
+Farthest spaced:
+Nodes expanded: 976
+Solution cost: 115
+time: 7 ms
+Random pivots:
+Nodes expanded: 1273
+Solution cost: 115
+time: 10 ms
+
+start: 100 166 goal: 44 96
+Farthest spaced:
+Nodes expanded: 1057
+Solution cost: 112
+time: 8 ms
+Random pivots:
+Nodes expanded: 1057
+Solution cost: 112
+time: 8 ms
+
+start: 100 17 goal: 143 129
+Farthest spaced:
+Nodes expanded: 152
+Solution cost: 114
+time: 1 ms
+Random pivots:
+Nodes expanded: 152
+Solution cost: 114
+time: 1 ms
+
+start: 100 170 goal: 21 106
+Farthest spaced:
+Nodes expanded: 1063
+Solution cost: 105
+time: 7 ms
+Random pivots:
+Nodes expanded: 1051
+Solution cost: 105
+time: 7 ms
+
+start: 100 178 goal: 24 108
+Farthest spaced:
+Nodes expanded: 1128
+Solution cost: 113
+time: 8 ms
+Random pivots:
+Nodes expanded: 1076
+Solution cost: 113
+time: 8 ms
+
+start: 10 104 goal: 97 174
+Farthest spaced:
+Nodes expanded: 951
+Solution cost: 110
+time: 6 ms
+Random pivots:
+Nodes expanded: 951
+Solution cost: 110
+time: 6 ms
+
+start: 10 119 goal: 108 83
+Farthest spaced:
+Nodes expanded: 1064
+Solution cost: 118
+time: 7 ms
+Random pivots:
+Nodes expanded: 1103
+Solution cost: 118
+time: 7 ms
+
+start: 10 93 goal: 76 148
+Farthest spaced:
+Nodes expanded: 1238
+Solution cost: 121
+time: 10 ms
+Random pivots:
+Nodes expanded: 1238
+Solution cost: 121
+time: 10 ms
+
+start: 100 107 goal: 10 110
+Farthest spaced:
+Nodes expanded: 557
+Solution cost: 113
+time: 3 ms
+Random pivots:
+Nodes expanded: 1246
+Solution cost: 113
+time: 8 ms
+
+start: 100 115 goal: 28 122
+Farthest spaced:
+Nodes expanded: 1090
+Solution cost: 113
+time: 7 ms
+Random pivots:
+Nodes expanded: 1093
+Solution cost: 113
+time: 6 ms
+
+start: 100 142 goal: 159 45
+Farthest spaced:
+Nodes expanded: 301
+Solution cost: 119
+time: 1 ms
+Random pivots:
+Nodes expanded: 312
+Solution cost: 119
+time: 2 ms
+
+start: 100 172 goal: 134 59
+Farthest spaced:
+Nodes expanded: 349
+Solution cost: 113
+time: 2 ms
+Random pivots:
+Nodes expanded: 376
+Solution cost: 113
+time: 2 ms
+
+start: 100 175 goal: 46 97
+Farthest spaced:
+Nodes expanded: 1195
+Solution cost: 114
+time: 9 ms
+Random pivots:
+Nodes expanded: 1195
+Solution cost: 114
+time: 9 ms
+
+start: 100 177 goal: 135 61
+Farthest spaced:
+Nodes expanded: 387
+Solution cost: 116
+time: 2 ms
+Random pivots:
+Nodes expanded: 387
+Solution cost: 116
+time: 2 ms
+
+start: 100 183 goal: 10 109
+Farthest spaced:
+Nodes expanded: 662
+Solution cost: 112
+time: 4 ms
+Random pivots:
+Nodes expanded: 662
+Solution cost: 112
+time: 4 ms
+
+start: 10 104 goal: 97 179
+Farthest spaced:
+Nodes expanded: 1025
+Solution cost: 115
+time: 7 ms
+Random pivots:
+Nodes expanded: 1025
+Solution cost: 115
+time: 6 ms
+
+start: 10 109 goal: 88 192
+Farthest spaced:
+Nodes expanded: 1022
+Solution cost: 121
+time: 6 ms
+Random pivots:
+Nodes expanded: 1024
+Solution cost: 121
+time: 6 ms
+
+start: 10 73 goal: 75 147
+Farthest spaced:
+Nodes expanded: 1446
+Solution cost: 123
+time: 12 ms
+Random pivots:
+Nodes expanded: 1446
+Solution cost: 123
+time: 12 ms
+
+start: 10 76 goal: 122 122
+Farthest spaced:
+Nodes expanded: 1086
+Solution cost: 117
+time: 7 ms
+Random pivots:
+Nodes expanded: 1086
+Solution cost: 117
+time: 6 ms
+
+start: 10 78 goal: 77 141
+Farthest spaced:
+Nodes expanded: 1240
+Solution cost: 125
+time: 10 ms
+Random pivots:
+Nodes expanded: 1240
+Solution cost: 125
+time: 9 ms
+
+start: 10 79 goal: 76 139
+Farthest spaced:
+Nodes expanded: 1059
+Solution cost: 126
+time: 8 ms
+Random pivots:
+Nodes expanded: 1151
+Solution cost: 126
+time: 8 ms
+
+start: 100 102 goal: 4 115
+Farthest spaced:
+Nodes expanded: 896
+Solution cost: 116
+time: 5 ms
+Random pivots:
+Nodes expanded: 1369
+Solution cost: 116
+time: 9 ms
+
+start: 100 104 goal: 22 134
+Farthest spaced:
+Nodes expanded: 1202
+Solution cost: 112
+time: 8 ms
+Random pivots:
+Nodes expanded: 1208
+Solution cost: 112
+time: 8 ms
+
+start: 100 111 goal: 12 115
+Farthest spaced:
+Nodes expanded: 888
+Solution cost: 115
+time: 5 ms
+Random pivots:
+Nodes expanded: 1268
+Solution cost: 115
+time: 9 ms
+
+start: 100 14 goal: 131 130
+Farthest spaced:
+Nodes expanded: 456
+Solution cost: 118
+time: 3 ms
+Random pivots:
+Nodes expanded: 456
+Solution cost: 118
+time: 3 ms
+
+start: 10 101 goal: 120 142
+Farthest spaced:
+Nodes expanded: 548
+Solution cost: 129
+time: 3 ms
+Random pivots:
+Nodes expanded: 548
+Solution cost: 129
+time: 3 ms
+
+start: 10 125 goal: 139 130
+Farthest spaced:
+Nodes expanded: 853
+Solution cost: 129
+time: 5 ms
+Random pivots:
+Nodes expanded: 853
+Solution cost: 129
+time: 4 ms
+
+start: 10 77 goal: 125 125
+Farthest spaced:
+Nodes expanded: 1172
+Solution cost: 120
+time: 8 ms
+Random pivots:
+Nodes expanded: 1172
+Solution cost: 120
+time: 8 ms
+
+start: 100 104 goal: 27 143
+Farthest spaced:
+Nodes expanded: 1321
+Solution cost: 121
+time: 9 ms
+Random pivots:
+Nodes expanded: 1336
+Solution cost: 121
+time: 9 ms
+
+start: 100 14 goal: 134 136
+Farthest spaced:
+Nodes expanded: 346
+Solution cost: 123
+time: 2 ms
+Random pivots:
+Nodes expanded: 337
+Solution cost: 123
+time: 2 ms
+
+start: 100 174 goal: 129 54
+Farthest spaced:
+Nodes expanded: 601
+Solution cost: 120
+time: 4 ms
+Random pivots:
+Nodes expanded: 601
+Solution cost: 120
+time: 4 ms
+
+start: 100 175 goal: 182 77
+Farthest spaced:
+Nodes expanded: 512
+Solution cost: 121
+time: 3 ms
+Random pivots:
+Nodes expanded: 512
+Solution cost: 121
+time: 3 ms
+
+start: 100 186 goal: 170 77
+Farthest spaced:
+Nodes expanded: 377
+Solution cost: 120
+time: 2 ms
+Random pivots:
+Nodes expanded: 377
+Solution cost: 120
+time: 2 ms
+
+start: 100 22 goal: 147 142
+Farthest spaced:
+Nodes expanded: 883
+Solution cost: 122
+time: 7 ms
+Random pivots:
+Nodes expanded: 883
+Solution cost: 122
+time: 7 ms
+
+start: 100 27 goal: 182 132
+Farthest spaced:
+Nodes expanded: 343
+Solution cost: 114
+time: 2 ms
+Random pivots:
+Nodes expanded: 343
+Solution cost: 114
+time: 2 ms
+
+start: 10 112 goal: 138 136
+Farthest spaced:
+Nodes expanded: 543
+Solution cost: 136
+time: 3 ms
+Random pivots:
+Nodes expanded: 527
+Solution cost: 136
+time: 3 ms
+
+start: 10 125 goal: 109 97
+Farthest spaced:
+Nodes expanded: 1654
+Solution cost: 125
+time: 14 ms
+Random pivots:
+Nodes expanded: 1694
+Solution cost: 125
+time: 13 ms
+
+start: 10 89 goal: 89 144
+Farthest spaced:
+Nodes expanded: 1146
+Solution cost: 134
+time: 8 ms
+Random pivots:
+Nodes expanded: 1146
+Solution cost: 134
+time: 8 ms
+
+start: 100 148 goal: 172 41
+Farthest spaced:
+Nodes expanded: 365
+Solution cost: 124
+time: 2 ms
+Random pivots:
+Nodes expanded: 365
+Solution cost: 124
+time: 2 ms
+
+start: 100 2 goal: 130 125
+Farthest spaced:
+Nodes expanded: 468
+Solution cost: 130
+time: 3 ms
+Random pivots:
+Nodes expanded: 484
+Solution cost: 130
+time: 3 ms
+
+start: 100 42 goal: 111 152
+Farthest spaced:
+Nodes expanded: 916
+Solution cost: 122
+time: 5 ms
+Random pivots:
+Nodes expanded: 916
+Solution cost: 122
+time: 5 ms
+
+start: 101 12 goal: 124 130
+Farthest spaced:
+Nodes expanded: 936
+Solution cost: 126
+time: 6 ms
+Random pivots:
+Nodes expanded: 952
+Solution cost: 126
+time: 6 ms
+
+start: 101 143 goal: 175 43
+Farthest spaced:
+Nodes expanded: 431
+Solution cost: 128
+time: 2 ms
+Random pivots:
+Nodes expanded: 431
+Solution cost: 128
+time: 2 ms
+
+start: 101 147 goal: 105 48
+Farthest spaced:
+Nodes expanded: 1220
+Solution cost: 127
+time: 9 ms
+Random pivots:
+Nodes expanded: 1205
+Solution cost: 127
+time: 9 ms
+
+start: 101 155 goal: 47 77
+Farthest spaced:
+Nodes expanded: 1278
+Solution cost: 133
+time: 10 ms
+Random pivots:
+Nodes expanded: 1278
+Solution cost: 133
+time: 10 ms
+
+start: 10 108 goal: 129 127
+Farthest spaced:
+Nodes expanded: 1201
+Solution cost: 139
+time: 9 ms
+Random pivots:
+Nodes expanded: 1212
+Solution cost: 139
+time: 9 ms
+
+start: 10 118 goal: 141 128
+Farthest spaced:
+Nodes expanded: 855
+Solution cost: 133
+time: 6 ms
+Random pivots:
+Nodes expanded: 855
+Solution cost: 133
+time: 5 ms
+
+start: 10 127 goal: 113 92
+Farthest spaced:
+Nodes expanded: 1606
+Solution cost: 130
+time: 12 ms
+Random pivots:
+Nodes expanded: 1679
+Solution cost: 130
+time: 13 ms
+
+start: 10 87 goal: 82 163
+Farthest spaced:
+Nodes expanded: 1560
+Solution cost: 136
+time: 14 ms
+Random pivots:
+Nodes expanded: 1522
+Solution cost: 136
+time: 13 ms
+
+start: 100 151 goal: 50 74
+Farthest spaced:
+Nodes expanded: 1311
+Solution cost: 134
+time: 9 ms
+Random pivots:
+Nodes expanded: 1311
+Solution cost: 134
+time: 9 ms
+
+start: 100 168 goal: 161 89
+Farthest spaced:
+Nodes expanded: 1067
+Solution cost: 128
+time: 8 ms
+Random pivots:
+Nodes expanded: 1471
+Solution cost: 128
+time: 12 ms
+
+start: 100 172 goal: 120 46
+Farthest spaced:
+Nodes expanded: 980
+Solution cost: 126
+time: 6 ms
+Random pivots:
+Nodes expanded: 980
+Solution cost: 126
+time: 6 ms
+
+start: 100 176 goal: 180 89
+Farthest spaced:
+Nodes expanded: 1245
+Solution cost: 126
+time: 9 ms
+Random pivots:
+Nodes expanded: 1254
+Solution cost: 126
+time: 9 ms
+
+start: 100 23 goal: 115 137
+Farthest spaced:
+Nodes expanded: 758
+Solution cost: 127
+time: 5 ms
+Random pivots:
+Nodes expanded: 758
+Solution cost: 127
+time: 5 ms
+
+start: 100 8 goal: 139 140
+Farthest spaced:
+Nodes expanded: 280
+Solution cost: 134
+time: 1 ms
+Random pivots:
+Nodes expanded: 275
+Solution cost: 134
+time: 1 ms
+
+start: 10 102 goal: 130 136
+Farthest spaced:
+Nodes expanded: 625
+Solution cost: 138
+time: 4 ms
+Random pivots:
+Nodes expanded: 625
+Solution cost: 138
+time: 3 ms
+
+start: 10 114 goal: 144 143
+Farthest spaced:
+Nodes expanded: 740
+Solution cost: 140
+time: 4 ms
+Random pivots:
+Nodes expanded: 737
+Solution cost: 140
+time: 4 ms
+
+start: 10 121 goal: 146 122
+Farthest spaced:
+Nodes expanded: 917
+Solution cost: 136
+time: 5 ms
+Random pivots:
+Nodes expanded: 918
+Solution cost: 136
+time: 5 ms
+
+start: 10 74 goal: 74 161
+Farthest spaced:
+Nodes expanded: 1339
+Solution cost: 137
+time: 12 ms
+Random pivots:
+Nodes expanded: 1339
+Solution cost: 137
+time: 12 ms
+
+start: 10 77 goal: 71 163
+Farthest spaced:
+Nodes expanded: 1017
+Solution cost: 139
+time: 8 ms
+Random pivots:
+Nodes expanded: 1017
+Solution cost: 139
+time: 8 ms
+
+start: 10 84 goal: 67 168
+Farthest spaced:
+Nodes expanded: 978
+Solution cost: 141
+time: 8 ms
+Random pivots:
+Nodes expanded: 1567
+Solution cost: 141
+time: 13 ms
+
+start: 100 14 goal: 187 103
+Farthest spaced:
+Nodes expanded: 617
+Solution cost: 135
+time: 4 ms
+Random pivots:
+Nodes expanded: 1073
+Solution cost: 136
+time: 7 ms
+
+start: 100 145 goal: 55 68
+Farthest spaced:
+Nodes expanded: 1370
+Solution cost: 140
+time: 10 ms
+Random pivots:
+Nodes expanded: 1370
+Solution cost: 140
+time: 10 ms
+
+start: 100 148 goal: 14 89
+Farthest spaced:
+Nodes expanded: 1183
+Solution cost: 141
+time: 10 ms
+Random pivots:
+Nodes expanded: 2225
+Solution cost: 141
+time: 22 ms
+
+start: 100 150 goal: 31 69
+Farthest spaced:
+Nodes expanded: 1448
+Solution cost: 139
+time: 11 ms
+Random pivots:
+Nodes expanded: 1491
+Solution cost: 139
+time: 12 ms
+
+start: 10 117 goal: 149 148
+Farthest spaced:
+Nodes expanded: 1027
+Solution cost: 142
+time: 8 ms
+Random pivots:
+Nodes expanded: 1061
+Solution cost: 142
+time: 8 ms
+
+start: 10 86 goal: 64 171
+Farthest spaced:
+Nodes expanded: 1380
+Solution cost: 144
+time: 12 ms
+Random pivots:
+Nodes expanded: 2047
+Solution cost: 144
+time: 20 ms
+
+start: 100 15 goal: 152 148
+Farthest spaced:
+Nodes expanded: 430
+Solution cost: 134
+time: 3 ms
+Random pivots:
+Nodes expanded: 430
+Solution cost: 134
+time: 3 ms
+
+start: 100 166 goal: 26 72
+Farthest spaced:
+Nodes expanded: 1498
+Solution cost: 136
+time: 12 ms
+Random pivots:
+Nodes expanded: 1595
+Solution cost: 136
+time: 13 ms
+
+start: 100 170 goal: 145 33
+Farthest spaced:
+Nodes expanded: 659
+Solution cost: 137
+time: 6 ms
+Random pivots:
+Nodes expanded: 662
+Solution cost: 137
+time: 6 ms
+
+start: 100 178 goal: 159 44
+Farthest spaced:
+Nodes expanded: 172
+Solution cost: 134
+time: 1 ms
+Random pivots:
+Nodes expanded: 183
+Solution cost: 134
+time: 1 ms
+
+start: 100 182 goal: 44 81
+Farthest spaced:
+Nodes expanded: 1436
+Solution cost: 137
+time: 12 ms
+Random pivots:
+Nodes expanded: 1436
+Solution cost: 137
+time: 12 ms
+
+start: 100 189 goal: 179 88
+Farthest spaced:
+Nodes expanded: 1165
+Solution cost: 138
+time: 9 ms
+Random pivots:
+Nodes expanded: 1195
+Solution cost: 138
+time: 9 ms
+
+start: 100 21 goal: 170 150
+Farthest spaced:
+Nodes expanded: 237
+Solution cost: 132
+time: 1 ms
+Random pivots:
+Nodes expanded: 237
+Solution cost: 132
+time: 1 ms
+
+start: 101 113 goal: 34 144
+Farthest spaced:
+Nodes expanded: 1191
+Solution cost: 131
+time: 9 ms
+Random pivots:
+Nodes expanded: 1195
+Solution cost: 131
+time: 9 ms
+
+start: 10 114 goal: 146 116
+Farthest spaced:
+Nodes expanded: 1039
+Solution cost: 144
+time: 7 ms
+Random pivots:
+Nodes expanded: 1039
+Solution cost: 144
+time: 7 ms
+
+start: 10 123 goal: 158 128
+Farthest spaced:
+Nodes expanded: 1111
+Solution cost: 150
+time: 7 ms
+Random pivots:
+Nodes expanded: 930
+Solution cost: 150
+time: 6 ms
+
+start: 10 133 goal: 161 151
+Farthest spaced:
+Nodes expanded: 1353
+Solution cost: 151
+time: 11 ms
+Random pivots:
+Nodes expanded: 1358
+Solution cost: 151
+time: 11 ms
+
+start: 10 74 goal: 61 167
+Farthest spaced:
+Nodes expanded: 1601
+Solution cost: 143
+time: 16 ms
+Random pivots:
+Nodes expanded: 2282
+Solution cost: 143
+time: 24 ms
+
+start: 10 78 goal: 98 152
+Farthest spaced:
+Nodes expanded: 1609
+Solution cost: 146
+time: 14 ms
+Random pivots:
+Nodes expanded: 1609
+Solution cost: 146
+time: 13 ms
+
+start: 10 88 goal: 60 174
+Farthest spaced:
+Nodes expanded: 1590
+Solution cost: 147
+time: 14 ms
+Random pivots:
+Nodes expanded: 2449
+Solution cost: 147
+time: 25 ms
+
+start: 10 88 goal: 61 173
+Farthest spaced:
+Nodes expanded: 1441
+Solution cost: 146
+time: 12 ms
+Random pivots:
+Nodes expanded: 2322
+Solution cost: 146
+time: 24 ms
+
+start: 100 107 goal: 49 130
+Farthest spaced:
+Nodes expanded: 1114
+Solution cost: 138
+time: 10 ms
+Random pivots:
+Nodes expanded: 1114
+Solution cost: 138
+time: 9 ms
+
+start: 100 13 goal: 151 153
+Farthest spaced:
+Nodes expanded: 489
+Solution cost: 142
+time: 4 ms
+Random pivots:
+Nodes expanded: 489
+Solution cost: 142
+time: 4 ms
+
+start: 100 147 goal: 61 67
+Farthest spaced:
+Nodes expanded: 1382
+Solution cost: 144
+time: 10 ms
+Random pivots:
+Nodes expanded: 1394
+Solution cost: 144
+time: 11 ms
+
+start: 10 109 goal: 152 135
+Farthest spaced:
+Nodes expanded: 871
+Solution cost: 154
+time: 6 ms
+Random pivots:
+Nodes expanded: 742
+Solution cost: 154
+time: 5 ms
+
+start: 10 134 goal: 158 112
+Farthest spaced:
+Nodes expanded: 959
+Solution cost: 150
+time: 6 ms
+Random pivots:
+Nodes expanded: 966
+Solution cost: 150
+time: 6 ms
+
+start: 100 10 goal: 158 152
+Farthest spaced:
+Nodes expanded: 214
+Solution cost: 145
+time: 1 ms
+Random pivots:
+Nodes expanded: 207
+Solution cost: 145
+time: 1 ms
+
+start: 100 141 goal: 103 22
+Farthest spaced:
+Nodes expanded: 1066
+Solution cost: 143
+time: 7 ms
+Random pivots:
+Nodes expanded: 1066
+Solution cost: 143
+time: 7 ms
+
+start: 100 164 goal: 149 20
+Farthest spaced:
+Nodes expanded: 837
+Solution cost: 144
+time: 7 ms
+Random pivots:
+Nodes expanded: 839
+Solution cost: 144
+time: 7 ms
+
+start: 100 188 goal: 27 88
+Farthest spaced:
+Nodes expanded: 1420
+Solution cost: 144
+time: 14 ms
+Random pivots:
+Nodes expanded: 2237
+Solution cost: 144
+time: 24 ms
+
+start: 100 23 goal: 110 160
+Farthest spaced:
+Nodes expanded: 1179
+Solution cost: 138
+time: 8 ms
+Random pivots:
+Nodes expanded: 1133
+Solution cost: 138
+time: 8 ms
+
+start: 100 35 goal: 151 173
+Farthest spaced:
+Nodes expanded: 543
+Solution cost: 142
+time: 4 ms
+Random pivots:
+Nodes expanded: 543
+Solution cost: 142
+time: 4 ms
+
+start: 100 49 goal: 101 170
+Farthest spaced:
+Nodes expanded: 1072
+Solution cost: 139
+time: 6 ms
+Random pivots:
+Nodes expanded: 1073
+Solution cost: 139
+time: 6 ms
+
+start: 101 141 goal: 46 57
+Farthest spaced:
+Nodes expanded: 1278
+Solution cost: 152
+time: 10 ms
+Random pivots:
+Nodes expanded: 1278
+Solution cost: 152
+time: 10 ms
+
+start: 10 103 goal: 145 127
+Farthest spaced:
+Nodes expanded: 1317
+Solution cost: 153
+time: 10 ms
+Random pivots:
+Nodes expanded: 1317
+Solution cost: 153
+time: 10 ms
+
+start: 10 118 goal: 157 113
+Farthest spaced:
+Nodes expanded: 1093
+Solution cost: 149
+time: 7 ms
+Random pivots:
+Nodes expanded: 1093
+Solution cost: 149
+time: 7 ms
+
+start: 10 124 goal: 144 163
+Farthest spaced:
+Nodes expanded: 1825
+Solution cost: 154
+time: 18 ms
+Random pivots:
+Nodes expanded: 2532
+Solution cost: 154
+time: 28 ms
+
+start: 10 126 goal: 167 148
+Farthest spaced:
+Nodes expanded: 1111
+Solution cost: 157
+time: 8 ms
+Random pivots:
+Nodes expanded: 1111
+Solution cost: 157
+time: 8 ms
+
+start: 10 66 goal: 94 163
+Farthest spaced:
+Nodes expanded: 1954
+Solution cost: 143
+time: 18 ms
+Random pivots:
+Nodes expanded: 1954
+Solution cost: 143
+time: 18 ms
+
+start: 10 76 goal: 107 148
+Farthest spaced:
+Nodes expanded: 1495
+Solution cost: 155
+time: 12 ms
+Random pivots:
+Nodes expanded: 1495
+Solution cost: 155
+time: 12 ms
+
+start: 10 77 goal: 102 163
+Farthest spaced:
+Nodes expanded: 1975
+Solution cost: 150
+time: 18 ms
+Random pivots:
+Nodes expanded: 1975
+Solution cost: 150
+time: 18 ms
+
+start: 10 84 goal: 112 150
+Farthest spaced:
+Nodes expanded: 1435
+Solution cost: 157
+time: 13 ms
+Random pivots:
+Nodes expanded: 1435
+Solution cost: 157
+time: 12 ms
+
+start: 10 90 goal: 103 171
+Farthest spaced:
+Nodes expanded: 1967
+Solution cost: 148
+time: 18 ms
+Random pivots:
+Nodes expanded: 1986
+Solution cost: 148
+time: 18 ms
+
+start: 10 91 goal: 90 182
+Farthest spaced:
+Nodes expanded: 1918
+Solution cost: 155
+time: 19 ms
+Random pivots:
+Nodes expanded: 2017
+Solution cost: 155
+time: 19 ms
+
+start: 10 112 goal: 158 153
+Farthest spaced:
+Nodes expanded: 1568
+Solution cost: 156
+time: 15 ms
+Random pivots:
+Nodes expanded: 1636
+Solution cost: 156
+time: 16 ms
+
+start: 10 113 goal: 149 109
+Farthest spaced:
+Nodes expanded: 1292
+Solution cost: 152
+time: 10 ms
+Random pivots:
+Nodes expanded: 1292
+Solution cost: 152
+time: 10 ms
+
+start: 10 116 goal: 156 123
+Farthest spaced:
+Nodes expanded: 1544
+Solution cost: 161
+time: 14 ms
+Random pivots:
+Nodes expanded: 1528
+Solution cost: 161
+time: 14 ms
+
+start: 10 126 goal: 171 128
+Farthest spaced:
+Nodes expanded: 1124
+Solution cost: 161
+time: 8 ms
+Random pivots:
+Nodes expanded: 1033
+Solution cost: 161
+time: 7 ms
+
+start: 10 127 goal: 163 106
+Farthest spaced:
+Nodes expanded: 1041
+Solution cost: 154
+time: 6 ms
+Random pivots:
+Nodes expanded: 1043
+Solution cost: 154
+time: 6 ms
+
+start: 10 128 goal: 170 131
+Farthest spaced:
+Nodes expanded: 1147
+Solution cost: 161
+time: 8 ms
+Random pivots:
+Nodes expanded: 1086
+Solution cost: 161
+time: 8 ms
+
+start: 10 129 goal: 122 123
+Farthest spaced:
+Nodes expanded: 1775
+Solution cost: 142
+time: 15 ms
+Random pivots:
+Nodes expanded: 1775
+Solution cost: 142
+time: 15 ms
+
+start: 10 132 goal: 173 124
+Farthest spaced:
+Nodes expanded: 1128
+Solution cost: 164
+time: 8 ms
+Random pivots:
+Nodes expanded: 1038
+Solution cost: 164
+time: 7 ms
+
+start: 10 133 goal: 165 110
+Farthest spaced:
+Nodes expanded: 977
+Solution cost: 156
+time: 6 ms
+Random pivots:
+Nodes expanded: 981
+Solution cost: 156
+time: 6 ms
+
+start: 10 134 goal: 172 131
+Farthest spaced:
+Nodes expanded: 1119
+Solution cost: 163
+time: 7 ms
+Random pivots:
+Nodes expanded: 1116
+Solution cost: 163
+time: 7 ms
+
+start: 10 59 goal: 102 154
+Farthest spaced:
+Nodes expanded: 1673
+Solution cost: 155
+time: 15 ms
+Random pivots:
+Nodes expanded: 1673
+Solution cost: 155
+time: 15 ms
+
+start: 10 69 goal: 105 160
+Farthest spaced:
+Nodes expanded: 1787
+Solution cost: 153
+time: 17 ms
+Random pivots:
+Nodes expanded: 1787
+Solution cost: 153
+time: 17 ms
+
+start: 10 78 goal: 61 183
+Farthest spaced:
+Nodes expanded: 1663
+Solution cost: 159
+time: 17 ms
+Random pivots:
+Nodes expanded: 2578
+Solution cost: 159
+time: 28 ms
+
+start: 10 84 goal: 82 188
+Farthest spaced:
+Nodes expanded: 1941
+Solution cost: 161
+time: 19 ms
+Random pivots:
+Nodes expanded: 2088
+Solution cost: 161
+time: 20 ms
+
+start: 100 10 goal: 167 162
+Farthest spaced:
+Nodes expanded: 209
+Solution cost: 154
+time: 1 ms
+Random pivots:
+Nodes expanded: 209
+Solution cost: 154
+time: 1 ms
+
+start: 100 147 goal: 34 54
+Farthest spaced:
+Nodes expanded: 2165
+Solution cost: 161
+time: 24 ms
+Random pivots:
+Nodes expanded: 2443
+Solution cost: 161
+time: 29 ms
+
+start: 100 148 goal: 96 16
+Farthest spaced:
+Nodes expanded: 1147
+Solution cost: 149
+time: 8 ms
+Random pivots:
+Nodes expanded: 1153
+Solution cost: 149
+time: 8 ms
+
+start: 100 150 goal: 62 49
+Farthest spaced:
+Nodes expanded: 1674
+Solution cost: 159
+time: 14 ms
+Random pivots:
+Nodes expanded: 1709
+Solution cost: 159
+time: 15 ms
+
+start: 100 161 goal: 84 43
+Farthest spaced:
+Nodes expanded: 1608
+Solution cost: 149
+time: 13 ms
+Random pivots:
+Nodes expanded: 1607
+Solution cost: 149
+time: 13 ms
+
+start: 100 166 goal: 104 22
+Farthest spaced:
+Nodes expanded: 1232
+Solution cost: 145
+time: 9 ms
+Random pivots:
+Nodes expanded: 1239
+Solution cost: 145
+time: 9 ms
+
+start: 10 109 goal: 169 147
+Farthest spaced:
+Nodes expanded: 1375
+Solution cost: 170
+time: 12 ms
+Random pivots:
+Nodes expanded: 1375
+Solution cost: 170
+time: 12 ms
+
+start: 10 113 goal: 162 119
+Farthest spaced:
+Nodes expanded: 1172
+Solution cost: 159
+time: 11 ms
+Random pivots:
+Nodes expanded: 1149
+Solution cost: 159
+time: 8 ms
+
+start: 10 128 goal: 144 87
+Farthest spaced:
+Nodes expanded: 1670
+Solution cost: 167
+time: 15 ms
+Random pivots:
+Nodes expanded: 1670
+Solution cost: 167
+time: 14 ms
+
+start: 10 63 goal: 101 174
+Farthest spaced:
+Nodes expanded: 2246
+Solution cost: 154
+time: 22 ms
+Random pivots:
+Nodes expanded: 2287
+Solution cost: 154
+time: 23 ms
+
+start: 10 66 goal: 104 168
+Farthest spaced:
+Nodes expanded: 2091
+Solution cost: 153
+time: 20 ms
+Random pivots:
+Nodes expanded: 2160
+Solution cost: 153
+time: 20 ms
+
+start: 10 67 goal: 115 146
+Farthest spaced:
+Nodes expanded: 1329
+Solution cost: 163
+time: 11 ms
+Random pivots:
+Nodes expanded: 1329
+Solution cost: 163
+time: 11 ms
+
+start: 10 75 goal: 69 190
+Farthest spaced:
+Nodes expanded: 1848
+Solution cost: 166
+time: 17 ms
+Random pivots:
+Nodes expanded: 2455
+Solution cost: 166
+time: 25 ms
+
+start: 10 78 goal: 111 170
+Farthest spaced:
+Nodes expanded: 2179
+Solution cost: 159
+time: 20 ms
+Random pivots:
+Nodes expanded: 2255
+Solution cost: 159
+time: 20 ms
+
+start: 10 79 goal: 117 155
+Farthest spaced:
+Nodes expanded: 2042
+Solution cost: 166
+time: 19 ms
+Random pivots:
+Nodes expanded: 2058
+Solution cost: 166
+time: 20 ms
+
+start: 100 111 goal: 63 128
+Farthest spaced:
+Nodes expanded: 1930
+Solution cost: 156
+time: 19 ms
+Random pivots:
+Nodes expanded: 1938
+Solution cost: 156
+time: 18 ms
+
+start: 10 109 goal: 140 157
+Farthest spaced:
+Nodes expanded: 2483
+Solution cost: 169
+time: 28 ms
+Random pivots:
+Nodes expanded: 2587
+Solution cost: 169
+time: 30 ms
+
+start: 10 109 goal: 162 120
+Farthest spaced:
+Nodes expanded: 1177
+Solution cost: 164
+time: 8 ms
+Random pivots:
+Nodes expanded: 1124
+Solution cost: 164
+time: 8 ms
+
+start: 10 110 goal: 170 153
+Farthest spaced:
+Nodes expanded: 1725
+Solution cost: 170
+time: 16 ms
+Random pivots:
+Nodes expanded: 1725
+Solution cost: 170
+time: 16 ms
+
+start: 10 112 goal: 166 113
+Farthest spaced:
+Nodes expanded: 1201
+Solution cost: 164
+time: 8 ms
+Random pivots:
+Nodes expanded: 1215
+Solution cost: 164
+time: 8 ms
+
+start: 10 119 goal: 150 89
+Farthest spaced:
+Nodes expanded: 1738
+Solution cost: 166
+time: 14 ms
+Random pivots:
+Nodes expanded: 1738
+Solution cost: 166
+time: 15 ms
+
+start: 10 126 goal: 154 90
+Farthest spaced:
+Nodes expanded: 1692
+Solution cost: 164
+time: 14 ms
+Random pivots:
+Nodes expanded: 1692
+Solution cost: 164
+time: 14 ms
+
+start: 10 129 goal: 183 130
+Farthest spaced:
+Nodes expanded: 1073
+Solution cost: 173
+time: 7 ms
+Random pivots:
+Nodes expanded: 1070
+Solution cost: 173
+time: 7 ms
+
+start: 10 59 goal: 110 150
+Farthest spaced:
+Nodes expanded: 1521
+Solution cost: 163
+time: 14 ms
+Random pivots:
+Nodes expanded: 1521
+Solution cost: 163
+time: 14 ms
+
+start: 10 87 goal: 107 186
+Farthest spaced:
+Nodes expanded: 1995
+Solution cost: 159
+time: 19 ms
+Random pivots:
+Nodes expanded: 2001
+Solution cost: 159
+time: 18 ms
+
+start: 100 13 goal: 90 142
+Farthest spaced:
+Nodes expanded: 1359
+Solution cost: 162
+time: 12 ms
+Random pivots:
+Nodes expanded: 1359
+Solution cost: 162
+time: 12 ms
+
+start: 10 102 goal: 150 108
+Farthest spaced:
+Nodes expanded: 1523
+Solution cost: 164
+time: 12 ms
+Random pivots:
+Nodes expanded: 1523
+Solution cost: 164
+time: 12 ms
+
+start: 10 109 goal: 149 173
+Farthest spaced:
+Nodes expanded: 1813
+Solution cost: 174
+time: 18 ms
+Random pivots:
+Nodes expanded: 2695
+Solution cost: 174
+time: 31 ms
+
+start: 10 134 goal: 183 109
+Farthest spaced:
+Nodes expanded: 1067
+Solution cost: 174
+time: 6 ms
+Random pivots:
+Nodes expanded: 1082
+Solution cost: 174
+time: 6 ms
+
+start: 10 63 goal: 118 140
+Farthest spaced:
+Nodes expanded: 1114
+Solution cost: 170
+time: 9 ms
+Random pivots:
+Nodes expanded: 1114
+Solution cost: 170
+time: 9 ms
+
+start: 100 103 goal: 73 147
+Farthest spaced:
+Nodes expanded: 1627
+Solution cost: 161
+time: 17 ms
+Random pivots:
+Nodes expanded: 1627
+Solution cost: 161
+time: 17 ms
+
+start: 100 179 goal: 50 50
+Farthest spaced:
+Nodes expanded: 1590
+Solution cost: 165
+time: 14 ms
+Random pivots:
+Nodes expanded: 1590
+Solution cost: 165
+time: 14 ms
+
+start: 100 180 goal: 13 58
+Farthest spaced:
+Nodes expanded: 2315
+Solution cost: 161
+time: 23 ms
+Random pivots:
+Nodes expanded: 2665
+Solution cost: 161
+time: 29 ms
+
+start: 100 183 goal: 16 59
+Farthest spaced:
+Nodes expanded: 2325
+Solution cost: 162
+time: 24 ms
+Random pivots:
+Nodes expanded: 2681
+Solution cost: 162
+time: 31 ms
+
+start: 100 185 goal: 17 62
+Farthest spaced:
+Nodes expanded: 2422
+Solution cost: 162
+time: 27 ms
+Random pivots:
+Nodes expanded: 2789
+Solution cost: 162
+time: 32 ms
+
+start: 100 188 goal: 21 60
+Farthest spaced:
+Nodes expanded: 2512
+Solution cost: 164
+time: 28 ms
+Random pivots:
+Nodes expanded: 3007
+Solution cost: 164
+time: 38 ms
+
+start: 10 108 goal: 136 150
+Farthest spaced:
+Nodes expanded: 2962
+Solution cost: 174
+time: 35 ms
+Random pivots:
+Nodes expanded: 3139
+Solution cost: 174
+time: 38 ms
+
+start: 10 118 goal: 179 106
+Farthest spaced:
+Nodes expanded: 1096
+Solution cost: 172
+time: 7 ms
+Random pivots:
+Nodes expanded: 1167
+Solution cost: 172
+time: 8 ms
+
+start: 10 61 goal: 91 187
+Farthest spaced:
+Nodes expanded: 2205
+Solution cost: 168
+time: 24 ms
+Random pivots:
+Nodes expanded: 2522
+Solution cost: 169
+time: 27 ms
+
+start: 100 102 goal: 75 151
+Farthest spaced:
+Nodes expanded: 1660
+Solution cost: 165
+time: 17 ms
+Random pivots:
+Nodes expanded: 1660
+Solution cost: 165
+time: 17 ms
+
+start: 100 102 goal: 78 137
+Farthest spaced:
+Nodes expanded: 1401
+Solution cost: 165
+time: 14 ms
+Random pivots:
+Nodes expanded: 1418
+Solution cost: 165
+time: 14 ms
+
+start: 100 145 goal: 32 31
+Farthest spaced:
+Nodes expanded: 2104
+Solution cost: 177
+time: 23 ms
+Random pivots:
+Nodes expanded: 2470
+Solution cost: 177
+time: 28 ms
+
+start: 100 150 goal: 38 32
+Farthest spaced:
+Nodes expanded: 1673
+Solution cost: 176
+time: 16 ms
+Random pivots:
+Nodes expanded: 1926
+Solution cost: 176
+time: 18 ms
+
+start: 100 151 goal: 39 34
+Farthest spaced:
+Nodes expanded: 1677
+Solution cost: 174
+time: 16 ms
+Random pivots:
+Nodes expanded: 1906
+Solution cost: 174
+time: 18 ms
+
+start: 100 184 goal: 90 40
+Farthest spaced:
+Nodes expanded: 2167
+Solution cost: 163
+time: 21 ms
+Random pivots:
+Nodes expanded: 2208
+Solution cost: 163
+time: 22 ms
+
+start: 100 98 goal: 80 138
+Farthest spaced:
+Nodes expanded: 1159
+Solution cost: 164
+time: 10 ms
+Random pivots:
+Nodes expanded: 1159
+Solution cost: 164
+time: 10 ms
+
+start: 10 114 goal: 183 132
+Farthest spaced:
+Nodes expanded: 1006
+Solution cost: 179
+time: 7 ms
+Random pivots:
+Nodes expanded: 1006
+Solution cost: 179
+time: 7 ms
+
+start: 10 58 goal: 92 191
+Farthest spaced:
+Nodes expanded: 2266
+Solution cost: 172
+time: 24 ms
+Random pivots:
+Nodes expanded: 2567
+Solution cost: 172
+time: 29 ms
+
+start: 100 10 goal: 91 162
+Farthest spaced:
+Nodes expanded: 1578
+Solution cost: 164
+time: 14 ms
+Random pivots:
+Nodes expanded: 1578
+Solution cost: 164
+time: 14 ms
+
+start: 100 143 goal: 42 28
+Farthest spaced:
+Nodes expanded: 1069
+Solution cost: 183
+time: 8 ms
+Random pivots:
+Nodes expanded: 1203
+Solution cost: 183
+time: 9 ms
+
+start: 100 151 goal: 82 90
+Farthest spaced:
+Nodes expanded: 2272
+Solution cost: 172
+time: 26 ms
+Random pivots:
+Nodes expanded: 2782
+Solution cost: 172
+time: 33 ms
+
+start: 100 166 goal: 52 31
+Farthest spaced:
+Nodes expanded: 1592
+Solution cost: 177
+time: 14 ms
+Random pivots:
+Nodes expanded: 1797
+Solution cost: 177
+time: 17 ms
+
+start: 100 168 goal: 29 39
+Farthest spaced:
+Nodes expanded: 2140
+Solution cost: 171
+time: 23 ms
+Random pivots:
+Nodes expanded: 2690
+Solution cost: 171
+time: 32 ms
+
+start: 100 171 goal: 40 35
+Farthest spaced:
+Nodes expanded: 1471
+Solution cost: 173
+time: 14 ms
+Random pivots:
+Nodes expanded: 1807
+Solution cost: 173
+time: 17 ms
+
+start: 100 174 goal: 91 13
+Farthest spaced:
+Nodes expanded: 1834
+Solution cost: 162
+time: 17 ms
+Random pivots:
+Nodes expanded: 1893
+Solution cost: 162
+time: 18 ms
+
+start: 100 178 goal: 45 39
+Farthest spaced:
+Nodes expanded: 1538
+Solution cost: 175
+time: 14 ms
+Random pivots:
+Nodes expanded: 1875
+Solution cost: 175
+time: 18 ms
+
+start: 10 102 goal: 139 150
+Farthest spaced:
+Nodes expanded: 3001
+Solution cost: 179
+time: 35 ms
+Random pivots:
+Nodes expanded: 3100
+Solution cost: 179
+time: 36 ms
+
+start: 100 104 goal: 83 149
+Farthest spaced:
+Nodes expanded: 1952
+Solution cost: 169
+time: 20 ms
+Random pivots:
+Nodes expanded: 1952
+Solution cost: 169
+time: 19 ms
+
+start: 100 107 goal: 80 150
+Farthest spaced:
+Nodes expanded: 2011
+Solution cost: 169
+time: 21 ms
+Random pivots:
+Nodes expanded: 2011
+Solution cost: 169
+time: 21 ms
+
+start: 100 164 goal: 80 90
+Farthest spaced:
+Nodes expanded: 2076
+Solution cost: 172
+time: 23 ms
+Random pivots:
+Nodes expanded: 3153
+Solution cost: 172
+time: 40 ms
+
+start: 100 165 goal: 50 28
+Farthest spaced:
+Nodes expanded: 1475
+Solution cost: 180
+time: 15 ms
+Random pivots:
+Nodes expanded: 1615
+Solution cost: 180
+time: 15 ms
+
+start: 100 172 goal: 85 82
+Farthest spaced:
+Nodes expanded: 2198
+Solution cost: 168
+time: 24 ms
+Random pivots:
+Nodes expanded: 2735
+Solution cost: 168
+time: 31 ms
+
+start: 100 178 goal: 77 37
+Farthest spaced:
+Nodes expanded: 2217
+Solution cost: 171
+time: 22 ms
+Random pivots:
+Nodes expanded: 2239
+Solution cost: 171
+time: 22 ms
+
+start: 100 3 goal: 85 145
+Farthest spaced:
+Nodes expanded: 1551
+Solution cost: 177
+time: 13 ms
+Random pivots:
+Nodes expanded: 1551
+Solution cost: 177
+time: 13 ms
+
+start: 100 36 goal: 79 192
+Farthest spaced:
+Nodes expanded: 1486
+Solution cost: 161
+time: 11 ms
+Random pivots:
+Nodes expanded: 1492
+Solution cost: 161
+time: 11 ms
+
+start: 100 39 goal: 72 186
+Farthest spaced:
+Nodes expanded: 1448
+Solution cost: 164
+time: 11 ms
+Random pivots:
+Nodes expanded: 1498
+Solution cost: 164
+time: 11 ms
+
+start: 10 101 goal: 144 89
+Farthest spaced:
+Nodes expanded: 1938
+Solution cost: 184
+time: 19 ms
+Random pivots:
+Nodes expanded: 1938
+Solution cost: 184
+time: 19 ms
+
+start: 10 111 goal: 186 109
+Farthest spaced:
+Nodes expanded: 1309
+Solution cost: 185
+time: 10 ms
+Random pivots:
+Nodes expanded: 1444
+Solution cost: 185
+time: 11 ms
+
+start: 10 123 goal: 191 113
+Farthest spaced:
+Nodes expanded: 1255
+Solution cost: 181
+time: 9 ms
+Random pivots:
+Nodes expanded: 1309
+Solution cost: 181
+time: 10 ms
+
+start: 10 132 goal: 164 71
+Farthest spaced:
+Nodes expanded: 1814
+Solution cost: 183
+time: 15 ms
+Random pivots:
+Nodes expanded: 1825
+Solution cost: 183
+time: 15 ms
+
+start: 100 1 goal: 86 150
+Farthest spaced:
+Nodes expanded: 1708
+Solution cost: 178
+time: 16 ms
+Random pivots:
+Nodes expanded: 1708
+Solution cost: 178
+time: 16 ms
+
+start: 100 10 goal: 104 183
+Farthest spaced:
+Nodes expanded: 1720
+Solution cost: 174
+time: 14 ms
+Random pivots:
+Nodes expanded: 1721
+Solution cost: 174
+time: 14 ms
+
+start: 100 102 goal: 94 143
+Farthest spaced:
+Nodes expanded: 1667
+Solution cost: 180
+time: 18 ms
+Random pivots:
+Nodes expanded: 1667
+Solution cost: 180
+time: 17 ms
+
+start: 100 104 goal: 91 143
+Farthest spaced:
+Nodes expanded: 1609
+Solution cost: 177
+time: 16 ms
+Random pivots:
+Nodes expanded: 1609
+Solution cost: 177
+time: 16 ms
+
+start: 100 13 goal: 83 170
+Farthest spaced:
+Nodes expanded: 1668
+Solution cost: 169
+time: 14 ms
+Random pivots:
+Nodes expanded: 1668
+Solution cost: 169
+time: 15 ms
+
+start: 100 16 goal: 72 151
+Farthest spaced:
+Nodes expanded: 1793
+Solution cost: 177
+time: 16 ms
+Random pivots:
+Nodes expanded: 1902
+Solution cost: 177
+time: 17 ms
+
+start: 10 108 goal: 142 78
+Farthest spaced:
+Nodes expanded: 1831
+Solution cost: 188
+time: 17 ms
+Random pivots:
+Nodes expanded: 1831
+Solution cost: 188
+time: 17 ms
+
+start: 10 123 goal: 166 71
+Farthest spaced:
+Nodes expanded: 1899
+Solution cost: 184
+time: 16 ms
+Random pivots:
+Nodes expanded: 1899
+Solution cost: 184
+time: 16 ms
+
+start: 10 128 goal: 138 63
+Farthest spaced:
+Nodes expanded: 1699
+Solution cost: 191
+time: 14 ms
+Random pivots:
+Nodes expanded: 1699
+Solution cost: 191
+time: 14 ms
+
+start: 10 134 goal: 131 70
+Farthest spaced:
+Nodes expanded: 520
+Solution cost: 192
+time: 3 ms
+Random pivots:
+Nodes expanded: 603
+Solution cost: 192
+time: 3 ms
+
+start: 100 107 goal: 80 162
+Farthest spaced:
+Nodes expanded: 2026
+Solution cost: 179
+time: 22 ms
+Random pivots:
+Nodes expanded: 2026
+Solution cost: 179
+time: 22 ms
+
+start: 100 151 goal: 99 94
+Farthest spaced:
+Nodes expanded: 2735
+Solution cost: 182
+time: 31 ms
+Random pivots:
+Nodes expanded: 2937
+Solution cost: 182
+time: 35 ms
+
+start: 100 16 goal: 70 160
+Farthest spaced:
+Nodes expanded: 2128
+Solution cost: 179
+time: 21 ms
+Random pivots:
+Nodes expanded: 2210
+Solution cost: 179
+time: 22 ms
+
+start: 100 187 goal: 28 53
+Farthest spaced:
+Nodes expanded: 2976
+Solution cost: 182
+time: 37 ms
+Random pivots:
+Nodes expanded: 3764
+Solution cost: 182
+time: 56 ms
+
+start: 100 23 goal: 65 164
+Farthest spaced:
+Nodes expanded: 2012
+Solution cost: 177
+time: 18 ms
+Random pivots:
+Nodes expanded: 2276
+Solution cost: 177
+time: 21 ms
+
+start: 100 29 goal: 63 124
+Farthest spaced:
+Nodes expanded: 2039
+Solution cost: 183
+time: 21 ms
+Random pivots:
+Nodes expanded: 2157
+Solution cost: 183
+time: 22 ms
+
+start: 10 116 goal: 161 71
+Farthest spaced:
+Nodes expanded: 1939
+Solution cost: 187
+time: 17 ms
+Random pivots:
+Nodes expanded: 1986
+Solution cost: 187
+time: 17 ms
+
+start: 10 59 goal: 129 127
+Farthest spaced:
+Nodes expanded: 1841
+Solution cost: 190
+time: 20 ms
+Random pivots:
+Nodes expanded: 2018
+Solution cost: 190
+time: 22 ms
+
+start: 100 101 goal: 66 168
+Farthest spaced:
+Nodes expanded: 1558
+Solution cost: 182
+time: 18 ms
+Random pivots:
+Nodes expanded: 2274
+Solution cost: 182
+time: 26 ms
+
+start: 100 102 goal: 88 165
+Farthest spaced:
+Nodes expanded: 2568
+Solution cost: 179
+time: 30 ms
+Random pivots:
+Nodes expanded: 2406
+Solution cost: 179
+time: 28 ms
+
+start: 100 109 goal: 89 159
+Farthest spaced:
+Nodes expanded: 2539
+Solution cost: 180
+time: 30 ms
+Random pivots:
+Nodes expanded: 2539
+Solution cost: 180
+time: 30 ms
+
+start: 100 111 goal: 63 162
+Farthest spaced:
+Nodes expanded: 1830
+Solution cost: 183
+time: 22 ms
+Random pivots:
+Nodes expanded: 2316
+Solution cost: 183
+time: 27 ms
+
+start: 100 12 goal: 89 189
+Farthest spaced:
+Nodes expanded: 1788
+Solution cost: 178
+time: 15 ms
+Random pivots:
+Nodes expanded: 1795
+Solution cost: 178
+time: 16 ms
+
+start: 100 154 goal: 101 90
+Farthest spaced:
+Nodes expanded: 2596
+Solution cost: 185
+time: 30 ms
+Random pivots:
+Nodes expanded: 2612
+Solution cost: 185
+time: 29 ms
+
+start: 100 16 goal: 79 189
+Farthest spaced:
+Nodes expanded: 1805
+Solution cost: 174
+time: 15 ms
+Random pivots:
+Nodes expanded: 1806
+Solution cost: 174
+time: 16 ms
+
+start: 100 186 goal: 52 31
+Farthest spaced:
+Nodes expanded: 2211
+Solution cost: 191
+time: 24 ms
+Random pivots:
+Nodes expanded: 2683
+Solution cost: 191
+time: 31 ms
+
+start: 10 132 goal: 180 83
+Farthest spaced:
+Nodes expanded: 1374
+Solution cost: 198
+time: 11 ms
+Random pivots:
+Nodes expanded: 1501
+Solution cost: 198
+time: 12 ms
+
+start: 10 134 goal: 175 70
+Farthest spaced:
+Nodes expanded: 1878
+Solution cost: 195
+time: 16 ms
+Random pivots:
+Nodes expanded: 1887
+Solution cost: 195
+time: 16 ms
+
+start: 10 79 goal: 148 121
+Farthest spaced:
+Nodes expanded: 2397
+Solution cost: 197
+time: 26 ms
+Random pivots:
+Nodes expanded: 2413
+Solution cost: 197
+time: 26 ms
+
+start: 100 174 goal: 85 98
+Farthest spaced:
+Nodes expanded: 2355
+Solution cost: 182
+time: 28 ms
+Random pivots:
+Nodes expanded: 3573
+Solution cost: 182
+time: 49 ms
+
+start: 100 5 goal: 78 176
+Farthest spaced:
+Nodes expanded: 1680
+Solution cost: 182
+time: 14 ms
+Random pivots:
+Nodes expanded: 1723
+Solution cost: 182
+time: 14 ms
+
+start: 100 7 goal: 75 172
+Farthest spaced:
+Nodes expanded: 1886
+Solution cost: 183
+time: 16 ms
+Random pivots:
+Nodes expanded: 1968
+Solution cost: 183
+time: 17 ms
+
+start: 100 85 goal: 102 165
+Farthest spaced:
+Nodes expanded: 2561
+Solution cost: 185
+time: 28 ms
+Random pivots:
+Nodes expanded: 2495
+Solution cost: 185
+time: 27 ms
+
+start: 100 87 goal: 72 184
+Farthest spaced:
+Nodes expanded: 2308
+Solution cost: 195
+time: 24 ms
+Random pivots:
+Nodes expanded: 2764
+Solution cost: 195
+time: 30 ms
+
+start: 100 93 goal: 101 159
+Farthest spaced:
+Nodes expanded: 2363
+Solution cost: 186
+time: 25 ms
+Random pivots:
+Nodes expanded: 2402
+Solution cost: 186
+time: 26 ms
+
+start: 101 104 goal: 67 170
+Farthest spaced:
+Nodes expanded: 1277
+Solution cost: 185
+time: 14 ms
+Random pivots:
+Nodes expanded: 2231
+Solution cost: 185
+time: 24 ms
+
+start: 10 127 goal: 182 84
+Farthest spaced:
+Nodes expanded: 1865
+Solution cost: 200
+time: 17 ms
+Random pivots:
+Nodes expanded: 1912
+Solution cost: 200
+time: 17 ms
+
+start: 10 87 goal: 162 145
+Farthest spaced:
+Nodes expanded: 2178
+Solution cost: 207
+time: 23 ms
+Random pivots:
+Nodes expanded: 2234
+Solution cost: 207
+time: 23 ms
+
+start: 100 112 goal: 75 170
+Farthest spaced:
+Nodes expanded: 1866
+Solution cost: 192
+time: 20 ms
+Random pivots:
+Nodes expanded: 1722
+Solution cost: 192
+time: 18 ms
+
+start: 100 143 goal: 114 91
+Farthest spaced:
+Nodes expanded: 2614
+Solution cost: 197
+time: 31 ms
+Random pivots:
+Nodes expanded: 2653
+Solution cost: 197
+time: 31 ms
+
+start: 100 185 goal: 91 85
+Farthest spaced:
+Nodes expanded: 3097
+Solution cost: 187
+time: 41 ms
+Random pivots:
+Nodes expanded: 3316
+Solution cost: 187
+time: 44 ms
+
+start: 100 186 goal: 21 39
+Farthest spaced:
+Nodes expanded: 3408
+Solution cost: 188
+time: 46 ms
+Random pivots:
+Nodes expanded: 4607
+Solution cost: 188
+time: 74 ms
+
+start: 100 21 goal: 60 172
+Farthest spaced:
+Nodes expanded: 2137
+Solution cost: 184
+time: 21 ms
+Random pivots:
+Nodes expanded: 2324
+Solution cost: 184
+time: 23 ms
+
+start: 100 36 goal: 42 144
+Farthest spaced:
+Nodes expanded: 1999
+Solution cost: 191
+time: 20 ms
+Random pivots:
+Nodes expanded: 1999
+Solution cost: 191
+time: 20 ms
+
+start: 100 84 goal: 112 159
+Farthest spaced:
+Nodes expanded: 2514
+Solution cost: 195
+time: 27 ms
+Random pivots:
+Nodes expanded: 2648
+Solution cost: 195
+time: 29 ms
+
+start: 100 93 goal: 113 146
+Farthest spaced:
+Nodes expanded: 1756
+Solution cost: 196
+time: 18 ms
+Random pivots:
+Nodes expanded: 1756
+Solution cost: 196
+time: 17 ms
+
+start: 10 134 goal: 170 89
+Farthest spaced:
+Nodes expanded: 2074
+Solution cost: 206
+time: 24 ms
+Random pivots:
+Nodes expanded: 2974
+Solution cost: 206
+time: 36 ms
+
+start: 10 58 goal: 146 123
+Farthest spaced:
+Nodes expanded: 2249
+Solution cost: 199
+time: 24 ms
+Random pivots:
+Nodes expanded: 2338
+Solution cost: 199
+time: 24 ms
+
+start: 10 66 goal: 153 147
+Farthest spaced:
+Nodes expanded: 2401
+Solution cost: 202
+time: 26 ms
+Random pivots:
+Nodes expanded: 2560
+Solution cost: 202
+time: 28 ms
+
+start: 10 67 goal: 153 152
+Farthest spaced:
+Nodes expanded: 2462
+Solution cost: 201
+time: 28 ms
+Random pivots:
+Nodes expanded: 2937
+Solution cost: 201
+time: 35 ms
+
+start: 100 149 goal: 111 100
+Farthest spaced:
+Nodes expanded: 2975
+Solution cost: 194
+time: 37 ms
+Random pivots:
+Nodes expanded: 3178
+Solution cost: 194
+time: 39 ms
+
+start: 100 189 goal: 41 24
+Farthest spaced:
+Nodes expanded: 2187
+Solution cost: 201
+time: 26 ms
+Random pivots:
+Nodes expanded: 2654
+Solution cost: 201
+time: 32 ms
+
+start: 100 49 goal: 29 137
+Farthest spaced:
+Nodes expanded: 1138
+Solution cost: 204
+time: 10 ms
+Random pivots:
+Nodes expanded: 1138
+Solution cost: 204
+time: 9 ms
+
+start: 100 6 goal: 67 130
+Farthest spaced:
+Nodes expanded: 2106
+Solution cost: 200
+time: 23 ms
+Random pivots:
+Nodes expanded: 2203
+Solution cost: 200
+time: 22 ms
+
+start: 100 97 goal: 62 185
+Farthest spaced:
+Nodes expanded: 2008
+Solution cost: 196
+time: 22 ms
+Random pivots:
+Nodes expanded: 3411
+Solution cost: 196
+time: 43 ms
+
+start: 101 106 goal: 100 167
+Farthest spaced:
+Nodes expanded: 2901
+Solution cost: 188
+time: 35 ms
+Random pivots:
+Nodes expanded: 2785
+Solution cost: 188
+time: 33 ms
+
+start: 10 123 goal: 185 71
+Farthest spaced:
+Nodes expanded: 1789
+Solution cost: 204
+time: 16 ms
+Random pivots:
+Nodes expanded: 1862
+Solution cost: 204
+time: 17 ms
+
+start: 10 126 goal: 163 53
+Farthest spaced:
+Nodes expanded: 1927
+Solution cost: 201
+time: 17 ms
+Random pivots:
+Nodes expanded: 2176
+Solution cost: 201
+time: 20 ms
+
+start: 10 61 goal: 156 137
+Farthest spaced:
+Nodes expanded: 1788
+Solution cost: 209
+time: 17 ms
+Random pivots:
+Nodes expanded: 1548
+Solution cost: 209
+time: 13 ms
+
+start: 10 74 goal: 159 151
+Farthest spaced:
+Nodes expanded: 2817
+Solution cost: 207
+time: 34 ms
+Random pivots:
+Nodes expanded: 3062
+Solution cost: 207
+time: 37 ms
+
+start: 10 84 goal: 158 109
+Farthest spaced:
+Nodes expanded: 2331
+Solution cost: 204
+time: 24 ms
+Random pivots:
+Nodes expanded: 2367
+Solution cost: 204
+time: 23 ms
+
+start: 10 90 goal: 159 167
+Farthest spaced:
+Nodes expanded: 3292
+Solution cost: 212
+time: 43 ms
+Random pivots:
+Nodes expanded: 3628
+Solution cost: 212
+time: 48 ms
+
+start: 100 103 goal: 115 144
+Farthest spaced:
+Nodes expanded: 1638
+Solution cost: 201
+time: 16 ms
+Random pivots:
+Nodes expanded: 1638
+Solution cost: 201
+time: 16 ms
+
+start: 100 169 goal: 91 114
+Farthest spaced:
+Nodes expanded: 3257
+Solution cost: 196
+time: 42 ms
+Random pivots:
+Nodes expanded: 3867
+Solution cost: 196
+time: 55 ms
+
+start: 100 2 goal: 75 182
+Farthest spaced:
+Nodes expanded: 1763
+Solution cost: 190
+time: 15 ms
+Random pivots:
+Nodes expanded: 1831
+Solution cost: 190
+time: 16 ms
+
+start: 100 45 goal: 26 137
+Farthest spaced:
+Nodes expanded: 1234
+Solution cost: 207
+time: 10 ms
+Random pivots:
+Nodes expanded: 1367
+Solution cost: 207
+time: 11 ms
+
+start: 10 112 goal: 124 55
+Farthest spaced:
+Nodes expanded: 2470
+Solution cost: 207
+time: 26 ms
+Random pivots:
+Nodes expanded: 2799
+Solution cost: 207
+time: 30 ms
+
+start: 10 86 goal: 162 166
+Farthest spaced:
+Nodes expanded: 3396
+Solution cost: 211
+time: 45 ms
+Random pivots:
+Nodes expanded: 3609
+Solution cost: 211
+time: 50 ms
+
+start: 10 90 goal: 168 160
+Farthest spaced:
+Nodes expanded: 3052
+Solution cost: 213
+time: 40 ms
+Random pivots:
+Nodes expanded: 3234
+Solution cost: 213
+time: 42 ms
+
+start: 100 102 goal: 96 180
+Farthest spaced:
+Nodes expanded: 3277
+Solution cost: 194
+time: 40 ms
+Random pivots:
+Nodes expanded: 3365
+Solution cost: 194
+time: 41 ms
+
+start: 100 104 goal: 103 177
+Farthest spaced:
+Nodes expanded: 3241
+Solution cost: 191
+time: 40 ms
+Random pivots:
+Nodes expanded: 3301
+Solution cost: 191
+time: 40 ms
+
+start: 100 108 goal: 100 176
+Farthest spaced:
+Nodes expanded: 3132
+Solution cost: 194
+time: 37 ms
+Random pivots:
+Nodes expanded: 3192
+Solution cost: 194
+time: 38 ms
+
+start: 100 108 goal: 112 148
+Farthest spaced:
+Nodes expanded: 1958
+Solution cost: 202
+time: 23 ms
+Random pivots:
+Nodes expanded: 1958
+Solution cost: 202
+time: 22 ms
+
+start: 100 108 goal: 61 184
+Farthest spaced:
+Nodes expanded: 2080
+Solution cost: 202
+time: 25 ms
+Random pivots:
+Nodes expanded: 3449
+Solution cost: 202
+time: 44 ms
+
+start: 100 112 goal: 110 140
+Farthest spaced:
+Nodes expanded: 1498
+Solution cost: 204
+time: 15 ms
+Random pivots:
+Nodes expanded: 1498
+Solution cost: 204
+time: 14 ms
+
+start: 100 115 goal: 66 177
+Farthest spaced:
+Nodes expanded: 1738
+Solution cost: 202
+time: 19 ms
+Random pivots:
+Nodes expanded: 2992
+Solution cost: 202
+time: 36 ms
+
+start: 10 120 goal: 187 83
+Farthest spaced:
+Nodes expanded: 688
+Solution cost: 210
+time: 5 ms
+Random pivots:
+Nodes expanded: 853
+Solution cost: 210
+time: 6 ms
+
+start: 10 126 goal: 116 46
+Farthest spaced:
+Nodes expanded: 2753
+Solution cost: 208
+time: 31 ms
+Random pivots:
+Nodes expanded: 3054
+Solution cost: 208
+time: 36 ms
+
+start: 10 62 goal: 158 156
+Farthest spaced:
+Nodes expanded: 2970
+Solution cost: 211
+time: 38 ms
+Random pivots:
+Nodes expanded: 3293
+Solution cost: 211
+time: 42 ms
+
+start: 10 64 goal: 164 139
+Farthest spaced:
+Nodes expanded: 1784
+Solution cost: 215
+time: 17 ms
+Random pivots:
+Nodes expanded: 1684
+Solution cost: 215
+time: 15 ms
+
+start: 10 85 goal: 146 94
+Farthest spaced:
+Nodes expanded: 2732
+Solution cost: 215
+time: 34 ms
+Random pivots:
+Nodes expanded: 2732
+Solution cost: 215
+time: 34 ms
+
+start: 10 89 goal: 176 124
+Farthest spaced:
+Nodes expanded: 2295
+Solution cost: 222
+time: 24 ms
+Random pivots:
+Nodes expanded: 2117
+Solution cost: 222
+time: 20 ms
+
+start: 10 91 goal: 175 124
+Farthest spaced:
+Nodes expanded: 2198
+Solution cost: 221
+time: 21 ms
+Random pivots:
+Nodes expanded: 2023
+Solution cost: 221
+time: 19 ms
+
+start: 100 103 goal: 124 140
+Farthest spaced:
+Nodes expanded: 1343
+Solution cost: 210
+time: 13 ms
+Random pivots:
+Nodes expanded: 1343
+Solution cost: 210
+time: 12 ms
+
+start: 100 111 goal: 100 176
+Farthest spaced:
+Nodes expanded: 3132
+Solution cost: 197
+time: 37 ms
+Random pivots:
+Nodes expanded: 3192
+Solution cost: 197
+time: 38 ms
+
+start: 100 27 goal: 33 143
+Farthest spaced:
+Nodes expanded: 1917
+Solution cost: 205
+time: 20 ms
+Random pivots:
+Nodes expanded: 2033
+Solution cost: 205
+time: 21 ms
+
+start: 10 130 goal: 116 40
+Farthest spaced:
+Nodes expanded: 2808
+Solution cost: 214
+time: 31 ms
+Random pivots:
+Nodes expanded: 3018
+Solution cost: 214
+time: 35 ms
+
+start: 10 130 goal: 148 33
+Farthest spaced:
+Nodes expanded: 2505
+Solution cost: 221
+time: 27 ms
+Random pivots:
+Nodes expanded: 2703
+Solution cost: 221
+time: 30 ms
+
+start: 10 62 goal: 165 148
+Farthest spaced:
+Nodes expanded: 2525
+Solution cost: 218
+time: 28 ms
+Random pivots:
+Nodes expanded: 2754
+Solution cost: 218
+time: 32 ms
+
+start: 10 67 goal: 167 122
+Farthest spaced:
+Nodes expanded: 2419
+Solution cost: 216
+time: 26 ms
+Random pivots:
+Nodes expanded: 2091
+Solution cost: 216
+time: 21 ms
+
+start: 10 94 goal: 147 87
+Farthest spaced:
+Nodes expanded: 2610
+Solution cost: 222
+time: 31 ms
+Random pivots:
+Nodes expanded: 2610
+Solution cost: 222
+time: 31 ms
+
+start: 10 94 goal: 173 107
+Farthest spaced:
+Nodes expanded: 2270
+Solution cost: 218
+time: 23 ms
+Random pivots:
+Nodes expanded: 2368
+Solution cost: 218
+time: 25 ms
+
+start: 100 101 goal: 122 154
+Farthest spaced:
+Nodes expanded: 2633
+Solution cost: 208
+time: 32 ms
+Random pivots:
+Nodes expanded: 2859
+Solution cost: 208
+time: 35 ms
+
+start: 100 11 goal: 41 136
+Farthest spaced:
+Nodes expanded: 1325
+Solution cost: 213
+time: 12 ms
+Random pivots:
+Nodes expanded: 1325
+Solution cost: 213
+time: 12 ms
+
+start: 100 114 goal: 115 139
+Farthest spaced:
+Nodes expanded: 1631
+Solution cost: 211
+time: 17 ms
+Random pivots:
+Nodes expanded: 1631
+Solution cost: 211
+time: 17 ms
+
+start: 100 154 goal: 118 117
+Farthest spaced:
+Nodes expanded: 4093
+Solution cost: 205
+time: 60 ms
+Random pivots:
+Nodes expanded: 4192
+Solution cost: 205
+time: 63 ms
+
+start: 10 108 goal: 183 59
+Farthest spaced:
+Nodes expanded: 2330
+Solution cost: 217
+time: 23 ms
+Random pivots:
+Nodes expanded: 2333
+Solution cost: 217
+time: 23 ms
+
+start: 10 122 goal: 148 31
+Farthest spaced:
+Nodes expanded: 2537
+Solution cost: 223
+time: 29 ms
+Random pivots:
+Nodes expanded: 2783
+Solution cost: 223
+time: 32 ms
+
+start: 10 128 goal: 151 34
+Farthest spaced:
+Nodes expanded: 2445
+Solution cost: 224
+time: 27 ms
+Random pivots:
+Nodes expanded: 2649
+Solution cost: 224
+time: 29 ms
+
+start: 10 93 goal: 180 136
+Farthest spaced:
+Nodes expanded: 2031
+Solution cost: 226
+time: 21 ms
+Random pivots:
+Nodes expanded: 2430
+Solution cost: 226
+time: 26 ms
+
+start: 100 111 goal: 119 153
+Farthest spaced:
+Nodes expanded: 2738
+Solution cost: 212
+time: 35 ms
+Random pivots:
+Nodes expanded: 2786
+Solution cost: 212
+time: 33 ms
+
+start: 100 24 goal: 30 150
+Farthest spaced:
+Nodes expanded: 2824
+Solution cost: 211
+time: 36 ms
+Random pivots:
+Nodes expanded: 3049
+Solution cost: 211
+time: 40 ms
+
+start: 100 30 goal: 19 135
+Farthest spaced:
+Nodes expanded: 1484
+Solution cost: 217
+time: 12 ms
+Random pivots:
+Nodes expanded: 1629
+Solution cost: 217
+time: 14 ms
+
+start: 100 97 goal: 134 134
+Farthest spaced:
+Nodes expanded: 1751
+Solution cost: 217
+time: 19 ms
+Random pivots:
+Nodes expanded: 1751
+Solution cost: 217
+time: 18 ms
+
+start: 101 177 goal: 109 112
+Farthest spaced:
+Nodes expanded: 3931
+Solution cost: 200
+time: 55 ms
+Random pivots:
+Nodes expanded: 4502
+Solution cost: 200
+time: 70 ms
+
+start: 101 86 goal: 127 128
+Farthest spaced:
+Nodes expanded: 2189
+Solution cost: 220
+time: 25 ms
+Random pivots:
+Nodes expanded: 2400
+Solution cost: 220
+time: 28 ms
+
+start: 10 114 goal: 114 43
+Farthest spaced:
+Nodes expanded: 3013
+Solution cost: 217
+time: 36 ms
+Random pivots:
+Nodes expanded: 3267
+Solution cost: 217
+time: 40 ms
+
+start: 10 62 goal: 164 107
+Farthest spaced:
+Nodes expanded: 2637
+Solution cost: 217
+time: 29 ms
+Random pivots:
+Nodes expanded: 2728
+Solution cost: 217
+time: 32 ms
+
+start: 100 114 goal: 98 187
+Farthest spaced:
+Nodes expanded: 3386
+Solution cost: 211
+time: 42 ms
+Random pivots:
+Nodes expanded: 3473
+Solution cost: 211
+time: 43 ms
+
+start: 100 20 goal: 28 146
+Farthest spaced:
+Nodes expanded: 2560
+Solution cost: 217
+time: 30 ms
+Random pivots:
+Nodes expanded: 2801
+Solution cost: 217
+time: 33 ms
+
+start: 100 42 goal: 27 119
+Farthest spaced:
+Nodes expanded: 2427
+Solution cost: 222
+time: 30 ms
+Random pivots:
+Nodes expanded: 2457
+Solution cost: 222
+time: 29 ms
+
+start: 100 85 goal: 143 141
+Farthest spaced:
+Nodes expanded: 1841
+Solution cost: 226
+time: 18 ms
+Random pivots:
+Nodes expanded: 1710
+Solution cost: 226
+time: 17 ms
+
+start: 101 177 goal: 116 113
+Farthest spaced:
+Nodes expanded: 3995
+Solution cost: 206
+time: 56 ms
+Random pivots:
+Nodes expanded: 4509
+Solution cost: 206
+time: 70 ms
+
+start: 101 24 goal: 22 133
+Farthest spaced:
+Nodes expanded: 1572
+Solution cost: 219
+time: 15 ms
+Random pivots:
+Nodes expanded: 1717
+Solution cost: 219
+time: 16 ms
+
+start: 101 31 goal: 34 124
+Farthest spaced:
+Nodes expanded: 2350
+Solution cost: 218
+time: 30 ms
+Random pivots:
+Nodes expanded: 2350
+Solution cost: 218
+time: 30 ms
+
+start: 101 41 goal: 32 117
+Farthest spaced:
+Nodes expanded: 2628
+Solution cost: 223
+time: 34 ms
+Random pivots:
+Nodes expanded: 2641
+Solution cost: 223
+time: 34 ms
+
+start: 10 102 goal: 151 51
+Farthest spaced:
+Nodes expanded: 2550
+Solution cost: 221
+time: 28 ms
+Random pivots:
+Nodes expanded: 2679
+Solution cost: 221
+time: 28 ms
+
+start: 10 115 goal: 164 33
+Farthest spaced:
+Nodes expanded: 2267
+Solution cost: 226
+time: 21 ms
+Random pivots:
+Nodes expanded: 2267
+Solution cost: 226
+time: 21 ms
+
+start: 10 118 goal: 149 28
+Farthest spaced:
+Nodes expanded: 2500
+Solution cost: 228
+time: 28 ms
+Random pivots:
+Nodes expanded: 2774
+Solution cost: 228
+time: 31 ms
+
+start: 10 122 goal: 104 39
+Farthest spaced:
+Nodes expanded: 3124
+Solution cost: 219
+time: 39 ms
+Random pivots:
+Nodes expanded: 3484
+Solution cost: 219
+time: 45 ms
+
+start: 10 84 goal: 153 80
+Farthest spaced:
+Nodes expanded: 2999
+Solution cost: 229
+time: 38 ms
+Random pivots:
+Nodes expanded: 3008
+Solution cost: 229
+time: 39 ms
+
+start: 10 86 goal: 147 75
+Farthest spaced:
+Nodes expanded: 2777
+Solution cost: 234
+time: 35 ms
+Random pivots:
+Nodes expanded: 2777
+Solution cost: 234
+time: 34 ms
+
+start: 10 86 goal: 183 109
+Farthest spaced:
+Nodes expanded: 2363
+Solution cost: 228
+time: 25 ms
+Random pivots:
+Nodes expanded: 2708
+Solution cost: 228
+time: 31 ms
+
+start: 10 87 goal: 184 110
+Farthest spaced:
+Nodes expanded: 2267
+Solution cost: 230
+time: 25 ms
+Random pivots:
+Nodes expanded: 2630
+Solution cost: 230
+time: 30 ms
+
+start: 10 89 goal: 185 111
+Farthest spaced:
+Nodes expanded: 2443
+Solution cost: 230
+time: 37 ms
+Random pivots:
+Nodes expanded: 2736
+Solution cost: 230
+time: 34 ms
+
+start: 100 168 goal: 122 120
+Farthest spaced:
+Nodes expanded: 4107
+Solution cost: 209
+time: 65 ms
+Random pivots:
+Nodes expanded: 4215
+Solution cost: 209
+time: 68 ms
+
+start: 10 66 goal: 182 136
+Farthest spaced:
+Nodes expanded: 2472
+Solution cost: 231
+time: 28 ms
+Random pivots:
+Nodes expanded: 2797
+Solution cost: 231
+time: 33 ms
+
+start: 10 91 goal: 143 71
+Farthest spaced:
+Nodes expanded: 2569
+Solution cost: 238
+time: 33 ms
+Random pivots:
+Nodes expanded: 2569
+Solution cost: 238
+time: 33 ms
+
+start: 100 10 goal: 31 146
+Farthest spaced:
+Nodes expanded: 2727
+Solution cost: 224
+time: 34 ms
+Random pivots:
+Nodes expanded: 2846
+Solution cost: 224
+time: 35 ms
+
+start: 100 42 goal: 7 120
+Farthest spaced:
+Nodes expanded: 2199
+Solution cost: 226
+time: 23 ms
+Random pivots:
+Nodes expanded: 2753
+Solution cost: 226
+time: 31 ms
+
+start: 100 46 goal: 44 116
+Farthest spaced:
+Nodes expanded: 3344
+Solution cost: 226
+time: 51 ms
+Random pivots:
+Nodes expanded: 3341
+Solution cost: 226
+time: 50 ms
+
+start: 100 87 goal: 144 123
+Farthest spaced:
+Nodes expanded: 2699
+Solution cost: 227
+time: 35 ms
+Random pivots:
+Nodes expanded: 2750
+Solution cost: 227
+time: 34 ms
+
+start: 101 28 goal: 16 122
+Farthest spaced:
+Nodes expanded: 2097
+Solution cost: 223
+time: 23 ms
+Random pivots:
+Nodes expanded: 2533
+Solution cost: 223
+time: 30 ms
+
+start: 101 49 goal: 47 114
+Farthest spaced:
+Nodes expanded: 3510
+Solution cost: 228
+time: 55 ms
+Random pivots:
+Nodes expanded: 3542
+Solution cost: 228
+time: 54 ms
+
+start: 101 97 goal: 141 125
+Farthest spaced:
+Nodes expanded: 2603
+Solution cost: 225
+time: 32 ms
+Random pivots:
+Nodes expanded: 2634
+Solution cost: 225
+time: 31 ms
+
+start: 102 26 goal: 13 131
+Farthest spaced:
+Nodes expanded: 1943
+Solution cost: 226
+time: 19 ms
+Random pivots:
+Nodes expanded: 2373
+Solution cost: 226
+time: 24 ms
+
+start: 10 115 goal: 159 30
+Farthest spaced:
+Nodes expanded: 2397
+Solution cost: 230
+time: 25 ms
+Random pivots:
+Nodes expanded: 2416
+Solution cost: 230
+time: 25 ms
+
+start: 10 77 goal: 138 77
+Farthest spaced:
+Nodes expanded: 2685
+Solution cost: 235
+time: 34 ms
+Random pivots:
+Nodes expanded: 2685
+Solution cost: 235
+time: 34 ms
+
+start: 10 78 goal: 150 76
+Farthest spaced:
+Nodes expanded: 3067
+Solution cost: 236
+time: 40 ms
+Random pivots:
+Nodes expanded: 3067
+Solution cost: 236
+time: 41 ms
+
+start: 100 29 goal: 42 121
+Farthest spaced:
+Nodes expanded: 3137
+Solution cost: 227
+time: 47 ms
+Random pivots:
+Nodes expanded: 3173
+Solution cost: 227
+time: 47 ms
+
+start: 100 4 goal: 31 140
+Farthest spaced:
+Nodes expanded: 1847
+Solution cost: 230
+time: 20 ms
+Random pivots:
+Nodes expanded: 1927
+Solution cost: 230
+time: 21 ms
+
+start: 100 45 goal: 12 114
+Farthest spaced:
+Nodes expanded: 2180
+Solution cost: 229
+time: 25 ms
+Random pivots:
+Nodes expanded: 2468
+Solution cost: 229
+time: 27 ms
+
+start: 100 47 goal: 49 111
+Farthest spaced:
+Nodes expanded: 3592
+Solution cost: 231
+time: 58 ms
+Random pivots:
+Nodes expanded: 3607
+Solution cost: 231
+time: 57 ms
+
+start: 100 48 goal: 5 113
+Farthest spaced:
+Nodes expanded: 2257
+Solution cost: 230
+time: 24 ms
+Random pivots:
+Nodes expanded: 3075
+Solution cost: 230
+time: 37 ms
+
+start: 100 78 goal: 146 117
+Farthest spaced:
+Nodes expanded: 2601
+Solution cost: 230
+time: 32 ms
+Random pivots:
+Nodes expanded: 2601
+Solution cost: 230
+time: 31 ms
+
+start: 101 22 goal: 23 121
+Farthest spaced:
+Nodes expanded: 2499
+Solution cost: 230
+time: 29 ms
+Random pivots:
+Nodes expanded: 2598
+Solution cost: 230
+time: 30 ms
+
+start: 10 123 goal: 89 41
+Farthest spaced:
+Nodes expanded: 3747
+Solution cost: 234
+time: 53 ms
+Random pivots:
+Nodes expanded: 4108
+Solution cost: 234
+time: 63 ms
+
+start: 10 130 goal: 94 28
+Farthest spaced:
+Nodes expanded: 3244
+Solution cost: 232
+time: 43 ms
+Random pivots:
+Nodes expanded: 3625
+Solution cost: 232
+time: 49 ms
+
+start: 100 41 goal: 29 106
+Farthest spaced:
+Nodes expanded: 3318
+Solution cost: 235
+time: 50 ms
+Random pivots:
+Nodes expanded: 3333
+Solution cost: 235
+time: 49 ms
+
+start: 100 42 goal: 31 107
+Farthest spaced:
+Nodes expanded: 2876
+Solution cost: 234
+time: 41 ms
+Random pivots:
+Nodes expanded: 2878
+Solution cost: 234
+time: 40 ms
+
+start: 100 50 goal: 43 104
+Farthest spaced:
+Nodes expanded: 3203
+Solution cost: 237
+time: 49 ms
+Random pivots:
+Nodes expanded: 3203
+Solution cost: 237
+time: 49 ms
+
+start: 100 81 goal: 155 129
+Farthest spaced:
+Nodes expanded: 2602
+Solution cost: 242
+time: 32 ms
+Random pivots:
+Nodes expanded: 2358
+Solution cost: 242
+time: 28 ms
+
+start: 101 106 goal: 145 142
+Farthest spaced:
+Nodes expanded: 1861
+Solution cost: 233
+time: 19 ms
+Random pivots:
+Nodes expanded: 1602
+Solution cost: 233
+time: 16 ms
+
+start: 101 26 goal: 10 120
+Farthest spaced:
+Nodes expanded: 2179
+Solution cost: 229
+time: 23 ms
+Random pivots:
+Nodes expanded: 2893
+Solution cost: 229
+time: 34 ms
+
+start: 101 38 goal: 34 107
+Farthest spaced:
+Nodes expanded: 2614
+Solution cost: 233
+time: 36 ms
+Random pivots:
+Nodes expanded: 2612
+Solution cost: 233
+time: 36 ms
+
+start: 101 81 goal: 151 114
+Farthest spaced:
+Nodes expanded: 2767
+Solution cost: 235
+time: 33 ms
+Random pivots:
+Nodes expanded: 2782
+Solution cost: 235
+time: 33 ms
+
+start: 10 101 goal: 105 45
+Farthest spaced:
+Nodes expanded: 3571
+Solution cost: 237
+time: 50 ms
+Random pivots:
+Nodes expanded: 3717
+Solution cost: 237
+time: 52 ms
+
+start: 10 61 goal: 185 107
+Farthest spaced:
+Nodes expanded: 2643
+Solution cost: 238
+time: 32 ms
+Random pivots:
+Nodes expanded: 2960
+Solution cost: 238
+time: 36 ms
+
+start: 10 62 goal: 151 78
+Farthest spaced:
+Nodes expanded: 3169
+Solution cost: 239
+time: 43 ms
+Random pivots:
+Nodes expanded: 3169
+Solution cost: 239
+time: 43 ms
+
+start: 10 64 goal: 141 75
+Farthest spaced:
+Nodes expanded: 2742
+Solution cost: 240
+time: 39 ms
+Random pivots:
+Nodes expanded: 2742
+Solution cost: 240
+time: 36 ms
+
+start: 10 67 goal: 161 76
+Farthest spaced:
+Nodes expanded: 3243
+Solution cost: 237
+time: 43 ms
+Random pivots:
+Nodes expanded: 3243
+Solution cost: 237
+time: 43 ms
+
+start: 10 68 goal: 191 112
+Farthest spaced:
+Nodes expanded: 2680
+Solution cost: 240
+time: 32 ms
+Random pivots:
+Nodes expanded: 2851
+Solution cost: 240
+time: 33 ms
+
+start: 10 75 goal: 163 73
+Farthest spaced:
+Nodes expanded: 3494
+Solution cost: 239
+time: 48 ms
+Random pivots:
+Nodes expanded: 3494
+Solution cost: 239
+time: 48 ms
+
+start: 10 84 goal: 133 65
+Farthest spaced:
+Nodes expanded: 2670
+Solution cost: 244
+time: 34 ms
+Random pivots:
+Nodes expanded: 2670
+Solution cost: 244
+time: 34 ms
+
+start: 10 86 goal: 169 78
+Farthest spaced:
+Nodes expanded: 2879
+Solution cost: 242
+time: 36 ms
+Random pivots:
+Nodes expanded: 2879
+Solution cost: 242
+time: 36 ms
+
+start: 100 25 goal: 39 114
+Farthest spaced:
+Nodes expanded: 2871
+Solution cost: 234
+time: 44 ms
+Random pivots:
+Nodes expanded: 2871
+Solution cost: 234
+time: 43 ms
+
+start: 10 77 goal: 160 69
+Farthest spaced:
+Nodes expanded: 3391
+Solution cost: 243
+time: 47 ms
+Random pivots:
+Nodes expanded: 3743
+Solution cost: 243
+time: 53 ms
+
+start: 10 84 goal: 129 68
+Farthest spaced:
+Nodes expanded: 2559
+Solution cost: 248
+time: 34 ms
+Random pivots:
+Nodes expanded: 2907
+Solution cost: 248
+time: 39 ms
+
+start: 10 85 goal: 134 61
+Farthest spaced:
+Nodes expanded: 2452
+Solution cost: 248
+time: 29 ms
+Random pivots:
+Nodes expanded: 2559
+Solution cost: 248
+time: 31 ms
+
+start: 10 88 goal: 130 63
+Farthest spaced:
+Nodes expanded: 2834
+Solution cost: 247
+time: 36 ms
+Random pivots:
+Nodes expanded: 3109
+Solution cost: 247
+time: 40 ms
+
+start: 100 14 goal: 13 124
+Farthest spaced:
+Nodes expanded: 2313
+Solution cost: 238
+time: 27 ms
+Random pivots:
+Nodes expanded: 2959
+Solution cost: 238
+time: 35 ms
+
+start: 100 15 goal: 35 119
+Farthest spaced:
+Nodes expanded: 2568
+Solution cost: 239
+time: 38 ms
+Random pivots:
+Nodes expanded: 2568
+Solution cost: 239
+time: 38 ms
+
+start: 100 36 goal: 22 110
+Farthest spaced:
+Nodes expanded: 3554
+Solution cost: 239
+time: 78 ms
+Random pivots:
+Nodes expanded: 3675
+Solution cost: 239
+time: 67 ms
+
+start: 100 98 goal: 157 154
+Farthest spaced:
+Nodes expanded: 3256
+Solution cost: 241
+time: 54 ms
+Random pivots:
+Nodes expanded: 3945
+Solution cost: 241
+time: 67 ms
+
+start: 101 103 goal: 137 116
+Farthest spaced:
+Nodes expanded: 2512
+Solution cost: 236
+time: 37 ms
+Random pivots:
+Nodes expanded: 2525
+Solution cost: 236
+time: 37 ms
+
+start: 101 104 goal: 149 119
+Farthest spaced:
+Nodes expanded: 3062
+Solution cost: 236
+time: 45 ms
+Random pivots:
+Nodes expanded: 3086
+Solution cost: 236
+time: 45 ms
+
+start: 10 117 goal: 85 31
+Farthest spaced:
+Nodes expanded: 4094
+Solution cost: 241
+time: 67 ms
+Random pivots:
+Nodes expanded: 4311
+Solution cost: 241
+time: 70 ms
+
+start: 10 122 goal: 77 39
+Farthest spaced:
+Nodes expanded: 3923
+Solution cost: 246
+time: 58 ms
+Random pivots:
+Nodes expanded: 4302
+Solution cost: 246
+time: 68 ms
+
+start: 10 87 goal: 171 66
+Farthest spaced:
+Nodes expanded: 3361
+Solution cost: 248
+time: 44 ms
+Random pivots:
+Nodes expanded: 3542
+Solution cost: 248
+time: 47 ms
+
+start: 100 106 goal: 146 114
+Farthest spaced:
+Nodes expanded: 2857
+Solution cost: 238
+time: 38 ms
+Random pivots:
+Nodes expanded: 2857
+Solution cost: 238
+time: 37 ms
+
+start: 100 109 goal: 157 137
+Farthest spaced:
+Nodes expanded: 2345
+Solution cost: 248
+time: 26 ms
+Random pivots:
+Nodes expanded: 2009
+Solution cost: 248
+time: 21 ms
+
+start: 100 48 goal: 44 94
+Farthest spaced:
+Nodes expanded: 3388
+Solution cost: 247
+time: 53 ms
+Random pivots:
+Nodes expanded: 3388
+Solution cost: 247
+time: 55 ms
+
+start: 100 7 goal: 31 119
+Farthest spaced:
+Nodes expanded: 2402
+Solution cost: 247
+time: 34 ms
+Random pivots:
+Nodes expanded: 2428
+Solution cost: 247
+time: 33 ms
+
+start: 100 83 goal: 153 102
+Farthest spaced:
+Nodes expanded: 3137
+Solution cost: 245
+time: 41 ms
+Random pivots:
+Nodes expanded: 3137
+Solution cost: 245
+time: 41 ms
+
+start: 100 93 goal: 160 123
+Farthest spaced:
+Nodes expanded: 2692
+Solution cost: 248
+time: 33 ms
+Random pivots:
+Nodes expanded: 2584
+Solution cost: 248
+time: 31 ms
+
+start: 100 97 goal: 150 108
+Farthest spaced:
+Nodes expanded: 3042
+Solution cost: 239
+time: 39 ms
+Random pivots:
+Nodes expanded: 3042
+Solution cost: 239
+time: 39 ms
+
+start: 10 113 goal: 83 39
+Farthest spaced:
+Nodes expanded: 4096
+Solution cost: 247
+time: 61 ms
+Random pivots:
+Nodes expanded: 4331
+Solution cost: 247
+time: 67 ms
+
+start: 10 123 goal: 75 43
+Farthest spaced:
+Nodes expanded: 3746
+Solution cost: 249
+time: 54 ms
+Random pivots:
+Nodes expanded: 4157
+Solution cost: 249
+time: 63 ms
+
+start: 10 124 goal: 98 11
+Farthest spaced:
+Nodes expanded: 3294
+Solution cost: 244
+time: 44 ms
+Random pivots:
+Nodes expanded: 3685
+Solution cost: 244
+time: 51 ms
+
+start: 10 79 goal: 158 59
+Farthest spaced:
+Nodes expanded: 3498
+Solution cost: 254
+time: 49 ms
+Random pivots:
+Nodes expanded: 3920
+Solution cost: 254
+time: 55 ms
+
+start: 100 106 goal: 148 108
+Farthest spaced:
+Nodes expanded: 3170
+Solution cost: 244
+time: 44 ms
+Random pivots:
+Nodes expanded: 3170
+Solution cost: 244
+time: 44 ms
+
+start: 100 28 goal: 22 113
+Farthest spaced:
+Nodes expanded: 3395
+Solution cost: 243
+time: 51 ms
+Random pivots:
+Nodes expanded: 3581
+Solution cost: 243
+time: 54 ms
+
+start: 100 78 goal: 149 169
+Farthest spaced:
+Nodes expanded: 2850
+Solution cost: 252
+time: 43 ms
+Random pivots:
+Nodes expanded: 4719
+Solution cost: 252
+time: 85 ms
+
+start: 100 87 goal: 159 119
+Farthest spaced:
+Nodes expanded: 2708
+Solution cost: 244
+time: 33 ms
+Random pivots:
+Nodes expanded: 2706
+Solution cost: 244
+time: 32 ms
+
+start: 101 23 goal: 14 109
+Farthest spaced:
+Nodes expanded: 2838
+Solution cost: 243
+time: 34 ms
+Random pivots:
+Nodes expanded: 3367
+Solution cost: 243
+time: 43 ms
+
+start: 101 78 goal: 159 165
+Farthest spaced:
+Nodes expanded: 3885
+Solution cost: 249
+time: 59 ms
+Random pivots:
+Nodes expanded: 4798
+Solution cost: 249
+time: 82 ms
+
+start: 10 108 goal: 77 49
+Farthest spaced:
+Nodes expanded: 3933
+Solution cost: 258
+time: 57 ms
+Random pivots:
+Nodes expanded: 4157
+Solution cost: 258
+time: 62 ms
+
+start: 10 59 goal: 133 67
+Farthest spaced:
+Nodes expanded: 2689
+Solution cost: 252
+time: 34 ms
+Random pivots:
+Nodes expanded: 2732
+Solution cost: 252
+time: 35 ms
+
+start: 10 59 goal: 141 62
+Farthest spaced:
+Nodes expanded: 2714
+Solution cost: 255
+time: 35 ms
+Random pivots:
+Nodes expanded: 3017
+Solution cost: 255
+time: 39 ms
+
+start: 10 84 goal: 142 48
+Farthest spaced:
+Nodes expanded: 2943
+Solution cost: 261
+time: 39 ms
+Random pivots:
+Nodes expanded: 4009
+Solution cost: 261
+time: 58 ms
+
+start: 10 84 goal: 143 52
+Farthest spaced:
+Nodes expanded: 3064
+Solution cost: 259
+time: 41 ms
+Random pivots:
+Nodes expanded: 3980
+Solution cost: 259
+time: 58 ms
+
+start: 100 103 goal: 161 124
+Farthest spaced:
+Nodes expanded: 2836
+Solution cost: 253
+time: 36 ms
+Random pivots:
+Nodes expanded: 2590
+Solution cost: 253
+time: 32 ms
+
+start: 100 104 goal: 165 126
+Farthest spaced:
+Nodes expanded: 3010
+Solution cost: 251
+time: 38 ms
+Random pivots:
+Nodes expanded: 2505
+Solution cost: 251
+time: 30 ms
+
+start: 100 46 goal: 48 88
+Farthest spaced:
+Nodes expanded: 3665
+Solution cost: 253
+time: 60 ms
+Random pivots:
+Nodes expanded: 3665
+Solution cost: 253
+time: 58 ms
+
+start: 100 9 goal: 38 114
+Farthest spaced:
+Nodes expanded: 3133
+Solution cost: 250
+time: 50 ms
+Random pivots:
+Nodes expanded: 3133
+Solution cost: 250
+time: 49 ms
+
+start: 100 96 goal: 154 103
+Farthest spaced:
+Nodes expanded: 3259
+Solution cost: 244
+time: 44 ms
+Random pivots:
+Nodes expanded: 3259
+Solution cost: 244
+time: 43 ms
+
+start: 10 113 goal: 100 10
+Farthest spaced:
+Nodes expanded: 3418
+Solution cost: 252
+time: 46 ms
+Random pivots:
+Nodes expanded: 3720
+Solution cost: 252
+time: 51 ms
+
+start: 10 119 goal: 69 42
+Farthest spaced:
+Nodes expanded: 3903
+Solution cost: 255
+time: 56 ms
+Random pivots:
+Nodes expanded: 4239
+Solution cost: 255
+time: 63 ms
+
+start: 10 84 goal: 153 49
+Farthest spaced:
+Nodes expanded: 3252
+Solution cost: 260
+time: 44 ms
+Random pivots:
+Nodes expanded: 4090
+Solution cost: 260
+time: 58 ms
+
+start: 10 84 goal: 187 70
+Farthest spaced:
+Nodes expanded: 3028
+Solution cost: 261
+time: 37 ms
+Random pivots:
+Nodes expanded: 3257
+Solution cost: 261
+time: 41 ms
+
+start: 10 90 goal: 151 49
+Farthest spaced:
+Nodes expanded: 3361
+Solution cost: 260
+time: 46 ms
+Random pivots:
+Nodes expanded: 4297
+Solution cost: 260
+time: 64 ms
+
+start: 100 13 goal: 26 109
+Farthest spaced:
+Nodes expanded: 3535
+Solution cost: 257
+time: 55 ms
+Random pivots:
+Nodes expanded: 3699
+Solution cost: 257
+time: 55 ms
+
+start: 100 14 goal: 11 108
+Farthest spaced:
+Nodes expanded: 3078
+Solution cost: 253
+time: 39 ms
+Random pivots:
+Nodes expanded: 3677
+Solution cost: 253
+time: 49 ms
+
+start: 100 23 goal: 9 104
+Farthest spaced:
+Nodes expanded: 3118
+Solution cost: 249
+time: 41 ms
+Random pivots:
+Nodes expanded: 4017
+Solution cost: 249
+time: 57 ms
+
+start: 100 37 goal: 34 91
+Farthest spaced:
+Nodes expanded: 2150
+Solution cost: 254
+time: 33 ms
+Random pivots:
+Nodes expanded: 2902
+Solution cost: 254
+time: 43 ms
+
+start: 100 96 goal: 150 171
+Farthest spaced:
+Nodes expanded: 3073
+Solution cost: 254
+time: 48 ms
+Random pivots:
+Nodes expanded: 4960
+Solution cost: 254
+time: 88 ms
+
+start: 10 78 goal: 149 52
+Farthest spaced:
+Nodes expanded: 3721
+Solution cost: 260
+time: 55 ms
+Random pivots:
+Nodes expanded: 4559
+Solution cost: 260
+time: 72 ms
+
+start: 10 85 goal: 190 88
+Farthest spaced:
+Nodes expanded: 3527
+Solution cost: 264
+time: 51 ms
+Random pivots:
+Nodes expanded: 4133
+Solution cost: 264
+time: 63 ms
+
+start: 10 88 goal: 141 40
+Farthest spaced:
+Nodes expanded: 2766
+Solution cost: 269
+time: 35 ms
+Random pivots:
+Nodes expanded: 3906
+Solution cost: 269
+time: 53 ms
+
+start: 100 107 goal: 167 156
+Farthest spaced:
+Nodes expanded: 4189
+Solution cost: 256
+time: 64 ms
+Random pivots:
+Nodes expanded: 4471
+Solution cost: 256
+time: 70 ms
+
+start: 100 108 goal: 153 102
+Farthest spaced:
+Nodes expanded: 3403
+Solution cost: 252
+time: 47 ms
+Random pivots:
+Nodes expanded: 3403
+Solution cost: 252
+time: 46 ms
+
+start: 100 111 goal: 148 103
+Farthest spaced:
+Nodes expanded: 3471
+Solution cost: 254
+time: 51 ms
+Random pivots:
+Nodes expanded: 3471
+Solution cost: 254
+time: 51 ms
+
+start: 100 111 goal: 164 158
+Farthest spaced:
+Nodes expanded: 4232
+Solution cost: 257
+time: 68 ms
+Random pivots:
+Nodes expanded: 4534
+Solution cost: 257
+time: 72 ms
+
+start: 100 42 goal: 43 79
+Farthest spaced:
+Nodes expanded: 3275
+Solution cost: 262
+time: 51 ms
+Random pivots:
+Nodes expanded: 3275
+Solution cost: 262
+time: 49 ms
+
+start: 100 44 goal: 33 82
+Farthest spaced:
+Nodes expanded: 3100
+Solution cost: 259
+time: 46 ms
+Random pivots:
+Nodes expanded: 3489
+Solution cost: 259
+time: 51 ms
+
+start: 100 49 goal: 23 91
+Farthest spaced:
+Nodes expanded: 2228
+Solution cost: 265
+time: 34 ms
+Random pivots:
+Nodes expanded: 4059
+Solution cost: 265
+time: 66 ms
+
+start: 10 59 goal: 176 87
+Farthest spaced:
+Nodes expanded: 469
+Solution cost: 265
+time: 4 ms
+Random pivots:
+Nodes expanded: 1474
+Solution cost: 265
+time: 13 ms
+
+start: 10 67 goal: 127 50
+Farthest spaced:
+Nodes expanded: 3690
+Solution cost: 262
+time: 52 ms
+Random pivots:
+Nodes expanded: 4368
+Solution cost: 262
+time: 67 ms
+
+start: 10 74 goal: 152 49
+Farthest spaced:
+Nodes expanded: 3467
+Solution cost: 263
+time: 48 ms
+Random pivots:
+Nodes expanded: 4210
+Solution cost: 263
+time: 61 ms
+
+start: 10 75 goal: 141 41
+Farthest spaced:
+Nodes expanded: 2817
+Solution cost: 271
+time: 36 ms
+Random pivots:
+Nodes expanded: 3966
+Solution cost: 271
+time: 55 ms
+
+start: 10 91 goal: 171 48
+Farthest spaced:
+Nodes expanded: 3661
+Solution cost: 266
+time: 50 ms
+Random pivots:
+Nodes expanded: 4080
+Solution cost: 266
+time: 58 ms
+
+start: 100 107 goal: 175 126
+Farthest spaced:
+Nodes expanded: 3426
+Solution cost: 264
+time: 46 ms
+Random pivots:
+Nodes expanded: 2923
+Solution cost: 264
+time: 36 ms
+
+start: 100 112 goal: 169 146
+Farthest spaced:
+Nodes expanded: 3351
+Solution cost: 263
+time: 44 ms
+Random pivots:
+Nodes expanded: 3329
+Solution cost: 263
+time: 44 ms
+
+start: 100 114 goal: 143 161
+Farthest spaced:
+Nodes expanded: 3321
+Solution cost: 261
+time: 55 ms
+Random pivots:
+Nodes expanded: 4704
+Solution cost: 261
+time: 82 ms
+
+start: 100 5 goal: 13 111
+Farthest spaced:
+Nodes expanded: 3087
+Solution cost: 259
+time: 39 ms
+Random pivots:
+Nodes expanded: 3410
+Solution cost: 259
+time: 44 ms
+
+start: 101 113 goal: 165 159
+Farthest spaced:
+Nodes expanded: 4435
+Solution cost: 260
+time: 75 ms
+Random pivots:
+Nodes expanded: 4719
+Solution cost: 260
+time: 79 ms
+
+start: 10 59 goal: 152 52
+Farthest spaced:
+Nodes expanded: 3552
+Solution cost: 265
+time: 50 ms
+Random pivots:
+Nodes expanded: 4261
+Solution cost: 265
+time: 63 ms
+
+start: 10 62 goal: 179 61
+Farthest spaced:
+Nodes expanded: 3750
+Solution cost: 266
+time: 53 ms
+Random pivots:
+Nodes expanded: 3914
+Solution cost: 266
+time: 57 ms
+
+start: 10 77 goal: 141 38
+Farthest spaced:
+Nodes expanded: 3074
+Solution cost: 274
+time: 40 ms
+Random pivots:
+Nodes expanded: 3969
+Solution cost: 274
+time: 55 ms
+
+start: 10 79 goal: 123 44
+Farthest spaced:
+Nodes expanded: 4251
+Solution cost: 269
+time: 68 ms
+Random pivots:
+Nodes expanded: 4670
+Solution cost: 269
+time: 74 ms
+
+start: 100 113 goal: 166 111
+Farthest spaced:
+Nodes expanded: 3265
+Solution cost: 261
+time: 43 ms
+Random pivots:
+Nodes expanded: 3312
+Solution cost: 261
+time: 43 ms
+
+start: 100 12 goal: 42 94
+Farthest spaced:
+Nodes expanded: 3490
+Solution cost: 267
+time: 61 ms
+Random pivots:
+Nodes expanded: 3490
+Solution cost: 267
+time: 57 ms
+
+start: 100 33 goal: 48 78
+Farthest spaced:
+Nodes expanded: 3641
+Solution cost: 263
+time: 60 ms
+Random pivots:
+Nodes expanded: 3641
+Solution cost: 263
+time: 58 ms
+
+start: 100 35 goal: 23 90
+Farthest spaced:
+Nodes expanded: 2173
+Solution cost: 265
+time: 33 ms
+Random pivots:
+Nodes expanded: 4083
+Solution cost: 265
+time: 67 ms
+
+start: 100 40 goal: 37 75
+Farthest spaced:
+Nodes expanded: 3529
+Solution cost: 266
+time: 53 ms
+Random pivots:
+Nodes expanded: 3575
+Solution cost: 266
+time: 52 ms
+
+start: 100 5 goal: 5 106
+Farthest spaced:
+Nodes expanded: 3005
+Solution cost: 264
+time: 38 ms
+Random pivots:
+Nodes expanded: 3770
+Solution cost: 264
+time: 50 ms
+
+start: 10 64 goal: 140 40
+Farthest spaced:
+Nodes expanded: 2999
+Solution cost: 275
+time: 39 ms
+Random pivots:
+Nodes expanded: 3980
+Solution cost: 275
+time: 56 ms
+
+start: 10 84 goal: 152 35
+Farthest spaced:
+Nodes expanded: 3467
+Solution cost: 274
+time: 48 ms
+Random pivots:
+Nodes expanded: 4300
+Solution cost: 274
+time: 63 ms
+
+start: 10 87 goal: 146 31
+Farthest spaced:
+Nodes expanded: 3498
+Solution cost: 278
+time: 51 ms
+Random pivots:
+Nodes expanded: 4485
+Solution cost: 278
+time: 70 ms
+
+start: 100 102 goal: 142 85
+Farthest spaced:
+Nodes expanded: 3245
+Solution cost: 265
+time: 48 ms
+Random pivots:
+Nodes expanded: 3245
+Solution cost: 265
+time: 48 ms
+
+start: 100 108 goal: 178 135
+Farthest spaced:
+Nodes expanded: 3182
+Solution cost: 268
+time: 43 ms
+Random pivots:
+Nodes expanded: 3322
+Solution cost: 268
+time: 45 ms
+
+start: 100 114 goal: 172 125
+Farthest spaced:
+Nodes expanded: 3386
+Solution cost: 268
+time: 46 ms
+Random pivots:
+Nodes expanded: 2916
+Solution cost: 268
+time: 38 ms
+
+start: 100 14 goal: 44 90
+Farthest spaced:
+Nodes expanded: 3634
+Solution cost: 269
+time: 60 ms
+Random pivots:
+Nodes expanded: 3634
+Solution cost: 269
+time: 59 ms
+
+start: 100 29 goal: 37 75
+Farthest spaced:
+Nodes expanded: 3491
+Solution cost: 269
+time: 51 ms
+Random pivots:
+Nodes expanded: 3568
+Solution cost: 269
+time: 53 ms
+
+start: 100 34 goal: 54 76
+Farthest spaced:
+Nodes expanded: 4011
+Solution cost: 265
+time: 67 ms
+Random pivots:
+Nodes expanded: 4011
+Solution cost: 265
+time: 66 ms
+
+start: 100 35 goal: 30 76
+Farthest spaced:
+Nodes expanded: 3628
+Solution cost: 265
+time: 57 ms
+Random pivots:
+Nodes expanded: 4055
+Solution cost: 265
+time: 63 ms
+
+start: 10 86 goal: 107 35
+Farthest spaced:
+Nodes expanded: 4422
+Solution cost: 275
+time: 74 ms
+Random pivots:
+Nodes expanded: 5264
+Solution cost: 275
+time: 91 ms
+
+start: 10 92 goal: 101 39
+Farthest spaced:
+Nodes expanded: 4521
+Solution cost: 277
+time: 75 ms
+Random pivots:
+Nodes expanded: 5361
+Solution cost: 277
+time: 96 ms
+
+start: 100 106 goal: 178 110
+Farthest spaced:
+Nodes expanded: 3122
+Solution cost: 267
+time: 41 ms
+Random pivots:
+Nodes expanded: 3197
+Solution cost: 267
+time: 43 ms
+
+start: 100 22 goal: 45 77
+Farthest spaced:
+Nodes expanded: 3494
+Solution cost: 274
+time: 56 ms
+Random pivots:
+Nodes expanded: 3494
+Solution cost: 274
+time: 55 ms
+
+start: 101 10 goal: 49 94
+Farthest spaced:
+Nodes expanded: 3955
+Solution cost: 270
+time: 67 ms
+Random pivots:
+Nodes expanded: 3965
+Solution cost: 270
+time: 67 ms
+
+start: 101 111 goal: 173 108
+Farthest spaced:
+Nodes expanded: 3271
+Solution cost: 268
+time: 43 ms
+Random pivots:
+Nodes expanded: 3324
+Solution cost: 268
+time: 44 ms
+
+start: 101 45 goal: 19 69
+Farthest spaced:
+Nodes expanded: 4142
+Solution cost: 273
+time: 69 ms
+Random pivots:
+Nodes expanded: 5659
+Solution cost: 273
+time: 107 ms
+
+start: 101 92 goal: 155 80
+Farthest spaced:
+Nodes expanded: 3741
+Solution cost: 269
+time: 57 ms
+Random pivots:
+Nodes expanded: 3820
+Solution cost: 269
+time: 57 ms
+
+start: 102 104 goal: 144 82
+Farthest spaced:
+Nodes expanded: 3371
+Solution cost: 270
+time: 50 ms
+Random pivots:
+Nodes expanded: 3371
+Solution cost: 270
+time: 49 ms
+
+start: 102 105 goal: 146 82
+Farthest spaced:
+Nodes expanded: 3477
+Solution cost: 270
+time: 52 ms
+Random pivots:
+Nodes expanded: 3477
+Solution cost: 270
+time: 51 ms
+
+start: 10 60 goal: 112 48
+Farthest spaced:
+Nodes expanded: 4179
+Solution cost: 274
+time: 66 ms
+Random pivots:
+Nodes expanded: 5036
+Solution cost: 274
+time: 83 ms
+
+start: 10 61 goal: 172 49
+Farthest spaced:
+Nodes expanded: 3985
+Solution cost: 273
+time: 59 ms
+Random pivots:
+Nodes expanded: 4155
+Solution cost: 273
+time: 61 ms
+
+start: 10 67 goal: 109 42
+Farthest spaced:
+Nodes expanded: 4460
+Solution cost: 272
+time: 76 ms
+Random pivots:
+Nodes expanded: 5219
+Solution cost: 272
+time: 90 ms
+
+start: 10 90 goal: 106 32
+Farthest spaced:
+Nodes expanded: 4328
+Solution cost: 278
+time: 71 ms
+Random pivots:
+Nodes expanded: 5235
+Solution cost: 278
+time: 93 ms
+
+start: 10 91 goal: 100 38
+Farthest spaced:
+Nodes expanded: 4496
+Solution cost: 278
+time: 76 ms
+Random pivots:
+Nodes expanded: 5319
+Solution cost: 278
+time: 96 ms
+
+start: 10 92 goal: 98 39
+Farthest spaced:
+Nodes expanded: 4792
+Solution cost: 280
+time: 83 ms
+Random pivots:
+Nodes expanded: 5564
+Solution cost: 280
+time: 102 ms
+
+start: 100 21 goal: 28 79
+Farthest spaced:
+Nodes expanded: 3250
+Solution cost: 274
+time: 53 ms
+Random pivots:
+Nodes expanded: 4390
+Solution cost: 274
+time: 75 ms
+
+start: 100 25 goal: 21 94
+Farthest spaced:
+Nodes expanded: 2211
+Solution cost: 274
+time: 36 ms
+Random pivots:
+Nodes expanded: 4639
+Solution cost: 274
+time: 85 ms
+
+start: 100 29 goal: 51 70
+Farthest spaced:
+Nodes expanded: 3820
+Solution cost: 274
+time: 63 ms
+Random pivots:
+Nodes expanded: 3820
+Solution cost: 274
+time: 62 ms
+
+start: 100 45 goal: 29 64
+Farthest spaced:
+Nodes expanded: 4119
+Solution cost: 277
+time: 65 ms
+Random pivots:
+Nodes expanded: 4646
+Solution cost: 277
+time: 78 ms
+
+start: 10 79 goal: 104 38
+Farthest spaced:
+Nodes expanded: 4726
+Solution cost: 278
+time: 83 ms
+Random pivots:
+Nodes expanded: 5295
+Solution cost: 278
+time: 92 ms
+
+start: 100 108 goal: 143 75
+Farthest spaced:
+Nodes expanded: 3312
+Solution cost: 279
+time: 50 ms
+Random pivots:
+Nodes expanded: 3312
+Solution cost: 279
+time: 49 ms
+
+start: 100 33 goal: 10 87
+Farthest spaced:
+Nodes expanded: 2830
+Solution cost: 278
+time: 44 ms
+Random pivots:
+Nodes expanded: 5551
+Solution cost: 278
+time: 104 ms
+
+start: 100 48 goal: 15 63
+Farthest spaced:
+Nodes expanded: 4506
+Solution cost: 282
+time: 74 ms
+Random pivots:
+Nodes expanded: 6027
+Solution cost: 282
+time: 117 ms
+
+start: 100 50 goal: 60 61
+Farthest spaced:
+Nodes expanded: 4211
+Solution cost: 280
+time: 73 ms
+Random pivots:
+Nodes expanded: 4211
+Solution cost: 280
+time: 70 ms
+
+start: 100 51 goal: 60 59
+Farthest spaced:
+Nodes expanded: 4206
+Solution cost: 282
+time: 71 ms
+Random pivots:
+Nodes expanded: 4206
+Solution cost: 282
+time: 70 ms
+
+start: 100 93 goal: 165 78
+Farthest spaced:
+Nodes expanded: 3611
+Solution cost: 276
+time: 54 ms
+Random pivots:
+Nodes expanded: 3611
+Solution cost: 276
+time: 52 ms
+
+start: 101 18 goal: 53 76
+Farthest spaced:
+Nodes expanded: 4104
+Solution cost: 279
+time: 70 ms
+Random pivots:
+Nodes expanded: 4104
+Solution cost: 279
+time: 69 ms
+
+start: 101 36 goal: 5 86
+Farthest spaced:
+Nodes expanded: 3547
+Solution cost: 282
+time: 58 ms
+Random pivots:
+Nodes expanded: 5679
+Solution cost: 282
+time: 107 ms
+
+start: 101 43 goal: 64 62
+Farthest spaced:
+Nodes expanded: 4357
+Solution cost: 279
+time: 73 ms
+Random pivots:
+Nodes expanded: 4352
+Solution cost: 279
+time: 74 ms
+
+start: 10 58 goal: 175 42
+Farthest spaced:
+Nodes expanded: 3918
+Solution cost: 282
+time: 58 ms
+Random pivots:
+Nodes expanded: 4174
+Solution cost: 282
+time: 62 ms
+
+start: 10 75 goal: 102 34
+Farthest spaced:
+Nodes expanded: 4892
+Solution cost: 279
+time: 91 ms
+Random pivots:
+Nodes expanded: 5372
+Solution cost: 279
+time: 97 ms
+
+start: 10 77 goal: 152 24
+Farthest spaced:
+Nodes expanded: 3704
+Solution cost: 288
+time: 55 ms
+Random pivots:
+Nodes expanded: 4380
+Solution cost: 288
+time: 65 ms
+
+start: 100 102 goal: 145 67
+Farthest spaced:
+Nodes expanded: 3327
+Solution cost: 283
+time: 49 ms
+Random pivots:
+Nodes expanded: 3515
+Solution cost: 283
+time: 52 ms
+
+start: 100 102 goal: 188 102
+Farthest spaced:
+Nodes expanded: 3171
+Solution cost: 278
+time: 42 ms
+Random pivots:
+Nodes expanded: 4229
+Solution cost: 278
+time: 61 ms
+
+start: 100 11 goal: 47 78
+Farthest spaced:
+Nodes expanded: 3866
+Solution cost: 284
+time: 67 ms
+Random pivots:
+Nodes expanded: 3866
+Solution cost: 284
+time: 66 ms
+
+start: 100 113 goal: 185 108
+Farthest spaced:
+Nodes expanded: 3283
+Solution cost: 281
+time: 46 ms
+Random pivots:
+Nodes expanded: 3941
+Solution cost: 281
+time: 58 ms
+
+start: 100 29 goal: 19 70
+Farthest spaced:
+Nodes expanded: 4056
+Solution cost: 276
+time: 69 ms
+Random pivots:
+Nodes expanded: 5823
+Solution cost: 276
+time: 114 ms
+
+start: 100 52 goal: 57 55
+Farthest spaced:
+Nodes expanded: 4021
+Solution cost: 286
+time: 66 ms
+Random pivots:
+Nodes expanded: 4021
+Solution cost: 286
+time: 66 ms
+
+start: 100 84 goal: 130 68
+Farthest spaced:
+Nodes expanded: 2958
+Solution cost: 285
+time: 45 ms
+Random pivots:
+Nodes expanded: 3158
+Solution cost: 285
+time: 47 ms
+
+start: 10 66 goal: 105 30
+Farthest spaced:
+Nodes expanded: 4791
+Solution cost: 284
+time: 87 ms
+Random pivots:
+Nodes expanded: 5359
+Solution cost: 284
+time: 97 ms
+
+start: 10 69 goal: 101 33
+Farthest spaced:
+Nodes expanded: 4983
+Solution cost: 280
+time: 92 ms
+Random pivots:
+Nodes expanded: 5450
+Solution cost: 280
+time: 100 ms
+
+start: 100 11 goal: 38 75
+Farthest spaced:
+Nodes expanded: 3834
+Solution cost: 287
+time: 62 ms
+Random pivots:
+Nodes expanded: 3895
+Solution cost: 287
+time: 61 ms
+
+start: 100 111 goal: 162 80
+Farthest spaced:
+Nodes expanded: 3832
+Solution cost: 283
+time: 59 ms
+Random pivots:
+Nodes expanded: 3832
+Solution cost: 283
+time: 59 ms
+
+start: 100 23 goal: 51 64
+Farthest spaced:
+Nodes expanded: 3922
+Solution cost: 286
+time: 64 ms
+Random pivots:
+Nodes expanded: 3922
+Solution cost: 286
+time: 64 ms
+
+start: 100 28 goal: 26 60
+Farthest spaced:
+Nodes expanded: 4278
+Solution cost: 285
+time: 70 ms
+Random pivots:
+Nodes expanded: 5249
+Solution cost: 285
+time: 93 ms
+
+start: 100 28 goal: 55 59
+Farthest spaced:
+Nodes expanded: 4053
+Solution cost: 286
+time: 69 ms
+Random pivots:
+Nodes expanded: 4053
+Solution cost: 286
+time: 67 ms
+
+start: 100 29 goal: 45 57
+Farthest spaced:
+Nodes expanded: 3656
+Solution cost: 287
+time: 59 ms
+Random pivots:
+Nodes expanded: 3656
+Solution cost: 287
+time: 59 ms
+
+start: 100 37 goal: 6 77
+Farthest spaced:
+Nodes expanded: 3447
+Solution cost: 288
+time: 57 ms
+Random pivots:
+Nodes expanded: 6304
+Solution cost: 288
+time: 127 ms
+
+start: 100 44 goal: 12 61
+Farthest spaced:
+Nodes expanded: 4554
+Solution cost: 284
+time: 76 ms
+Random pivots:
+Nodes expanded: 6199
+Solution cost: 284
+time: 120 ms
+
+start: 10 58 goal: 149 25
+Farthest spaced:
+Nodes expanded: 3711
+Solution cost: 292
+time: 55 ms
+Random pivots:
+Nodes expanded: 4573
+Solution cost: 292
+time: 70 ms
+
+start: 10 73 goal: 92 37
+Farthest spaced:
+Nodes expanded: 5432
+Solution cost: 289
+time: 101 ms
+Random pivots:
+Nodes expanded: 5865
+Solution cost: 289
+time: 111 ms
+
+start: 10 85 goal: 91 32
+Farthest spaced:
+Nodes expanded: 5025
+Solution cost: 291
+time: 91 ms
+Random pivots:
+Nodes expanded: 5606
+Solution cost: 291
+time: 103 ms
+
+start: 10 89 goal: 81 50
+Farthest spaced:
+Nodes expanded: 4807
+Solution cost: 297
+time: 83 ms
+Random pivots:
+Nodes expanded: 5706
+Solution cost: 297
+time: 106 ms
+
+start: 100 101 goal: 172 78
+Farthest spaced:
+Nodes expanded: 3446
+Solution cost: 286
+time: 50 ms
+Random pivots:
+Nodes expanded: 3446
+Solution cost: 286
+time: 49 ms
+
+start: 100 29 goal: 6 75
+Farthest spaced:
+Nodes expanded: 3544
+Solution cost: 291
+time: 58 ms
+Random pivots:
+Nodes expanded: 6300
+Solution cost: 291
+time: 129 ms
+
+start: 100 30 goal: 65 60
+Farthest spaced:
+Nodes expanded: 4436
+Solution cost: 284
+time: 77 ms
+Random pivots:
+Nodes expanded: 4436
+Solution cost: 284
+time: 76 ms
+
+start: 100 33 goal: 42 54
+Farthest spaced:
+Nodes expanded: 3749
+Solution cost: 287
+time: 62 ms
+Random pivots:
+Nodes expanded: 3758
+Solution cost: 287
+time: 61 ms
+
+start: 100 34 goal: 67 72
+Farthest spaced:
+Nodes expanded: 2444
+Solution cost: 287
+time: 34 ms
+Random pivots:
+Nodes expanded: 3228
+Solution cost: 287
+time: 44 ms
+
+start: 100 44 goal: 34 53
+Farthest spaced:
+Nodes expanded: 4397
+Solution cost: 294
+time: 82 ms
+Random pivots:
+Nodes expanded: 5004
+Solution cost: 294
+time: 94 ms
+
+start: 100 34 goal: 63 50
+Farthest spaced:
+Nodes expanded: 4428
+Solution cost: 291
+time: 74 ms
+Random pivots:
+Nodes expanded: 4610
+Solution cost: 291
+time: 78 ms
+
+start: 100 39 goal: 57 45
+Farthest spaced:
+Nodes expanded: 4111
+Solution cost: 296
+time: 68 ms
+Random pivots:
+Nodes expanded: 4352
+Solution cost: 296
+time: 70 ms
+
+start: 100 41 goal: 41 45
+Farthest spaced:
+Nodes expanded: 3657
+Solution cost: 296
+time: 62 ms
+Random pivots:
+Nodes expanded: 4367
+Solution cost: 296
+time: 72 ms
+
+start: 100 46 goal: 40 43
+Farthest spaced:
+Nodes expanded: 3638
+Solution cost: 298
+time: 61 ms
+Random pivots:
+Nodes expanded: 4438
+Solution cost: 298
+time: 73 ms
+
+start: 100 78 goal: 155 52
+Farthest spaced:
+Nodes expanded: 3639
+Solution cost: 295
+time: 55 ms
+Random pivots:
+Nodes expanded: 5246
+Solution cost: 295
+time: 89 ms
+
+start: 100 78 goal: 186 74
+Farthest spaced:
+Nodes expanded: 3278
+Solution cost: 297
+time: 44 ms
+Random pivots:
+Nodes expanded: 3604
+Solution cost: 297
+time: 49 ms
+
+start: 100 81 goal: 184 70
+Farthest spaced:
+Nodes expanded: 3958
+Solution cost: 296
+time: 60 ms
+Random pivots:
+Nodes expanded: 4174
+Solution cost: 296
+time: 64 ms
+
+start: 101 103 goal: 130 64
+Farthest spaced:
+Nodes expanded: 3328
+Solution cost: 289
+time: 52 ms
+Random pivots:
+Nodes expanded: 3604
+Solution cost: 289
+time: 55 ms
+
+start: 101 105 goal: 164 64
+Farthest spaced:
+Nodes expanded: 4530
+Solution cost: 287
+time: 76 ms
+Random pivots:
+Nodes expanded: 4996
+Solution cost: 287
+time: 84 ms
+
+start: 101 106 goal: 136 59
+Farthest spaced:
+Nodes expanded: 2944
+Solution cost: 293
+time: 44 ms
+Random pivots:
+Nodes expanded: 3235
+Solution cost: 293
+time: 48 ms
+
+start: 100 104 goal: 167 58
+Farthest spaced:
+Nodes expanded: 4532
+Solution cost: 292
+time: 77 ms
+Random pivots:
+Nodes expanded: 5286
+Solution cost: 292
+time: 91 ms
+
+start: 100 38 goal: 43 42
+Farthest spaced:
+Nodes expanded: 3696
+Solution cost: 299
+time: 63 ms
+Random pivots:
+Nodes expanded: 4353
+Solution cost: 299
+time: 72 ms
+
+start: 100 43 goal: 59 43
+Farthest spaced:
+Nodes expanded: 4195
+Solution cost: 298
+time: 71 ms
+Random pivots:
+Nodes expanded: 4535
+Solution cost: 298
+time: 74 ms
+
+start: 100 6 goal: 22 76
+Farthest spaced:
+Nodes expanded: 3513
+Solution cost: 295
+time: 60 ms
+Random pivots:
+Nodes expanded: 5171
+Solution cost: 295
+time: 96 ms
+
+start: 100 7 goal: 20 76
+Farthest spaced:
+Nodes expanded: 3553
+Solution cost: 296
+time: 62 ms
+Random pivots:
+Nodes expanded: 5462
+Solution cost: 296
+time: 103 ms
+
+start: 100 83 goal: 160 49
+Farthest spaced:
+Nodes expanded: 3954
+Solution cost: 298
+time: 64 ms
+Random pivots:
+Nodes expanded: 5670
+Solution cost: 298
+time: 102 ms
+
+start: 100 95 goal: 177 88
+Farthest spaced:
+Nodes expanded: 714
+Solution cost: 296
+time: 7 ms
+Random pivots:
+Nodes expanded: 1629
+Solution cost: 296
+time: 15 ms
+
+start: 100 97 goal: 125 56
+Farthest spaced:
+Nodes expanded: 3938
+Solution cost: 291
+time: 66 ms
+Random pivots:
+Nodes expanded: 5247
+Solution cost: 291
+time: 97 ms
+
+start: 100 98 goal: 126 53
+Farthest spaced:
+Nodes expanded: 4068
+Solution cost: 295
+time: 67 ms
+Random pivots:
+Nodes expanded: 5217
+Solution cost: 295
+time: 94 ms
+
+start: 101 114 goal: 141 62
+Farthest spaced:
+Nodes expanded: 3374
+Solution cost: 298
+time: 53 ms
+Random pivots:
+Nodes expanded: 3719
+Solution cost: 298
+time: 56 ms
+
+start: 10 69 goal: 86 27
+Farthest spaced:
+Nodes expanded: 5372
+Solution cost: 299
+time: 100 ms
+Random pivots:
+Nodes expanded: 5821
+Solution cost: 299
+time: 110 ms
+
+start: 10 94 goal: 97 7
+Farthest spaced:
+Nodes expanded: 4880
+Solution cost: 303
+time: 87 ms
+Random pivots:
+Nodes expanded: 5551
+Solution cost: 303
+time: 100 ms
+
+start: 100 18 goal: 53 55
+Farthest spaced:
+Nodes expanded: 4142
+Solution cost: 300
+time: 72 ms
+Random pivots:
+Nodes expanded: 4142
+Solution cost: 300
+time: 70 ms
+
+start: 100 39 goal: 37 39
+Farthest spaced:
+Nodes expanded: 3858
+Solution cost: 302
+time: 68 ms
+Random pivots:
+Nodes expanded: 4932
+Solution cost: 302
+time: 87 ms
+
+start: 100 46 goal: 26 50
+Farthest spaced:
+Nodes expanded: 5036
+Solution cost: 302
+time: 97 ms
+Random pivots:
+Nodes expanded: 6584
+Solution cost: 302
+time: 147 ms
+
+start: 101 19 goal: 69 72
+Farthest spaced:
+Nodes expanded: 2983
+Solution cost: 300
+time: 48 ms
+Random pivots:
+Nodes expanded: 4379
+Solution cost: 300
+time: 73 ms
+
+start: 101 27 goal: 38 47
+Farthest spaced:
+Nodes expanded: 3447
+Solution cost: 300
+time: 56 ms
+Random pivots:
+Nodes expanded: 4405
+Solution cost: 300
+time: 75 ms
+
+start: 101 81 goal: 146 44
+Farthest spaced:
+Nodes expanded: 4051
+Solution cost: 304
+time: 69 ms
+Random pivots:
+Nodes expanded: 5797
+Solution cost: 304
+time: 108 ms
+
+start: 101 88 goal: 122 49
+Farthest spaced:
+Nodes expanded: 4403
+Solution cost: 299
+time: 76 ms
+Random pivots:
+Nodes expanded: 5794
+Solution cost: 299
+time: 110 ms
+
+start: 102 102 goal: 124 55
+Farthest spaced:
+Nodes expanded: 4074
+Solution cost: 297
+time: 71 ms
+Random pivots:
+Nodes expanded: 5460
+Solution cost: 297
+time: 101 ms
+
+start: 10 61 goal: 85 34
+Farthest spaced:
+Nodes expanded: 5515
+Solution cost: 301
+time: 105 ms
+Random pivots:
+Nodes expanded: 6090
+Solution cost: 301
+time: 119 ms
+
+start: 100 36 goal: 31 39
+Farthest spaced:
+Nodes expanded: 4511
+Solution cost: 302
+time: 85 ms
+Random pivots:
+Nodes expanded: 5949
+Solution cost: 302
+time: 120 ms
+
+start: 100 48 goal: 27 39
+Farthest spaced:
+Nodes expanded: 4589
+Solution cost: 306
+time: 86 ms
+Random pivots:
+Nodes expanded: 6247
+Solution cost: 306
+time: 133 ms
+
+start: 100 95 goal: 188 67
+Farthest spaced:
+Nodes expanded: 4300
+Solution cost: 300
+time: 67 ms
+Random pivots:
+Nodes expanded: 4781
+Solution cost: 300
+time: 78 ms
+
+start: 100 96 goal: 162 47
+Farthest spaced:
+Nodes expanded: 4284
+Solution cost: 300
+time: 72 ms
+Random pivots:
+Nodes expanded: 5822
+Solution cost: 300
+time: 105 ms
+
+start: 101 105 goal: 164 53
+Farthest spaced:
+Nodes expanded: 4491
+Solution cost: 298
+time: 77 ms
+Random pivots:
+Nodes expanded: 5532
+Solution cost: 298
+time: 98 ms
+
+start: 101 13 goal: 15 60
+Farthest spaced:
+Nodes expanded: 5197
+Solution cost: 303
+time: 98 ms
+Random pivots:
+Nodes expanded: 6275
+Solution cost: 303
+time: 122 ms
+
+start: 101 21 goal: 69 75
+Farthest spaced:
+Nodes expanded: 3408
+Solution cost: 301
+time: 65 ms
+Random pivots:
+Nodes expanded: 4617
+Solution cost: 301
+time: 82 ms
+
+start: 101 22 goal: 72 78
+Farthest spaced:
+Nodes expanded: 4052
+Solution cost: 303
+time: 76 ms
+Random pivots:
+Nodes expanded: 5421
+Solution cost: 303
+time: 105 ms
+
+start: 101 24 goal: 72 77
+Farthest spaced:
+Nodes expanded: 3850
+Solution cost: 300
+time: 70 ms
+Random pivots:
+Nodes expanded: 5265
+Solution cost: 300
+time: 100 ms
+
+start: 100 1 goal: 53 62
+Farthest spaced:
+Nodes expanded: 4301
+Solution cost: 310
+time: 77 ms
+Random pivots:
+Nodes expanded: 4301
+Solution cost: 310
+time: 75 ms
+
+start: 100 107 goal: 178 62
+Farthest spaced:
+Nodes expanded: 4730
+Solution cost: 300
+time: 80 ms
+Random pivots:
+Nodes expanded: 5120
+Solution cost: 300
+time: 87 ms
+
+start: 100 108 goal: 148 53
+Farthest spaced:
+Nodes expanded: 4418
+Solution cost: 301
+time: 77 ms
+Random pivots:
+Nodes expanded: 5790
+Solution cost: 301
+time: 107 ms
+
+start: 100 11 goal: 58 55
+Farthest spaced:
+Nodes expanded: 4636
+Solution cost: 307
+time: 87 ms
+Random pivots:
+Nodes expanded: 4636
+Solution cost: 307
+time: 83 ms
+
+start: 100 16 goal: 37 52
+Farthest spaced:
+Nodes expanded: 3903
+Solution cost: 310
+time: 72 ms
+Random pivots:
+Nodes expanded: 4599
+Solution cost: 310
+time: 83 ms
+
+start: 100 21 goal: 77 73
+Farthest spaced:
+Nodes expanded: 4020
+Solution cost: 304
+time: 73 ms
+Random pivots:
+Nodes expanded: 5034
+Solution cost: 304
+time: 93 ms
+
+start: 100 52 goal: 35 30
+Farthest spaced:
+Nodes expanded: 4062
+Solution cost: 311
+time: 72 ms
+Random pivots:
+Nodes expanded: 5545
+Solution cost: 311
+time: 105 ms
+
+start: 101 113 goal: 177 68
+Farthest spaced:
+Nodes expanded: 4635
+Solution cost: 301
+time: 77 ms
+Random pivots:
+Nodes expanded: 4659
+Solution cost: 301
+time: 76 ms
+
+start: 101 17 goal: 74 71
+Farthest spaced:
+Nodes expanded: 3738
+Solution cost: 305
+time: 64 ms
+Random pivots:
+Nodes expanded: 4724
+Solution cost: 305
+time: 79 ms
+
+start: 101 25 goal: 37 41
+Farthest spaced:
+Nodes expanded: 3853
+Solution cost: 307
+time: 70 ms
+Random pivots:
+Nodes expanded: 5080
+Solution cost: 307
+time: 93 ms
+
+start: 100 109 goal: 141 44
+Farthest spaced:
+Nodes expanded: 3357
+Solution cost: 311
+time: 53 ms
+Random pivots:
+Nodes expanded: 5291
+Solution cost: 311
+time: 89 ms
+
+start: 100 15 goal: 36 50
+Farthest spaced:
+Nodes expanded: 4030
+Solution cost: 313
+time: 74 ms
+Random pivots:
+Nodes expanded: 4831
+Solution cost: 313
+time: 90 ms
+
+start: 100 17 goal: 56 44
+Farthest spaced:
+Nodes expanded: 4422
+Solution cost: 312
+time: 78 ms
+Random pivots:
+Nodes expanded: 4778
+Solution cost: 312
+time: 83 ms
+
+start: 100 3 goal: 49 57
+Farthest spaced:
+Nodes expanded: 4073
+Solution cost: 313
+time: 72 ms
+Random pivots:
+Nodes expanded: 4073
+Solution cost: 313
+time: 71 ms
+
+start: 100 5 goal: 10 65
+Farthest spaced:
+Nodes expanded: 5054
+Solution cost: 310
+time: 94 ms
+Random pivots:
+Nodes expanded: 6317
+Solution cost: 310
+time: 125 ms
+
+start: 100 52 goal: 34 28
+Farthest spaced:
+Nodes expanded: 4328
+Solution cost: 313
+time: 79 ms
+Random pivots:
+Nodes expanded: 5641
+Solution cost: 313
+time: 109 ms
+
+start: 100 7 goal: 42 55
+Farthest spaced:
+Nodes expanded: 4008
+Solution cost: 311
+time: 72 ms
+Random pivots:
+Nodes expanded: 4008
+Solution cost: 311
+time: 71 ms
+
+start: 101 107 goal: 188 67
+Farthest spaced:
+Nodes expanded: 4576
+Solution cost: 306
+time: 74 ms
+Random pivots:
+Nodes expanded: 4839
+Solution cost: 306
+time: 79 ms
+
+start: 101 25 goal: 39 37
+Farthest spaced:
+Nodes expanded: 3558
+Solution cost: 311
+time: 61 ms
+Random pivots:
+Nodes expanded: 4896
+Solution cost: 311
+time: 87 ms
+
+start: 101 37 goal: 43 27
+Farthest spaced:
+Nodes expanded: 3633
+Solution cost: 314
+time: 62 ms
+Random pivots:
+Nodes expanded: 5212
+Solution cost: 314
+time: 96 ms
+
+start: 10 60 goal: 88 10
+Farthest spaced:
+Nodes expanded: 5564
+Solution cost: 308
+time: 107 ms
+Random pivots:
+Nodes expanded: 5756
+Solution cost: 308
+time: 107 ms
+
+start: 100 3 goal: 10 66
+Farthest spaced:
+Nodes expanded: 4993
+Solution cost: 311
+time: 94 ms
+Random pivots:
+Nodes expanded: 6290
+Solution cost: 311
+time: 124 ms
+
+start: 100 3 goal: 53 53
+Farthest spaced:
+Nodes expanded: 4310
+Solution cost: 317
+time: 77 ms
+Random pivots:
+Nodes expanded: 4310
+Solution cost: 317
+time: 75 ms
+
+start: 100 47 goal: 98 78
+Farthest spaced:
+Nodes expanded: 4973
+Solution cost: 314
+time: 95 ms
+Random pivots:
+Nodes expanded: 6503
+Solution cost: 314
+time: 135 ms
+
+start: 100 79 goal: 101 48
+Farthest spaced:
+Nodes expanded: 5333
+Solution cost: 315
+time: 101 ms
+Random pivots:
+Nodes expanded: 7403
+Solution cost: 315
+time: 166 ms
+
+start: 100 83 goal: 101 50
+Farthest spaced:
+Nodes expanded: 5391
+Solution cost: 315
+time: 105 ms
+Random pivots:
+Nodes expanded: 7406
+Solution cost: 315
+time: 168 ms
+
+start: 101 12 goal: 73 78
+Farthest spaced:
+Nodes expanded: 4029
+Solution cost: 313
+time: 76 ms
+Random pivots:
+Nodes expanded: 5409
+Solution cost: 313
+time: 104 ms
+
+start: 101 24 goal: 23 43
+Farthest spaced:
+Nodes expanded: 5301
+Solution cost: 313
+time: 103 ms
+Random pivots:
+Nodes expanded: 7389
+Solution cost: 313
+time: 172 ms
+
+start: 101 33 goal: 78 92
+Farthest spaced:
+Nodes expanded: 3961
+Solution cost: 307
+time: 72 ms
+Random pivots:
+Nodes expanded: 7101
+Solution cost: 307
+time: 159 ms
+
+start: 101 38 goal: 40 25
+Farthest spaced:
+Nodes expanded: 3643
+Solution cost: 315
+time: 63 ms
+Random pivots:
+Nodes expanded: 5398
+Solution cost: 315
+time: 101 ms
+
+start: 100 112 goal: 118 47
+Farthest spaced:
+Nodes expanded: 4856
+Solution cost: 311
+time: 92 ms
+Random pivots:
+Nodes expanded: 6251
+Solution cost: 311
+time: 123 ms
+
+start: 100 112 goal: 141 39
+Farthest spaced:
+Nodes expanded: 3677
+Solution cost: 319
+time: 59 ms
+Random pivots:
+Nodes expanded: 5521
+Solution cost: 319
+time: 94 ms
+
+start: 100 113 goal: 169 93
+Farthest spaced:
+Nodes expanded: 4438
+Solution cost: 313
+time: 84 ms
+Random pivots:
+Nodes expanded: 5844
+Solution cost: 313
+time: 113 ms
+
+start: 100 45 goal: 104 82
+Farthest spaced:
+Nodes expanded: 5289
+Solution cost: 320
+time: 104 ms
+Random pivots:
+Nodes expanded: 6830
+Solution cost: 320
+time: 147 ms
+
+start: 100 48 goal: 88 102
+Farthest spaced:
+Nodes expanded: 5061
+Solution cost: 317
+time: 102 ms
+Random pivots:
+Nodes expanded: 7993
+Solution cost: 317
+time: 196 ms
+
+start: 100 9 goal: 60 47
+Farthest spaced:
+Nodes expanded: 4717
+Solution cost: 317
+time: 88 ms
+Random pivots:
+Nodes expanded: 5010
+Solution cost: 317
+time: 89 ms
+
+start: 101 48 goal: 86 103
+Farthest spaced:
+Nodes expanded: 5144
+Solution cost: 317
+time: 104 ms
+Random pivots:
+Nodes expanded: 7833
+Solution cost: 317
+time: 189 ms
+
+start: 102 12 goal: 43 39
+Farthest spaced:
+Nodes expanded: 3917
+Solution cost: 322
+time: 69 ms
+Random pivots:
+Nodes expanded: 4881
+Solution cost: 322
+time: 86 ms
+
+start: 102 13 goal: 39 40
+Farthest spaced:
+Nodes expanded: 3719
+Solution cost: 320
+time: 66 ms
+Random pivots:
+Nodes expanded: 5045
+Solution cost: 320
+time: 91 ms
+
+start: 102 14 goal: 33 46
+Farthest spaced:
+Nodes expanded: 4157
+Solution cost: 318
+time: 79 ms
+Random pivots:
+Nodes expanded: 5283
+Solution cost: 318
+time: 103 ms
+
+start: 100 6 goal: 75 80
+Farthest spaced:
+Nodes expanded: 4428
+Solution cost: 321
+time: 89 ms
+Random pivots:
+Nodes expanded: 5924
+Solution cost: 321
+time: 121 ms
+
+start: 100 82 goal: 154 22
+Farthest spaced:
+Nodes expanded: 4166
+Solution cost: 325
+time: 66 ms
+Random pivots:
+Nodes expanded: 5989
+Solution cost: 325
+time: 109 ms
+
+start: 101 11 goal: 56 37
+Farthest spaced:
+Nodes expanded: 4670
+Solution cost: 325
+time: 86 ms
+Random pivots:
+Nodes expanded: 5313
+Solution cost: 325
+time: 96 ms
+
+start: 101 16 goal: 21 48
+Farthest spaced:
+Nodes expanded: 5655
+Solution cost: 323
+time: 120 ms
+Random pivots:
+Nodes expanded: 7502
+Solution cost: 323
+time: 181 ms
+
+start: 102 106 goal: 150 34
+Farthest spaced:
+Nodes expanded: 4342
+Solution cost: 321
+time: 76 ms
+Random pivots:
+Nodes expanded: 6347
+Solution cost: 321
+time: 125 ms
+
+start: 102 11 goal: 38 40
+Farthest spaced:
+Nodes expanded: 3748
+Solution cost: 322
+time: 68 ms
+Random pivots:
+Nodes expanded: 5066
+Solution cost: 322
+time: 91 ms
+
+start: 102 11 goal: 40 39
+Farthest spaced:
+Nodes expanded: 3859
+Solution cost: 323
+time: 69 ms
+Random pivots:
+Nodes expanded: 5030
+Solution cost: 323
+time: 91 ms
+
+start: 102 26 goal: 41 24
+Farthest spaced:
+Nodes expanded: 3686
+Solution cost: 323
+time: 65 ms
+Random pivots:
+Nodes expanded: 5605
+Solution cost: 323
+time: 109 ms
+
+start: 102 83 goal: 153 25
+Farthest spaced:
+Nodes expanded: 4114
+Solution cost: 324
+time: 68 ms
+Random pivots:
+Nodes expanded: 6146
+Solution cost: 324
+time: 114 ms
+
+start: 102 93 goal: 108 34
+Farthest spaced:
+Nodes expanded: 5111
+Solution cost: 317
+time: 99 ms
+Random pivots:
+Nodes expanded: 7033
+Solution cost: 317
+time: 154 ms
+
+start: 100 103 goal: 161 31
+Farthest spaced:
+Nodes expanded: 4897
+Solution cost: 319
+time: 84 ms
+Random pivots:
+Nodes expanded: 5903
+Solution cost: 319
+time: 106 ms
+
+start: 100 110 goal: 106 49
+Farthest spaced:
+Nodes expanded: 5657
+Solution cost: 319
+time: 117 ms
+Random pivots:
+Nodes expanded: 7213
+Solution cost: 319
+time: 159 ms
+
+start: 100 30 goal: 98 90
+Farthest spaced:
+Nodes expanded: 5424
+Solution cost: 317
+time: 107 ms
+Random pivots:
+Nodes expanded: 7410
+Solution cost: 317
+time: 169 ms
+
+start: 100 6 goal: 82 79
+Farthest spaced:
+Nodes expanded: 4908
+Solution cost: 324
+time: 99 ms
+Random pivots:
+Nodes expanded: 6295
+Solution cost: 324
+time: 133 ms
+
+start: 100 93 goal: 93 49
+Farthest spaced:
+Nodes expanded: 5785
+Solution cost: 323
+time: 118 ms
+Random pivots:
+Nodes expanded: 7605
+Solution cost: 323
+time: 176 ms
+
+start: 101 103 goal: 104 37
+Farthest spaced:
+Nodes expanded: 5503
+Solution cost: 316
+time: 111 ms
+Random pivots:
+Nodes expanded: 7143
+Solution cost: 316
+time: 153 ms
+
+start: 101 112 goal: 165 36
+Farthest spaced:
+Nodes expanded: 4907
+Solution cost: 322
+time: 84 ms
+Random pivots:
+Nodes expanded: 5817
+Solution cost: 322
+time: 107 ms
+
+start: 101 12 goal: 87 82
+Farthest spaced:
+Nodes expanded: 5129
+Solution cost: 323
+time: 102 ms
+Random pivots:
+Nodes expanded: 6580
+Solution cost: 323
+time: 143 ms
+
+start: 101 52 goal: 108 95
+Farthest spaced:
+Nodes expanded: 5944
+Solution cost: 323
+time: 126 ms
+Random pivots:
+Nodes expanded: 7872
+Solution cost: 323
+time: 193 ms
+
+start: 101 8 goal: 81 80
+Farthest spaced:
+Nodes expanded: 4642
+Solution cost: 321
+time: 94 ms
+Random pivots:
+Nodes expanded: 6254
+Solution cost: 321
+time: 133 ms
+
+start: 100 115 goal: 109 46
+Farthest spaced:
+Nodes expanded: 5185
+Solution cost: 321
+time: 102 ms
+Random pivots:
+Nodes expanded: 6887
+Solution cost: 321
+time: 149 ms
+
+start: 100 36 goal: 91 106
+Farthest spaced:
+Nodes expanded: 5328
+Solution cost: 321
+time: 113 ms
+Random pivots:
+Nodes expanded: 8052
+Solution cost: 321
+time: 203 ms
+
+start: 100 49 goal: 96 112
+Farthest spaced:
+Nodes expanded: 6114
+Solution cost: 328
+time: 132 ms
+Random pivots:
+Nodes expanded: 8235
+Solution cost: 328
+time: 210 ms
+
+start: 100 94 goal: 93 43
+Farthest spaced:
+Nodes expanded: 6017
+Solution cost: 323
+time: 126 ms
+Random pivots:
+Nodes expanded: 7675
+Solution cost: 323
+time: 182 ms
+
+start: 101 11 goal: 49 29
+Farthest spaced:
+Nodes expanded: 4284
+Solution cost: 333
+time: 78 ms
+Random pivots:
+Nodes expanded: 5308
+Solution cost: 333
+time: 100 ms
+
+start: 101 111 goal: 164 33
+Farthest spaced:
+Nodes expanded: 4947
+Solution cost: 325
+time: 86 ms
+Random pivots:
+Nodes expanded: 5838
+Solution cost: 325
+time: 108 ms
+
+start: 101 27 goal: 99 96
+Farthest spaced:
+Nodes expanded: 5661
+Solution cost: 320
+time: 119 ms
+Random pivots:
+Nodes expanded: 7847
+Solution cost: 320
+time: 197 ms
+
+start: 101 30 goal: 102 94
+Farthest spaced:
+Nodes expanded: 5721
+Solution cost: 320
+time: 117 ms
+Random pivots:
+Nodes expanded: 7749
+Solution cost: 320
+time: 184 ms
+
+start: 102 113 goal: 172 40
+Farthest spaced:
+Nodes expanded: 5106
+Solution cost: 319
+time: 87 ms
+Random pivots:
+Nodes expanded: 5897
+Solution cost: 319
+time: 108 ms
+
+start: 102 25 goal: 97 92
+Farthest spaced:
+Nodes expanded: 5458
+Solution cost: 320
+time: 112 ms
+Random pivots:
+Nodes expanded: 7499
+Solution cost: 320
+time: 172 ms
+
+start: 100 17 goal: 90 97
+Farthest spaced:
+Nodes expanded: 5378
+Solution cost: 327
+time: 115 ms
+Random pivots:
+Nodes expanded: 7891
+Solution cost: 327
+time: 187 ms
+
+start: 100 20 goal: 89 99
+Farthest spaced:
+Nodes expanded: 5205
+Solution cost: 326
+time: 109 ms
+Random pivots:
+Nodes expanded: 7894
+Solution cost: 326
+time: 187 ms
+
+start: 100 23 goal: 102 79
+Farthest spaced:
+Nodes expanded: 5430
+Solution cost: 327
+time: 110 ms
+Random pivots:
+Nodes expanded: 6697
+Solution cost: 327
+time: 144 ms
+
+start: 100 7 goal: 23 45
+Farthest spaced:
+Nodes expanded: 5678
+Solution cost: 330
+time: 120 ms
+Random pivots:
+Nodes expanded: 7372
+Solution cost: 330
+time: 174 ms
+
+start: 101 114 goal: 149 29
+Farthest spaced:
+Nodes expanded: 4449
+Solution cost: 331
+time: 80 ms
+Random pivots:
+Nodes expanded: 6374
+Solution cost: 331
+time: 125 ms
+
+start: 101 13 goal: 83 94
+Farthest spaced:
+Nodes expanded: 4781
+Solution cost: 328
+time: 98 ms
+Random pivots:
+Nodes expanded: 7429
+Solution cost: 328
+time: 172 ms
+
+start: 101 19 goal: 93 97
+Farthest spaced:
+Nodes expanded: 5431
+Solution cost: 325
+time: 116 ms
+Random pivots:
+Nodes expanded: 7881
+Solution cost: 325
+time: 190 ms
+
+start: 101 21 goal: 83 103
+Farthest spaced:
+Nodes expanded: 5206
+Solution cost: 329
+time: 106 ms
+Random pivots:
+Nodes expanded: 7710
+Solution cost: 329
+time: 182 ms
+
+start: 101 24 goal: 100 97
+Farthest spaced:
+Nodes expanded: 5888
+Solution cost: 324
+time: 124 ms
+Random pivots:
+Nodes expanded: 7945
+Solution cost: 324
+time: 189 ms
+
+start: 101 49 goal: 113 101
+Farthest spaced:
+Nodes expanded: 6562
+Solution cost: 328
+time: 145 ms
+Random pivots:
+Nodes expanded: 8126
+Solution cost: 328
+time: 197 ms
+
+start: 100 104 goal: 98 25
+Farthest spaced:
+Nodes expanded: 5907
+Solution cost: 326
+time: 125 ms
+Random pivots:
+Nodes expanded: 7333
+Solution cost: 326
+time: 163 ms
+
+start: 100 5 goal: 25 34
+Farthest spaced:
+Nodes expanded: 5671
+Solution cost: 335
+time: 117 ms
+Random pivots:
+Nodes expanded: 7169
+Solution cost: 335
+time: 161 ms
+
+start: 100 78 goal: 99 15
+Farthest spaced:
+Nodes expanded: 5592
+Solution cost: 333
+time: 114 ms
+Random pivots:
+Nodes expanded: 7388
+Solution cost: 333
+time: 167 ms
+
+start: 100 95 goal: 99 22
+Farthest spaced:
+Nodes expanded: 5834
+Solution cost: 326
+time: 122 ms
+Random pivots:
+Nodes expanded: 7381
+Solution cost: 326
+time: 163 ms
+
+start: 101 13 goal: 97 78
+Farthest spaced:
+Nodes expanded: 5417
+Solution cost: 332
+time: 111 ms
+Random pivots:
+Nodes expanded: 6490
+Solution cost: 332
+time: 137 ms
+
+start: 101 16 goal: 93 95
+Farthest spaced:
+Nodes expanded: 5367
+Solution cost: 328
+time: 110 ms
+Random pivots:
+Nodes expanded: 7662
+Solution cost: 328
+time: 175 ms
+
+start: 101 36 goal: 114 100
+Farthest spaced:
+Nodes expanded: 6477
+Solution cost: 329
+time: 140 ms
+Random pivots:
+Nodes expanded: 8038
+Solution cost: 329
+time: 193 ms
+
+start: 101 88 goal: 84 36
+Farthest spaced:
+Nodes expanded: 6302
+Solution cost: 333
+time: 134 ms
+Random pivots:
+Nodes expanded: 7873
+Solution cost: 333
+time: 183 ms
+
+start: 102 18 goal: 104 83
+Farthest spaced:
+Nodes expanded: 5778
+Solution cost: 334
+time: 122 ms
+Random pivots:
+Nodes expanded: 7025
+Solution cost: 334
+time: 153 ms
+
+start: 102 30 goal: 109 100
+Farthest spaced:
+Nodes expanded: 6355
+Solution cost: 327
+time: 138 ms
+Random pivots:
+Nodes expanded: 8033
+Solution cost: 327
+time: 194 ms
+
+start: 100 13 goal: 99 94
+Farthest spaced:
+Nodes expanded: 6067
+Solution cost: 334
+time: 132 ms
+Random pivots:
+Nodes expanded: 7742
+Solution cost: 334
+time: 184 ms
+
+start: 100 15 goal: 102 85
+Farthest spaced:
+Nodes expanded: 5889
+Solution cost: 335
+time: 128 ms
+Random pivots:
+Nodes expanded: 7119
+Solution cost: 335
+time: 160 ms
+
+start: 100 35 goal: 108 108
+Farthest spaced:
+Nodes expanded: 6521
+Solution cost: 329
+time: 146 ms
+Random pivots:
+Nodes expanded: 8161
+Solution cost: 329
+time: 200 ms
+
+start: 100 88 goal: 100 12
+Farthest spaced:
+Nodes expanded: 5618
+Solution cost: 336
+time: 116 ms
+Random pivots:
+Nodes expanded: 7306
+Solution cost: 336
+time: 161 ms
+
+start: 101 79 goal: 83 55
+Farthest spaced:
+Nodes expanded: 1156
+Solution cost: 343
+time: 12 ms
+Random pivots:
+Nodes expanded: 2280
+Solution cost: 343
+time: 23 ms
+
+start: 102 112 goal: 102 30
+Farthest spaced:
+Nodes expanded: 5707
+Solution cost: 330
+time: 120 ms
+Random pivots:
+Nodes expanded: 7215
+Solution cost: 330
+time: 161 ms
+
+start: 102 13 goal: 96 97
+Farthest spaced:
+Nodes expanded: 5797
+Solution cost: 334
+time: 126 ms
+Random pivots:
+Nodes expanded: 7789
+Solution cost: 334
+time: 186 ms
+
+start: 102 15 goal: 96 97
+Farthest spaced:
+Nodes expanded: 5719
+Solution cost: 332
+time: 123 ms
+Random pivots:
+Nodes expanded: 7789
+Solution cost: 332
+time: 188 ms
+
+start: 103 10 goal: 93 94
+Farthest spaced:
+Nodes expanded: 5321
+Solution cost: 335
+time: 111 ms
+Random pivots:
+Nodes expanded: 7341
+Solution cost: 335
+time: 170 ms
+
+start: 103 30 goal: 100 113
+Farthest spaced:
+Nodes expanded: 6563
+Solution cost: 331
+time: 146 ms
+Random pivots:
+Nodes expanded: 8310
+Solution cost: 331
+time: 211 ms
+
+start: 100 101 goal: 78 52
+Farthest spaced:
+Nodes expanded: 5896
+Solution cost: 341
+time: 126 ms
+Random pivots:
+Nodes expanded: 7554
+Solution cost: 341
+time: 174 ms
+
+start: 100 85 goal: 95 10
+Farthest spaced:
+Nodes expanded: 5941
+Solution cost: 338
+time: 128 ms
+Random pivots:
+Nodes expanded: 7508
+Solution cost: 338
+time: 174 ms
+
+start: 100 9 goal: 82 104
+Farthest spaced:
+Nodes expanded: 5625
+Solution cost: 342
+time: 121 ms
+Random pivots:
+Nodes expanded: 7738
+Solution cost: 342
+time: 186 ms
+
+start: 100 96 goal: 104 11
+Farthest spaced:
+Nodes expanded: 5461
+Solution cost: 338
+time: 111 ms
+Random pivots:
+Nodes expanded: 7174
+Solution cost: 338
+time: 160 ms
+
+start: 101 13 goal: 87 106
+Farthest spaced:
+Nodes expanded: 5645
+Solution cost: 340
+time: 123 ms
+Random pivots:
+Nodes expanded: 7839
+Solution cost: 340
+time: 189 ms
+
+start: 101 17 goal: 82 109
+Farthest spaced:
+Nodes expanded: 5701
+Solution cost: 339
+time: 123 ms
+Random pivots:
+Nodes expanded: 7776
+Solution cost: 339
+time: 188 ms
+
+start: 101 78 goal: 98 8
+Farthest spaced:
+Nodes expanded: 5579
+Solution cost: 341
+time: 115 ms
+Random pivots:
+Nodes expanded: 7364
+Solution cost: 341
+time: 169 ms
+
+start: 101 93 goal: 78 44
+Farthest spaced:
+Nodes expanded: 5999
+Solution cost: 340
+time: 126 ms
+Random pivots:
+Nodes expanded: 7726
+Solution cost: 340
+time: 185 ms
+
+start: 102 80 goal: 74 42
+Farthest spaced:
+Nodes expanded: 6006
+Solution cost: 344
+time: 126 ms
+Random pivots:
+Nodes expanded: 7850
+Solution cost: 344
+time: 188 ms
+
+start: 102 96 goal: 90 23
+Farthest spaced:
+Nodes expanded: 6199
+Solution cost: 332
+time: 137 ms
+Random pivots:
+Nodes expanded: 7476
+Solution cost: 332
+time: 176 ms
+
+start: 100 46 goal: 119 117
+Farthest spaced:
+Nodes expanded: 7358
+Solution cost: 338
+time: 177 ms
+Random pivots:
+Nodes expanded: 8559
+Solution cost: 338
+time: 217 ms
+
+start: 100 93 goal: 99 7
+Farthest spaced:
+Nodes expanded: 5827
+Solution cost: 341
+time: 124 ms
+Random pivots:
+Nodes expanded: 7396
+Solution cost: 341
+time: 170 ms
+
+start: 101 10 goal: 107 84
+Farthest spaced:
+Nodes expanded: 6088
+Solution cost: 345
+time: 135 ms
+Random pivots:
+Nodes expanded: 7025
+Solution cost: 345
+time: 158 ms
+
+start: 101 104 goal: 95 18
+Farthest spaced:
+Nodes expanded: 6233
+Solution cost: 334
+time: 142 ms
+Random pivots:
+Nodes expanded: 7487
+Solution cost: 334
+time: 175 ms
+
+start: 101 112 goal: 98 25
+Farthest spaced:
+Nodes expanded: 5953
+Solution cost: 334
+time: 130 ms
+Random pivots:
+Nodes expanded: 7333
+Solution cost: 334
+time: 166 ms
+
+start: 101 19 goal: 107 103
+Farthest spaced:
+Nodes expanded: 6644
+Solution cost: 338
+time: 154 ms
+Random pivots:
+Nodes expanded: 8119
+Solution cost: 338
+time: 202 ms
+
+start: 101 19 goal: 97 111
+Farthest spaced:
+Nodes expanded: 6447
+Solution cost: 339
+time: 148 ms
+Random pivots:
+Nodes expanded: 8199
+Solution cost: 339
+time: 203 ms
+
+start: 101 22 goal: 108 104
+Farthest spaced:
+Nodes expanded: 6604
+Solution cost: 336
+time: 148 ms
+Random pivots:
+Nodes expanded: 8106
+Solution cost: 336
+time: 195 ms
+
+start: 102 12 goal: 106 89
+Farthest spaced:
+Nodes expanded: 6268
+Solution cost: 342
+time: 139 ms
+Random pivots:
+Nodes expanded: 7436
+Solution cost: 342
+time: 169 ms
+
+start: 103 107 goal: 102 17
+Farthest spaced:
+Nodes expanded: 5728
+Solution cost: 338
+time: 121 ms
+Random pivots:
+Nodes expanded: 7228
+Solution cost: 338
+time: 158 ms
+
+start: 100 105 goal: 91 14
+Farthest spaced:
+Nodes expanded: 6420
+Solution cost: 338
+time: 142 ms
+Random pivots:
+Nodes expanded: 7591
+Solution cost: 338
+time: 171 ms
+
+start: 100 22 goal: 112 109
+Farthest spaced:
+Nodes expanded: 7293
+Solution cost: 340
+time: 173 ms
+Random pivots:
+Nodes expanded: 8301
+Solution cost: 340
+time: 207 ms
+
+start: 100 40 goal: 119 119
+Farthest spaced:
+Nodes expanded: 7516
+Solution cost: 340
+time: 183 ms
+Random pivots:
+Nodes expanded: 8616
+Solution cost: 340
+time: 220 ms
+
+start: 101 102 goal: 93 14
+Farthest spaced:
+Nodes expanded: 6364
+Solution cost: 338
+time: 141 ms
+Random pivots:
+Nodes expanded: 7547
+Solution cost: 338
+time: 171 ms
+
+start: 101 112 goal: 95 20
+Farthest spaced:
+Nodes expanded: 6224
+Solution cost: 339
+time: 138 ms
+Random pivots:
+Nodes expanded: 7485
+Solution cost: 339
+time: 171 ms
+
+start: 101 9 goal: 86 111
+Farthest spaced:
+Nodes expanded: 6081
+Solution cost: 349
+time: 135 ms
+Random pivots:
+Nodes expanded: 7901
+Solution cost: 349
+time: 189 ms
+
+start: 101 92 goal: 90 10
+Farthest spaced:
+Nodes expanded: 6481
+Solution cost: 340
+time: 142 ms
+Random pivots:
+Nodes expanded: 7578
+Solution cost: 340
+time: 173 ms
+
+start: 102 13 goal: 104 104
+Farthest spaced:
+Nodes expanded: 6564
+Solution cost: 344
+time: 147 ms
+Random pivots:
+Nodes expanded: 8050
+Solution cost: 344
+time: 191 ms
+
+start: 102 91 goal: 94 6
+Farthest spaced:
+Nodes expanded: 6305
+Solution cost: 345
+time: 135 ms
+Random pivots:
+Nodes expanded: 7482
+Solution cost: 345
+time: 168 ms
+
+start: 103 17 goal: 111 100
+Farthest spaced:
+Nodes expanded: 6796
+Solution cost: 342
+time: 159 ms
+Random pivots:
+Nodes expanded: 8035
+Solution cost: 342
+time: 199 ms
+
+start: 100 103 goal: 91 10
+Farthest spaced:
+Nodes expanded: 6560
+Solution cost: 341
+time: 147 ms
+Random pivots:
+Nodes expanded: 7595
+Solution cost: 341
+time: 176 ms
+
+start: 101 10 goal: 107 100
+Farthest spaced:
+Nodes expanded: 6694
+Solution cost: 345
+time: 155 ms
+Random pivots:
+Nodes expanded: 8031
+Solution cost: 345
+time: 197 ms
+
+start: 101 106 goal: 102 9
+Farthest spaced:
+Nodes expanded: 5799
+Solution cost: 344
+time: 124 ms
+Random pivots:
+Nodes expanded: 7236
+Solution cost: 344
+time: 162 ms
+
+start: 101 97 goal: 89 8
+Farthest spaced:
+Nodes expanded: 6736
+Solution cost: 341
+time: 152 ms
+Random pivots:
+Nodes expanded: 7661
+Solution cost: 341
+time: 175 ms
+
+start: 102 11 goal: 98 111
+Farthest spaced:
+Nodes expanded: 6703
+Solution cost: 348
+time: 153 ms
+Random pivots:
+Nodes expanded: 8264
+Solution cost: 348
+time: 206 ms
+
+start: 102 17 goal: 114 102
+Farthest spaced:
+Nodes expanded: 7126
+Solution cost: 345
+time: 169 ms
+Random pivots:
+Nodes expanded: 8111
+Solution cost: 345
+time: 196 ms
+
+start: 102 9 goal: 108 96
+Farthest spaced:
+Nodes expanded: 6571
+Solution cost: 347
+time: 148 ms
+Random pivots:
+Nodes expanded: 7860
+Solution cost: 347
+time: 185 ms
+
+start: 103 105 goal: 87 16
+Farthest spaced:
+Nodes expanded: 6667
+Solution cost: 338
+time: 154 ms
+Random pivots:
+Nodes expanded: 7680
+Solution cost: 338
+time: 182 ms
+
+start: 103 52 goal: 124 126
+Farthest spaced:
+Nodes expanded: 7707
+Solution cost: 343
+time: 192 ms
+Random pivots:
+Nodes expanded: 9201
+Solution cost: 343
+time: 248 ms
+
+start: 103 53 goal: 123 124
+Farthest spaced:
+Nodes expanded: 7540
+Solution cost: 342
+time: 187 ms
+Random pivots:
+Nodes expanded: 9110
+Solution cost: 342
+time: 242 ms
+
+start: 100 14 goal: 110 106
+Farthest spaced:
+Nodes expanded: 7060
+Solution cost: 346
+time: 161 ms
+Random pivots:
+Nodes expanded: 8161
+Solution cost: 346
+time: 216 ms
+
+start: 100 22 goal: 115 113
+Farthest spaced:
+Nodes expanded: 7520
+Solution cost: 344
+time: 180 ms
+Random pivots:
+Nodes expanded: 8424
+Solution cost: 344
+time: 209 ms
+
+start: 100 3 goal: 108 96
+Farthest spaced:
+Nodes expanded: 6573
+Solution cost: 353
+time: 151 ms
+Random pivots:
+Nodes expanded: 7860
+Solution cost: 353
+time: 189 ms
+
+start: 101 13 goal: 113 102
+Farthest spaced:
+Nodes expanded: 7132
+Solution cost: 348
+time: 170 ms
+Random pivots:
+Nodes expanded: 8110
+Solution cost: 348
+time: 204 ms
+
+start: 101 30 goal: 120 122
+Farthest spaced:
+Nodes expanded: 7716
+Solution cost: 342
+time: 192 ms
+Random pivots:
+Nodes expanded: 9082
+Solution cost: 342
+time: 268 ms
+
+start: 102 10 goal: 95 115
+Farthest spaced:
+Nodes expanded: 6758
+Solution cost: 352
+time: 188 ms
+Random pivots:
+Nodes expanded: 8220
+Solution cost: 352
+time: 211 ms
+
+start: 103 104 goal: 97 6
+Farthest spaced:
+Nodes expanded: 6257
+Solution cost: 348
+time: 135 ms
+Random pivots:
+Nodes expanded: 7441
+Solution cost: 348
+time: 165 ms
+
+start: 106 107 goal: 94 12
+Farthest spaced:
+Nodes expanded: 6275
+Solution cost: 345
+time: 137 ms
+Random pivots:
+Nodes expanded: 7463
+Solution cost: 345
+time: 168 ms
+
+start: 107 104 goal: 104 8
+Farthest spaced:
+Nodes expanded: 6005
+Solution cost: 349
+time: 124 ms
+Random pivots:
+Nodes expanded: 7196
+Solution cost: 349
+time: 156 ms
+
+start: 107 107 goal: 92 13
+Farthest spaced:
+Nodes expanded: 6391
+Solution cost: 345
+time: 141 ms
+Random pivots:
+Nodes expanded: 7517
+Solution cost: 345
+time: 170 ms
+
+start: 101 28 goal: 123 125
+Farthest spaced:
+Nodes expanded: 7840
+Solution cost: 347
+time: 189 ms
+Random pivots:
+Nodes expanded: 9123
+Solution cost: 347
+time: 245 ms
+
+start: 106 26 goal: 123 125
+Farthest spaced:
+Nodes expanded: 7857
+Solution cost: 349
+time: 203 ms
+Random pivots:
+Nodes expanded: 9123
+Solution cost: 349
+time: 242 ms
+
+start: 112 92 goal: 88 8
+Farthest spaced:
+Nodes expanded: 6754
+Solution cost: 352
+time: 151 ms
+Random pivots:
+Nodes expanded: 7628
+Solution cost: 352
+time: 174 ms
+
+start: 113 91 goal: 95 7
+Farthest spaced:
+Nodes expanded: 6379
+Solution cost: 354
+time: 139 ms
+Random pivots:
+Nodes expanded: 7511
+Solution cost: 354
+time: 168 ms
+
+start: 113 93 goal: 98 7
+Farthest spaced:
+Nodes expanded: 6022
+Solution cost: 354
+time: 129 ms
+Random pivots:
+Nodes expanded: 7365
+Solution cost: 354
+time: 164 ms
+
+start: 114 114 goal: 86 27
+Farthest spaced:
+Nodes expanded: 6440
+Solution cost: 351
+time: 139 ms
+Random pivots:
+Nodes expanded: 7648
+Solution cost: 351
+time: 172 ms
+
+start: 116 113 goal: 105 14
+Farthest spaced:
+Nodes expanded: 5881
+Solution cost: 352
+time: 123 ms
+Random pivots:
+Nodes expanded: 7218
+Solution cost: 352
+time: 157 ms
+
+start: 116 117 goal: 80 48
+Farthest spaced:
+Nodes expanded: 6085
+Solution cost: 355
+time: 125 ms
+Random pivots:
+Nodes expanded: 7655
+Solution cost: 355
+time: 173 ms
+
+start: 117 113 goal: 93 22
+Farthest spaced:
+Nodes expanded: 6473
+Solution cost: 345
+time: 144 ms
+Random pivots:
+Nodes expanded: 7552
+Solution cost: 345
+time: 169 ms
+
+start: 120 119 goal: 90 41
+Farthest spaced:
+Nodes expanded: 6450
+Solution cost: 349
+time: 137 ms
+Random pivots:
+Nodes expanded: 7749
+Solution cost: 349
+time: 177 ms
+
+start: 100 1 goal: 113 97
+Farthest spaced:
+Nodes expanded: 6892
+Solution cost: 360
+time: 163 ms
+Random pivots:
+Nodes expanded: 7958
+Solution cost: 360
+time: 188 ms
+
+start: 100 113 goal: 99 5
+Farthest spaced:
+Nodes expanded: 6008
+Solution cost: 355
+time: 129 ms
+Random pivots:
+Nodes expanded: 7384
+Solution cost: 355
+time: 162 ms
+
+start: 101 114 goal: 87 12
+Farthest spaced:
+Nodes expanded: 6746
+Solution cost: 350
+time: 149 ms
+Random pivots:
+Nodes expanded: 7673
+Solution cost: 350
+time: 173 ms
+
+start: 110 112 goal: 100 9
+Farthest spaced:
+Nodes expanded: 5955
+Solution cost: 352
+time: 130 ms
+Random pivots:
+Nodes expanded: 7295
+Solution cost: 352
+time: 161 ms
+
+start: 111 109 goal: 88 11
+Farthest spaced:
+Nodes expanded: 6727
+Solution cost: 351
+time: 150 ms
+Random pivots:
+Nodes expanded: 7624
+Solution cost: 351
+time: 172 ms
+
+start: 113 114 goal: 91 13
+Farthest spaced:
+Nodes expanded: 6525
+Solution cost: 351
+time: 146 ms
+Random pivots:
+Nodes expanded: 7592
+Solution cost: 351
+time: 173 ms
+
+start: 114 116 goal: 99 13
+Farthest spaced:
+Nodes expanded: 6113
+Solution cost: 352
+time: 136 ms
+Random pivots:
+Nodes expanded: 7376
+Solution cost: 352
+time: 165 ms
+
+start: 115 113 goal: 86 25
+Farthest spaced:
+Nodes expanded: 6492
+Solution cost: 352
+time: 141 ms
+Random pivots:
+Nodes expanded: 7591
+Solution cost: 352
+time: 174 ms
+
+start: 115 115 goal: 77 40
+Farthest spaced:
+Nodes expanded: 6522
+Solution cost: 357
+time: 143 ms
+Random pivots:
+Nodes expanded: 7873
+Solution cost: 357
+time: 187 ms
+
+start: 118 115 goal: 87 29
+Farthest spaced:
+Nodes expanded: 6473
+Solution cost: 353
+time: 140 ms
+Random pivots:
+Nodes expanded: 7692
+Solution cost: 353
+time: 181 ms
+
+start: 101 14 goal: 120 118
+Farthest spaced:
+Nodes expanded: 7783
+Solution cost: 358
+time: 195 ms
+Random pivots:
+Nodes expanded: 8545
+Solution cost: 358
+time: 216 ms
+
+start: 102 12 goal: 117 119
+Farthest spaced:
+Nodes expanded: 7885
+Solution cost: 356
+time: 199 ms
+Random pivots:
+Nodes expanded: 8608
+Solution cost: 356
+time: 220 ms
+
+start: 113 111 goal: 97 7
+Farthest spaced:
+Nodes expanded: 6294
+Solution cost: 357
+time: 146 ms
+Random pivots:
+Nodes expanded: 7452
+Solution cost: 357
+time: 170 ms
+
+start: 114 118 goal: 75 45
+Farthest spaced:
+Nodes expanded: 6487
+Solution cost: 359
+time: 142 ms
+Random pivots:
+Nodes expanded: 7874
+Solution cost: 359
+time: 196 ms
+
+start: 115 117 goal: 100 11
+Farthest spaced:
+Nodes expanded: 5978
+Solution cost: 355
+time: 138 ms
+Random pivots:
+Nodes expanded: 7293
+Solution cost: 355
+time: 175 ms
+
+start: 119 117 goal: 88 25
+Farthest spaced:
+Nodes expanded: 6329
+Solution cost: 354
+time: 151 ms
+Random pivots:
+Nodes expanded: 7464
+Solution cost: 354
+time: 175 ms
+
+start: 119 120 goal: 79 42
+Farthest spaced:
+Nodes expanded: 6466
+Solution cost: 359
+time: 149 ms
+Random pivots:
+Nodes expanded: 7813
+Solution cost: 359
+time: 188 ms
+
+start: 124 124 goal: 89 36
+Farthest spaced:
+Nodes expanded: 6486
+Solution cost: 354
+time: 145 ms
+Random pivots:
+Nodes expanded: 7731
+Solution cost: 354
+time: 186 ms
+
+start: 73 42 goal: 115 111
+Farthest spaced:
+Nodes expanded: 7423
+Solution cost: 360
+time: 183 ms
+Random pivots:
+Nodes expanded: 8428
+Solution cost: 360
+time: 218 ms
+
+start: 77 43 goal: 115 119
+Farthest spaced:
+Nodes expanded: 7729
+Solution cost: 358
+time: 205 ms
+Random pivots:
+Nodes expanded: 8643
+Solution cost: 358
+time: 227 ms
