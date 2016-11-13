@@ -1,7 +1,9 @@
 # Single-Agent-Search
 
-Programs written for a Single Agent Search course taught by Nathan Sturtevant.
+Search Programs 
+Course: Single Agent Search 
+Professor: Dr. Nathan Sturtevant
 
-These programs range from simple implementations of Breadth/Depth First Search to IDA* to Furthest Pivot A*. The course covered various NPK search methods of searching through exponential and polynomial state spaces, and programs were meant to be written in a generic fashion that would allow their reuse for other types of state spaces.
+These programs range from simple implementations of Breadth/Depth First Search to IDA* to Furthest Pivot A*. The programs use NPK search methods to search through exponential and polynomial state spaces. All included Search Algorithms are written in a generic fashion to allow their reuse for specific search cases. 
 
-All of these programs were written in coordination by Nathan Saslavsky (zorg24), and myself respectively.
+All programs were written by Nathan Saslavsky (zorg24), and myself respectively.
